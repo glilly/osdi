@@ -1,0 +1,15 @@
+CLASS:  THYROID HORMONES
+CLASS CODE:  H03AA
+Drug:  Levothyroxine  (Levothyroxine Sodium)
+RxNorm: 40144
+ATC: H03AA01  H03AA03
+Drug:  Liothyronine sodium
+RxNorm: 142448
+ATC: H03AA02
+Drug:  Thyroxine
+RxNorm: 10582
+ATC: not found
+Drug:  Tiratricol
+RxNorm: 13982
+ATC: D11AX08  H03AA04
+

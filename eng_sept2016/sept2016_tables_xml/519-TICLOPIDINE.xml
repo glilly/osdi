@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>519-TICLOPIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICLOPIDINE" rxcui="10594">
+<ATC code="B01AC05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="1191">
+<ATC code="A01AD05" />
+<ATC code="B01AC06" />
+<ATC code="N02BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage due to addition of the platelet antiagregation action</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>519-TICLOPIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICLOPIDINE" rxcui="10594">
+<ATC code="B01AC05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations of ciclosporin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>519-TICLOPIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICLOPIDINE" rxcui="10594">
+<ATC code="B01AC05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin with signs of overdose (inhibition of the metabolism of the phenytoin)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>519-TICLOPIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICLOPIDINE" rxcui="10594">
+<ATC code="B01AC05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose (decrease of the plasma clearance of the theophylline). </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+</INTERACTIONS>

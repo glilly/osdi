@@ -1,0 +1,8 @@
+Methacycline
+
+RxNorm: 6812
+ATC: not found
+
+
+
+6812	Methacycline

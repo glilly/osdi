@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>396-OXYCODONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OXYCODONE" rxcui="7804">
+<ATC code="N02AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the undesirable effects, especially respiratory ones, of the oxycodone due to decrease of its metabolism by the fluconazole</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>396-OXYCODONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OXYCODONE" rxcui="7804">
+<ATC code="N02AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ENZYME INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the oxycodone due to increase of its metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>396-OXYCODONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OXYCODONE" rxcui="7804">
+<ATC code="N02AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the undesirable effects, especially respiratory ones, of the oxycodone due to decrease of its metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>396-OXYCODONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OXYCODONE" rxcui="7804">
+<ATC code="N02AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHN'S WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the oxycodone due to increase of its metabolism by the St Johns wort</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+</INTERACTIONS>

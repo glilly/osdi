@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>113-CARVEDILOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARVEDILOL" rxcui="20352">
+<ATC code="C07AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIMETIDINE" rxcui="2541">
+<ATC code="A02BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the cimetidine used in doses greater than or equal to 800 mg/day: increase of the concentrations of the carvedilol, which can be dangerous in the case of treatment for heart failure due to decrease of its hepatic metabolism by the cimetidine</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>113-CARVEDILOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARVEDILOL" rxcui="20352">
+<ATC code="C07AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the carvedilol, due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+</INTERACTIONS>

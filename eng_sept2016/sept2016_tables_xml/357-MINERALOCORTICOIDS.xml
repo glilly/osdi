@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>357-MINERALOCORTICOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MINERALOCORTICOIDS" code="H02AA0" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the corticoids due to increase of their hepatic metabolism by the inducer: the consequences are particularly great in patients with Addison&#146;s disease treated with the hydrocortisone and in the case of transplants.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>357-MINERALOCORTICOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MINERALOCORTICOIDS" code="H02AA0" /></DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the corticoids due to increase of their hepatic metabolism by the rifampicin; the consequences are particularly great in persons with Addison&#39;s disease treated with the hydrocortisone and in the case of transplants</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+</INTERACTIONS>

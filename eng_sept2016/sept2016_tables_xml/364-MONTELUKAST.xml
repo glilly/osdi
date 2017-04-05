@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>364-MONTELUKAST.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MONTELUKAST" rxcui="88249">
+<ATC code="R03DC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Risk of lower effectiveness of the montelukast due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>364-MONTELUKAST.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MONTELUKAST" rxcui="88249">
+<ATC code="R03DC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of lower effectiveness of the montelukast due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+</INTERACTIONS>

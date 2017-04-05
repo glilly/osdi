@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-HMG-COA-REDUCTASE-INHIBITORS-(STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS) " code="C10AA" /></DRUG1>
+<DRUG2>
+<DRUG name="FUSIDIC ACID" rxcui="4608">
+<ATC code="D06AX01" />
+<ATC code="D09AA02" />
+<ATC code="J01XC01" />
+<ATC code="S01AA13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependent) of the rhabdomyolysis type. </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-HMG-COA-REDUCTASE-INHIBITORS-(STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS) " code="C10AA" /></DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-HMG-COA-REDUCTASE-INHIBITORS-(STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS) " code="C10AA" /></DRUG1>
+<DRUG2>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable muscular effects of these substances, and especially of rhabdomyolysis</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-HMG-COA-REDUCTASE-INHIBITORS-(STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS) " code="C10AA" /></DRUG1>
+<DRUG2>
+<DRUG name="DAPTOMYCIN" rxcui="22299">
+<ATC code="J01XX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of addition of the undesirable effects (dose dependent) of the rhabdomyolysis type.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-HMG-COA-REDUCTASE-INHIBITORS-(STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS) " code="C10AA" /></DRUG1>
+<DRUG2>
+<DRUG name="ELTROMBOPAG" rxcui="711942">
+<ATC code="B02BX05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the statins, due to inhibition of their hepatic recapture</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-HMG-COA-REDUCTASE-INHIBITORS-(STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS) " code="C10AA" /></DRUG1>
+<DRUG2>
+<CLASS name="FIBRATES" code="C01AB-001" /></DRUG2>
+<DESCRIPTION>Risk of addition of undesirable effects (dose-dependent) of the rhabdomyolosis type. Furthermore, with the gemfibrozil, decrease of the metabolism of the simvastatin and of the rosuvastatin, which increases the muscular risk, as well as the nephrotoxicity of the rosuvastatin</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-HMG-COA-REDUCTASE-INHIBITORS-(STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS) " code="C10AA" /></DRUG1>
+<DRUG2>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of the statin and of its undesirable effects of the rhabdomyolosis type.</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-HMG-COA-REDUCTASE-INHIBITORS-(STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS) " code="C10AA" /></DRUG1>
+<DRUG2>
+<DRUG name="LENALIDOMIDE" rxcui="342369">
+<ATC code="L04AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of the onset of rhabdomyolysis</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+</INTERACTIONS>

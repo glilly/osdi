@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ALCOHOL (DRINK OR INGREDIENT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Possible variations of the anticoagulating effect, with increase in case of acute intoxication or decrease in case of chronic alcoholism (increased metabolism)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ALLOPURINOL" rxcui="519">
+<ATC code="M04AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage (decrease of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ALPHA-TOCOPHEROL" rxcui="11256">
+<ATC code="A11HA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the vitamin E used in doses greater than or equal to 500 mg/day: increase of the effect of the vitamin K antagonist and of the risk of hemorrhage </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="AMINOGLUTETHIMIDE" rxcui="677">
+<ATC code="L02BG01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Described for warfarin and acenocoumarol.
+
+Decrease of the effect of the vitamin K antagonist, due to increase of its hepatic metabolism by the aminoglutethimide</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ANDROGENS" code="A14AA0" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage due to direct effect on the coagulation and/or the fibrinolytic systems</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease (or, infrequently, increase with the phenytoin) of the effect of the vitamin K antagonist due to increase of its hepatic metabolism by the anticonvulsant inducer</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTIPURINES" code="ANTIPUR" /></DRUG2>
+<DESCRIPTION>Decrease of the effect of the Vitamin K antagonist due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the vitamin K antagonist due to increase of its hepatic metabolism by the aprepitant</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the effect of the vitamin K antagonist due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use </SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CEFAMANDOLE" rxcui="2178">
+<ATC code="J01DC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CEFOPERAZONE" rxcui="2184">
+<ATC code="J01DD12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CEFOTETAN" rxcui="2184">
+<ATC code="J01DC05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution of use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CEFTRIAXONE" rxcui="2193">
+<ATC code="J01DD04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CIMETIDINE" rxcui="2541">
+<ATC code="A02BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the cimetidine used in doses greater than or equal to 800mg/day: increase of the effect of the vitamin K antagonist and of the risk of hemorrhage (decrease of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CLINDAMYCIN" rxcui="2582">
+<ATC code="D10AF01" />
+<ATC code="G01AA10" />
+<ATC code="J01FF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="D06AA-J01AA" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="CYTOTOXICS" code="L01" /></DRUG2>
+<DESCRIPTION>Increase of the risk of thrombosis and hemorrhage accompanying tumors. In addition, possible interaction between the vitamin K antagonist and the chemotherapy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DANAZOL" rxcui="3102">
+<ATC code="G03XA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage due to direct effect on coagulation and/or the fibrinolytic systems.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of causing ulcers and digestive hemorrhage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DISULFIRAM" rxcui="3554">
+<ATC code="N07BB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ECONAZOLE" rxcui="3743">
+<ATC code="G01AF05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Regardless of the route of administration of the econazole:
+
+increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the effect of the vitamin K antagonist due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="FIBRATES" code="C01AB-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="FLUOROQUINOLONES" code="J01MA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="FLUOROURACIL (AND, BY EXTRAPOLATION, OTHER FLUOROPYRIMIDINES)" code="L01BC-001" /></DRUG2>
+<DESCRIPTION>Large increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="GLUCOSAMINE" rxcui="4845">
+<ATC code="M01AX05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="GRISEOFULVINE" rxcui="5021">
+<ATC code="D01BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the effect of the vitamin K antagonist due to increase of its hepatic metabolism by the griseofulvine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="UNFRACTIONATED HEPARIN (CURATIVE DOSES AND/OR OLDER PATIENT)" code="B01AB-003" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="IMATINIB" rxcui="282388">
+<ATC code="L01XE01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the Vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Variation of the effect of the vitamin K antagonist, most often by decreasing it</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="LEVOCARNITINE" rxcui="42955">
+<ATC code="A16AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="MACROLIDES (EXCEPT SPIRAMYCIN)" code="J01FA" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="METHYLPREDNISOLONE " rxcui="">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For doses of 0.5g to 1g of methylprednisolone administered in bolus: increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="MICONAZOLE " rxcui="6932">
+<ATC code="A01AB09" />
+<ATC code="A07AC01" />
+<ATC code="D01AC02" />
+<ATC code="G01AF04" />
+<ATC code="J02AB01" />
+<ATC code="S02AA13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Unpredictable hemorrhage, possibly serious</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ST JOHN'S WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the vitamin K antagonist, by reason of its enzyme inducer effect, with risk of reduction of effectiveness, even complete loss of the effect, which could have serious consequences (thrombolitic event)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="NEVIRAPINE " rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the effect of the vitamin K antagonist due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="NOSCAPINE" rxcui="7533">
+<ATC code="R05DA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="PARACETAMOL" rxcui="161">
+<ATC code="N02BE01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the effect of the vitamin K antagonist and of the risk of hemorrhage when taking paracetamol in maximal doses (4g/day) for at least 4 days</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="PENTOXIFYLLINE" rxcui="8013">
+<ATC code="C04AD03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="PRISTINAMYCIN" rxcui="66958">
+<ATC code="J01FG01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="PROGUANIL" rxcui="2382">
+<ATC code="P01BB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the effect of the vitamin K antagonist and of the risk of hemorrhage </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the anticoagulant effect and of the risk of hemorrhage. Mecanism proposed: inhibition of the metabolism of the vitamin K antagonist</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the effect of the vitamin K antagonist due to increase of its hepatic metabolism by the rifampicin. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ROPINIROLE" rxcui="72302">
+<ATC code="N04BC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="SUCRALFATE" rxcui="10156">
+<ATC code="A02BX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the vitamin K antagonist</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="SULFAFURAZOLE" rxcui="10207">
+<ATC code="S01AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="SULFAMETHIZOLE" rxcui="10179">
+<ATC code="B05CA04" />
+<ATC code="D06BA04" />
+<ATC code="J01EB02" />
+<ATC code="S01AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="SULFAMETHOXAZOLE" rxcui="10180">
+<ATC code="J01EC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large increase of the effect of the vitamin K antagonist and of the risk of hemorrhage </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TAMOXIFEN" rxcui="10324">
+<ATC code="L02BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="THROMBOLYTICS" code="B01AD" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TIBOLONE" rxcui="38260">
+<ATC code="G03CX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-VITAMIN-K;ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+</INTERACTIONS>

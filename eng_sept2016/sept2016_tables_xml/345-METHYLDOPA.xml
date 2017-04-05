@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHYLDOPA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHYLDOPA" rxcui="6876">
+<ATC code="C02AB" />
+<ATC code="C02AB01" />
+<ATC code="C02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IRON" rxcui="1431589">
+<ATC code="B03A" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the methyldopa (formation of complexes)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHYLDOPA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHYLDOPA" rxcui="6876">
+<ATC code="C02AB" />
+<ATC code="C02AB01" />
+<ATC code="C02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effects of the levodopa but equally of its undesirable effects. Increase of the antihypertensive effect of the methyldopa</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHYLDOPA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHYLDOPA" rxcui="6876">
+<ATC code="C02AB" />
+<ATC code="C02AB01" />
+<ATC code="C02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="N05AN01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of lithium which can attain toxic values, with signs of overdose of lithium</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+</INTERACTIONS>

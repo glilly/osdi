@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPRANOLOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPRANOLOL" rxcui="8787">
+<ATC code="C07AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERGOTAMINE" rxcui="4025">
+<ATC code="N02CA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism: some cases of arterial spasm with ischemia of the extremities have been observed (addition of vascular effects)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPRANOLOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPRANOLOL" rxcui="8787">
+<ATC code="C07AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of propranolol due to inhibition of its hepatic metabolism, with increase of the activity and of the undesirable effects, for example: significant bradycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPRANOLOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPRANOLOL" rxcui="8787">
+<ATC code="C07AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENOBARBITAL (AND, BY EXTRAPOLATION, PRIMIDONE)" code="N03AA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the propranolol with reduction of its clinical effects (increase of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPRANOLOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPRANOLOL" rxcui="8787">
+<ATC code="C07AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the beta-blocking agent (increase of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+</INTERACTIONS>

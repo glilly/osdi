@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ABIRATERONE" rxcui="1100072">
+<ATC code="L02BX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Significant decrease of the plasma concentrations of the abiraterone, with risk of lower effectiveness</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of afatinib due to increase of its metabolism by these substances</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ALBENDAZOLE" rxcui="430">
+<ATC code="P02CA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the albendazole and of its active metabolite by the inducer, with risk of reduction of its effectiveness. 
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="CALCIUM CHANNEL BLOCKERS" code="CO8CA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the calcium channel blocker due to increase of its hepatic metabolism 
+
+</DESCRIPTION>
+<SEVERITY>Not recommended </SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="CLASS IA ANTIARRHYTHMICS" code="C01B-002" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the antiarrhythmic, due to increase of its hepatic metabolism by the inducer. 
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Decrease (or, infrequently, increase with the phenytoin) of the effect of the vitamin K antagonist due to increase of its hepatic metabolism by the anticonvulsant inducer
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="APIXABAN" rxcui="1364430">
+<ATC code="B01AF02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decreased of the plasma concentrations of the apixaban by the anticonvulsant enzyme inducer, with risk of lower therapeutic effect.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of very large decrease of the concentrations of aprepitant</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of boceprevir
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of bosentan</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="COBICISTAT" rxcui="1306284">
+<ATC code="VO3AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the cobicistat due to increase of its metabolism by the inducer</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of dabigatran, with risk of decrease of the therapeutic effect</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of deferasirox
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DELAMANID" rxcui="1344662">
+<ATC code="J04AK06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentratioins of delamanid due to increase of its hepatic metabolism by the inducer. </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DOXYCYCLINE" rxcui="3640">
+<ATC code="A01AB22" />
+<ATC code="J01AA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the doxycycline due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the concentrations of dronedarone due to increase of its metabolism, without notable modification of the active metabolite</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="NON-CONTRACEPTIVE ESTROGENS" code="G03C-001" /></DRUG2>
+<DESCRIPTION>Decrease of the effectiveness of the estrogen 
+
+.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="FENTANYL" rxcui="4337">
+<ATC code="N01AH01" />
+<ATC code="N02AB03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of fentanyl due to increase of its hepatic metabolism by the anticonvulsant</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the corticoids due to increase of their hepatic metabolism by the inducer: the consequences are particularly great with patients who have Addison&#146;s disease treated with hydrocortisone and in cases of organ transplants</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="HALOPERIDOL" rxcui="5093">
+<ATC code="N05AD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Clinical monitoring and, if needed, dosage adjustment during the treatment with carbamazepine and after it is stopped. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="THYROID HORMONES" code="H03AA" /></DRUG2>
+<DESCRIPTION>Risk of clinically low thyroid in patients with hypothyroidism, due to increase of the metabolism of the T3 and of the T4
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="IDELALISIB" rxcui="1544460">
+<ATC code="L01XX47" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of idelalisib due to increase of its hepatic metabolism by the anticonvulsant enzyme inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the protease inhibitor due to increase of its hepatic metabolism by the inducer
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="METABOLIZED TYROSINE-KINASE INHIBITORS" code="L01XE" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the tyrosine kinase inhibitor, due to increase of its metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="IVABRADINE" rxcui="77417">
+<ATC code="C01EB17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the ivabradine, due to increase of its metabolism by the inducer
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the ledipasvir due to increase of its hepatic metabolism by the anticonvulsant enzyme inducer.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="METRONIDAZOLE" rxcui="6922">
+<ATC code="A01AB17" />
+<ATC code="D06BX01" />
+<ATC code="G01AF01" />
+<ATC code="J01XD01" />
+<ATC code="P01AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the metronidazole due to increase of its hepatic metabolism by the inducer
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentration of the midazolam by the anticonvulsant</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="MINERALOCORTICOIDS" code="H02AA0" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the corticoids due to increase of their hepatic metabolism by the inducer: the consequences are particularly great in patients with Addison&#146;s disease treated with the hydrocortisone and in the case of transplants.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="MONTELUKAST" rxcui="88249">
+<ATC code="R03DC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the montelukast due to increase of its hepatic metabolism by the inducer
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="NIMODIPINE" rxcui="7426">
+<ATC code="C08CA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the calcium channel blocker due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="PERAMPANEL" rxcui="1356552">
+<ATC code="N03AX22" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease (up to two thirds) of the concentrations of perampanel</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="POSACONAZOLE" rxcui="282446">
+<ATC code="J02AC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the posaconazole
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="PRAZIQUANTEL" rxcui="8628">
+<ATC code="P02BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of the praziquantel, with risk of failure of the treatment due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="PROCARBAZINE" rxcui="8702">
+<ATC code="L01XB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hypersensitivity reactions (hypereosinophilia, rash), due to increase of the metabolism of the procarbazine by the inducer</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the propafenone due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Precaution of use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="QUETIAPINE" rxcui="51272">
+<ATC code="N05AH04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of quetiapine due to increase of its hepatic metabolism by the inducer, with risk of ineffectiveness.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="QUININE" rxcui="">
+<ATC code="P01BC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of loss of the effectiveness of the quinine due to increase of its hepatic metabolism by the inducer. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="RANOLAZINE" rxcui="35829">
+<ATC code="C01EB18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of large decrease of the concentrations of ranolazine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="RIVAROXABAN" rxcui="1114195">
+<ATC code="B01AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of rivaroxaban, with risk of decrease of the therapeutic effect.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the anticonvulsant, with risk of overdose, due to inhibition of its hepatic metabolism by the stiripentol.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TELAPREVIR" rxcui="1102261">
+<ATC code="J05AE11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of very large decrease of the concentrations of telaprevir</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the telithromycin, with risk of failure of the antibiotic treatment due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the theophylline due to increase of its hepatic metabolism by the inducer
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TIAGABINE" rxcui="31914">
+<ATC code="N03AG06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the tiagabine due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of ticagrelor due to increase of its hepatic metabolsim by the anticonvulsant enzyme inducer, with risk of decrease of the therapeutic effect.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03XB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the ulipristal, due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN D" code="A11CC" /></DRUG2>
+<DESCRIPTION>Decrease of the concentrations of vitamin D more marked than in the absence of the inducer.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>53-ANTICONVULSANT-ENZYME-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>-for carbamazipine, phenobarbital, primidone: Risk of reduction of the effectiveness of the voriconazole due to increase of its hepatic metabolism by the inducer
+
+For phenytoin, fosphenytoin: 
+
+Large decrease of the plasma concentrations of the voriconazole with risk of loss of effectiveness, due to increase of its hepatic metabolism by the phenytoin, for one thing; and increase of the plasma concentrations of the phenytoin due to decrease of its hepatic metabolism by the voriconazole for another thing</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+</INTERACTIONS>
