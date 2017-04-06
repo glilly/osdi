@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="MAOI-B " code="N04BD0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>84</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Rasagiline" rxnorm="134748">
+<ATC code="N04BD02" />
+</DRUG>
+<DRUG name="Selegiline" rxnorm="9639">
+<ATC code="N04BD01" />
+</DRUG>
+</CLASS>

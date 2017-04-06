@@ -6,20 +6,23 @@ use Data::Dumper;
 use feature 'say';
 #main routine
 #processing groups for sept 2016 version
+my $dir = "./sept2016_classes_html/";
 my $errcnt=0;
 my @index=&read_index;
 my $i=0;
-#my $dir = "../eng_sept2016/classes_html-sept2016/";
-my $dir = "./";
-my $outdir = "/home/vista/osdi/trunk/eng_sept2016/classes_xml_sept2016/";
-my $outall = "all_eng_groups_sept2016.xml";
-open(my $OUTALL,">$outdir"."$outall") || die "can't open for output $outall\n";
+my $alldir = "./";
+my $outall = "all_eng_classes_sept2016.xml";
+open(my $OUTALL,">$alldir"."$outall") || die "can't open for output $outall\n";
 print $OUTALL "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n";
 print $OUTALL "<CLASSES>\n";
 
 while ($index[$i]) {
     print "$index[$i]\n";
-    my $htmlin = &getcontent("$dir" . "$index[$i]");
+    my $outdir = "./sept2016_classes_xml/";
+    my $clean = "tr -cd '\11\12\15\40-\176' > $dir" . "cleanfile.html < $dir" . "$index[$i]";
+    system($clean);
+    my $htmlin = &getcontent("$dir" . "cleanfile.html");
+    #my $htmlin = &getcontent("$dir" . "$index[$i]");
     my $outfile = $index[$i];
     $outfile =~ s/\.html/\.xml/;
     open(my $OUTFILE,">$outdir"."$outfile") || die "can't open for output $outfile\n";
@@ -190,7 +193,7 @@ sub oldstuff {
 }
 sub read_index {
     my @index;
-    open(INDEX,"<./index") || die "can't open index";
+    open(INDEX,"< $dir" . "index") || die "can't open index";
     @index=<INDEX>; #read the whole file
     close(INDEX);
     #say Dumper(@index);

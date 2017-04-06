@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="INSULIN" code="A10A">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>76</SOURCE_FILE>
+</SOURCE>
+<DRUG name="The names for codes do not correspond exactly with the names given in the French document for various kinds of insulin. Below are all the RxNorm and ATC codes for insulin on RxNav and the WHO ATC/DDD lists" rxnorm="5856">
+<ATC code="A10A" />
+</DRUG>
+</CLASS>

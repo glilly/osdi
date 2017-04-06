@@ -1,1 +1,1 @@
-perl ./perl/frin11.pl > process1.log
+perl ./perl/frin11.pl > process-tables-1.log
