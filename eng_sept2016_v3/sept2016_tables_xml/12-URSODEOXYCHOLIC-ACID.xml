@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>12-URSODEOXYCHOLIC-ACID.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="URSODEOXYCHOLIC ACID" rxcui="">
+<ATC code="A05AA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of variation of blood concentrations of ciclosporin</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>256-HALOFANTRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HALOFANTRINE" rxcui="50749">
+<ATC code="P01BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="D01AC15" />
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this is possible, interrupt the fluconazole. If the administration of these substances together cannot be avoided, testing beforehand of the QT and EKG monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>256-HALOFANTRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HALOFANTRINE" rxcui="50749">
+<ATC code="P01BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arryhthmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this is possible, interrupt the inhibitor. If administering these medications together cannot be avoided, testing beforehand of the QT and EKG monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>256-HALOFANTRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HALOFANTRINE" rxcui="50749">
+<ATC code="P01BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this is possible, interrupt the macrolide. If administering the substances together cannot be avoided, testing of the QT interval before the beginning of the treatment and EKG monitoring</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>256-HALOFANTRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HALOFANTRINE" rxcui="50749">
+<ATC code="P01BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>256-HALOFANTRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HALOFANTRINE" rxcui="50749">
+<ATC code="P01BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

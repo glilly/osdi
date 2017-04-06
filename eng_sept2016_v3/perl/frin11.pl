@@ -10,9 +10,9 @@ use feature 'say';
 my $interactioncount = 0;
 my $errorcount = 0;
 my $dir = "./sept2016_tables_html/";
-my $outdir = "/home/vista/osdi/trunk/eng_sept2016/";
+my $alldir = "./";
 my $outall = "all_eng_tables_sept2016.xml";
-open(my $OUTALL,">$outdir"."$outall") || die "can't open for output $outall\n";
+open(my $OUTALL,">$alldir"."$outall") || die "can't open for output $outall\n";
 print $OUTALL "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n";
 print $OUTALL "<INTERACTIONS>\n";
 
@@ -22,8 +22,11 @@ my $i=0;
 while ($index[$i]) {
     print "$index[$i]\n";
     #my $dir = "../eng_tables2015-html/";
-    $outdir = "/home/vista/osdi/trunk/eng_sept2016/sept2016_tables_xml/";
-    my $htmlin = &getcontent("$dir" . "$index[$i]");
+    my $outdir = "./sept2016_tables_xml/";
+    my $clean = "tr -cd '\11\12\15\40-\176' > $dir" . "cleanfile.html < $dir" . "$index[$i]";
+    system($clean);
+    #my $htmlin = &getcontent("$dir" . "$index[$i]");
+    my $htmlin = &getcontent("$dir" . "cleanfile.html");
     my $outfile = $index[$i];
     $outfile =~ s/\.html/\.xml/;
     open(my $OUTFILE,">$outdir"."$outfile") || die "can't open for output $outfile\n";
