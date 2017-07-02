@@ -1,30 +1,60 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<CLASS name="BETA-2 MIMETICS or BETA2 ADRENERGIC AGONISTS" code="R03C-001">
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
 <SOURCE_FILE>35</SOURCE_FILE>
 </SOURCE>
-<DRUG name="Bambuterol" rxnorm="18751">
-<ATC code="R03CC12" />
+<DRUG name="Acebutolol " rxnorm="149">
+<ATC code="C07AB04" />
 </DRUG>
-<DRUG name="Indacaterol" rxnorm="1114326">
-<ATC code="R03AC18" />
+<DRUG name="Atenolol" rxnorm="1202">
+<ATC code="C07AB03" />
 </DRUG>
-<DRUG name="Olodaterol" rxnorm="1546059">
-<ATC code="R03AC19" />
+<DRUG name="Betaxolol" rxnorm="1520">
+<ATC code="C07AB05" />
 </DRUG>
-<DRUG name="Salbutamol" rxnorm="435">
-<ATC code="R03AC02" />
-<ATC code="R03CC02" />
-<ATC code="R03AK04" />
+<DRUG name="Bisoprolol" rxnorm="19484">
+<ATC code="C07AB07" />
 </DRUG>
-<DRUG name="Terbutaline " rxnorm="10368">
-<ATC code="R03AC03" />
-<ATC code="R03CC03" />
+<DRUG name="Carteolol" rxnorm="2116">
+<ATC code="C07AA15" />
 </DRUG>
-<DRUG name="Vilanterol" rxnorm="1424884">
-<ATC code="only" />
-<ATC code="in" />
-<ATC code="combinations" />
+<DRUG name="Celiprolol" rxnorm="20498">
+<ATC code="C07AB08" />
+</DRUG>
+<DRUG name="Labetalol" rxnorm="6185">
+<ATC code="C07AG01" />
+<ATC code="C07CG01" />
+<ATC code="C07BG01" />
+</DRUG>
+<DRUG name="Levobunolol" rxnorm="1813">
+<ATC code="S01ED03" />
+</DRUG>
+<DRUG name="Metoprolol" rxnorm="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+</DRUG>
+<DRUG name="Nadolol" rxnorm="7226">
+<ATC code="C07AA12" />
+</DRUG>
+<DRUG name="Nebivolol" rxnorm="31555">
+<ATC code="C07AB12" />
+</DRUG>
+<DRUG name="Pindolol" rxnorm="8332">
+<ATC code="C07AA03" />
+</DRUG>
+<DRUG name="Propranolol" rxnorm="8787">
+<ATC code="C07AA05" />
+</DRUG>
+<DRUG name="Sotalol" rxnorm="9947">
+<ATC code="C07AA07" />
+</DRUG>
+<DRUG name="Tertatolol" rxnorm="37840">
+<ATC code="C07AA16" />
+</DRUG>
+<DRUG name="Timolol" rxnorm="10600">
+<ATC code="C07AA06" />
 </DRUG>
 </CLASS>

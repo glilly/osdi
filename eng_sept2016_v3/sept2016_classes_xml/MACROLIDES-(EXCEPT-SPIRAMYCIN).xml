@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<CLASS name="LOOP DIURETICS" code="C03CA-001">
+<CLASS name="MACROLIDES (EXCEPT SPIRAMYCIN)" code="J01FA">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
 <SOURCE_FILE>83</SOURCE_FILE>
 </SOURCE>
-<DRUG name="Bumetanide" rxnorm="1808">
-<ATC code="C03CA02" />
-<ATC code="C03CB02" />
-<ATC code="C03EB02" />
+<DRUG name="Azithromycin" rxnorm="18631">
+<ATC code="J01FA10" />
 </DRUG>
-<DRUG name="Furosemide" rxnorm="4603">
-<ATC code="C03CA01" />
-<ATC code="C03CB01" />
-<ATC code="C03EB01" />
+<DRUG name="Clarithromycin" rxnorm="21212">
+<ATC code="J01FA09" />
 </DRUG>
-<DRUG name="Piretanide" rxnorm="33770">
-<ATC code="C03CA03" />
+<DRUG name="Erythromycin" rxnorm="4053">
+<ATC code="J01FA01" />
+</DRUG>
+<DRUG name="Josamycin" rxnorm="6084">
+<ATC code="J01FA07" />
+</DRUG>
+<DRUG name="Midecamycin" rxnorm="30005">
+<ATC code="J01FA05" />
+</DRUG>
+<DRUG name="Roxithromycin" rxnorm="9478">
+<ATC code="J01FA06" />
+</DRUG>
+<DRUG name="Telithromycin" >
+<ATC code="J01FA15" />
 </DRUG>
 </CLASS>

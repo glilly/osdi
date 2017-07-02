@@ -19,7 +19,12 @@ print $OUTALL "<CLASSES>\n";
 while ($index[$i]) {
     print "$index[$i]\n";
     my $outdir = "./sept2016_classes_xml/";
-    my $clean = "tr -cd '\11\12\15\40-\176' > $dir" . "cleanfile.html < $dir" . "$index[$i]";
+    my $infile = $index[$i];
+    $infile =~ s/\(/\\\(/g ;
+    $infile =~ s/\)/\\\)/g ;
+    print $infile."\n";
+    my $clean = "tr -cd '\11\12\15\40-\176' > $dir" . "cleanfile.html < $dir" . "$infile";
+    print $clean."\n";
     system($clean);
     my $htmlin = &getcontent("$dir" . "cleanfile.html");
     #my $htmlin = &getcontent("$dir" . "$index[$i]");
@@ -33,6 +38,7 @@ while ($index[$i]) {
     close($OUTFILE);
     #die;
     $htmlin='';
+    system("rm $dir"."cleanfile.html");
     $i++;
 }
 print $OUTALL "</CLASSES>";

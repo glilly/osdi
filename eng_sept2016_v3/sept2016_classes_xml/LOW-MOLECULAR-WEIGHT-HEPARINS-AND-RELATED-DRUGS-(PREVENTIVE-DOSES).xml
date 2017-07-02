@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<CLASS name="LOOP DIURETICS" code="C03CA-001">
+<CLASS name="LOW MOLECULAR WEIGHT HEPARINS AND RELATED DRUGS (PREVENTIVE DOSES)" code="B01AB-002">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
 <SOURCE_FILE>82</SOURCE_FILE>
 </SOURCE>
-<DRUG name="Bumetanide" rxnorm="1808">
-<ATC code="C03CA02" />
-<ATC code="C03CB02" />
-<ATC code="C03EB02" />
+<DRUG name="Dalteparin sodium" rxnorm="67109">
+<ATC code="B01AB04" />
 </DRUG>
-<DRUG name="Furosemide" rxnorm="4603">
-<ATC code="C03CA01" />
-<ATC code="C03CB01" />
-<ATC code="C03EB01" />
+<DRUG name="Danaparoid sodium" rxnorm="78484">
+<ATC code="B01AB09" />
 </DRUG>
-<DRUG name="Piretanide" rxnorm="33770">
-<ATC code="C03CA03" />
+<DRUG name="Enoxaparin" rxnorm="67108">
+<ATC code="B01AB05" />
+</DRUG>
+<DRUG name="Fondaparinux" rxnorm="321208">
+<ATC code="B01AX05" />
+</DRUG>
+<DRUG name="Nadroparin " rxnorm="67031">
+<ATC code="B01AB06" />
+</DRUG>
+<DRUG name="Reviparin" rxnorm="75960">
+<ATC code="B01AB08" />
+</DRUG>
+<DRUG name="Tinzaparin" rxnorm="69646">
+<ATC code="B01AB10" />
 </DRUG>
 </CLASS>

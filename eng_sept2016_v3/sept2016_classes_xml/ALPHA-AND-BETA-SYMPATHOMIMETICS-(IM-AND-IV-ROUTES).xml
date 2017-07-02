@@ -1,45 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<CLASS name="AGONIST OPIOID ANALGESICS" code="N01A-N02A">
+<CLASS name="ALPHA AND BETA SYMPATHOMIMETICS (IM AND IV ROUTES)" code="C01CA">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
 <SOURCE_FILE>4</SOURCE_FILE>
 </SOURCE>
-<DRUG name="Alfentanil" rxnorm="480">
-<ATC code="N01AH02" />
+<DRUG name="Epinephrine is the name for Adrenaline searchable on the ATC search engine. " rxnorm="3992">
+<ATC code="A01AD01" />
+<ATC code="B02BC09" />
+<ATC code="C01CA24" />
+<ATC code="R01AA14" />
+<ATC code="R03AA01" />
+<ATC code="R03AK01" />
+<ATC code="S01EA01" />
 </DRUG>
-<DRUG name="Codeine " rxnorm="2670">
-<ATC code="R05DA04" />
+<DRUG name="Dopamine" rxnorm="3628">
+<ATC code="C01CA04" />
 </DRUG>
-<DRUG name="Dihydrocodeine" rxnorm="23088">
-<ATC code="N02AA08" />
-</DRUG>
-<DRUG name="Fentanyl" rxnorm="4337">
-<ATC code="N01AH01" />
-<ATC code="N02AB03" />
-</DRUG>
-<DRUG name="Hydromorphone " rxnorm="3423">
-<ATC code="N02AA03" />
-<ATC code="N02AG04" />
-</DRUG>
-<DRUG name="Morphine" rxnorm="7052">
-<ATC code="N02AA01" />
-</DRUG>
-<DRUG name="Oxycodone" rxnorm="7804">
-<ATC code="N02AA05" />
-</DRUG>
-<DRUG name="Pethidine" rxnorm="6754">
-<ATC code="N02AB02" />
-</DRUG>
-<DRUG name="Remifentanil" rxnorm="73032">
-<ATC code="N01AH06" />
-</DRUG>
-<DRUG name="Sufentanil" rxnorm="56795">
-<ATC code="N01AH03" />
-</DRUG>
-<DRUG name="Tapentadol " rxnorm="787390">
-<ATC code="N02AX06" />
-</DRUG>
-<DRUG name="Tramadol" rxnorm="10689">
-<ATC code="N02AX02" />
+<DRUG name="Norepinephrine is the searchable name for Noradrenaline" rxnorm="7512">
+<ATC code="C01CA03" />
 </DRUG>
 </CLASS>
