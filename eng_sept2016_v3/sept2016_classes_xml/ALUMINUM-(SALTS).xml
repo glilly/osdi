@@ -2,7 +2,8 @@
 <CLASS name="ALUMINUM (SALTS)" code="A02AD0-001">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>index[7]</SOURCE_FILE>
+<SOURCE_FILE>ALUMINUM-(SALTS).html
+</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Aluminum Hydroxide / magnesium carbonate" rxnorm="17384">
 </DRUG>
