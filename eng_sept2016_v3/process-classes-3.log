@@ -1,0 +1,6322 @@
+ACETYLCHOLINESTERASE-INHIBITORS.html
+
+ACETYLCHOLINESTERASE-INHIBITORS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ACETYLCHOLINESTERASE-INHIBITORS.html
+
+
+***CLASS***
+CLASS NAME= ACETYLCHOLINESTERASE INHIBITORS 
+CODE= NO6DA-001
+drug: Ambenonium RxNorm: 623
+ATC: N07AA30
+drug: Donepezil RxNorm: 135447
+ATC: N06DA02
+ATC: N06DA52
+drug: Galantamine RxNorm: 4637
+ATC: N06DA04
+drug: Neostigmine RxNorm: 7315
+ATC: N07AA01
+ATC: S01EB06
+drug: Pyridostigmine RxNorm: 9000
+ATC: N07AA02
+drug: Rivastigmine RxNorm: 183379
+ATC: N06DA03
+ADRENALINE-(ORAL-DENTAL-OR-SUB-CUTANEOUS).html
+
+ADRENALINE-\(ORAL-DENTAL-OR-SUB-CUTANEOUS\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ADRENALINE-\(ORAL-DENTAL-OR-SUB-CUTANEOUS\).html
+
+
+***CLASS***
+CLASS NAME= ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS) 
+CODE= A01AD
+drug: Adrenaline  RxNorm: 3992
+ATC: A01AD01
+ATC: B02BC09
+ATC: C01CA24
+AGONIST-ANTAGONIST-OPIOIDS.html
+
+AGONIST-ANTAGONIST-OPIOIDS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/AGONIST-ANTAGONIST-OPIOIDS.html
+
+
+***CLASS***
+CLASS NAME= AGONIST-ANTAGONIST OPIOIDS 
+CODE= NO2A-001
+drug: Buprenorphine RxNorm: 1819
+ATC: N02AE01
+drug: Nalbuphine RxNorm: 7238
+ATC: N02AF02
+AGONIST-OPIOID-ANALGESICS.html
+
+AGONIST-OPIOID-ANALGESICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/AGONIST-OPIOID-ANALGESICS.html
+
+
+***CLASS***
+CLASS NAME= AGONIST OPIOID ANALGESICS
+CODE= N01A-N02A
+drug: Alfentanil RxNorm: 480
+ATC: N01AH02
+drug: Codeine  RxNorm: 2670
+ATC: R05DA04
+drug: Dihydrocodeine RxNorm: 23088
+ATC: N02AA08
+drug: Fentanyl RxNorm: 4337
+ATC: N01AH01
+ATC: N02AB03
+drug: Hydromorphone  RxNorm: 3423
+ATC: N02AA03
+ATC: N02AG04
+drug: Morphine RxNorm: 7052
+ATC: N02AA01
+drug: Oxycodone RxNorm: 7804
+ATC: N02AA05
+drug: Pethidine RxNorm: 6754
+ATC: N02AB02
+drug: Remifentanil RxNorm: 73032
+ATC: N01AH06
+drug: Sufentanil RxNorm: 56795
+ATC: N01AH03
+drug: Tapentadol  RxNorm: 787390
+ATC: N02AX06
+drug: Tramadol RxNorm: 10689
+ATC: N02AX02
+ALPHA-AND-BETA-SYMPATHOMIMETICS-(IM-AND-IV-ROUTES).html
+
+ALPHA-AND-BETA-SYMPATHOMIMETICS-\(IM-AND-IV-ROUTES\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ALPHA-AND-BETA-SYMPATHOMIMETICS-\(IM-AND-IV-ROUTES\).html
+
+
+***CLASS***
+CLASS NAME= ALPHA AND BETA SYMPATHOMIMETICS (IM AND IV ROUTES)
+CODE= C01CA
+drug:  RxNorm: 3992
+drug: Dopamine RxNorm: 3628
+ATC: C01CA04
+drug:  RxNorm: 7512
+ALPHA-BLOCKERS-FOR-UROLOGICAL-USE.html
+
+ALPHA-BLOCKERS-FOR-UROLOGICAL-USE.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ALPHA-BLOCKERS-FOR-UROLOGICAL-USE.html
+
+
+***CLASS***
+CLASS NAME= ALPHA BLOCKERS FOR UROLOGICAL USE
+CODE= G04CA-001
+drug: Alfuzosin RxNorm: 17300
+ATC: G04CA01
+ATC: G04CA51
+drug: Doxazosin RxNorm: 49276
+ATC: C02CA04
+drug: Prazosin RxNorm: 8629
+ATC: C02CA01
+ATC: C02LE01
+drug: Silodosin RxNorm: 720825
+ATC: G04CA04
+drug: Tamsulosin RxNorm: 77492
+ATC: G04CA02
+ATC: G04CA52
+ATC: G04CA53
+drug: Terazosin RxNorm: 37798
+ATC: G04CA03
+ALPHA-SYMPATHOMIMETICS-(ORAL-AND-OR-NASAL).html
+
+ALPHA-SYMPATHOMIMETICS-\(ORAL-AND-OR-NASAL\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ALPHA-SYMPATHOMIMETICS-\(ORAL-AND-OR-NASAL\).html
+
+
+***CLASS***
+CLASS NAME= ALPHA-SYMPATHOMIMETICS (ORAL AND/OR NASAL)
+CODE= R01AA
+drug: Etilefrine RxNorm: 4169
+ATC: C01CA01
+drug: Midodrine RxNorm: 6963
+ATC: C01CA17
+drug: Naphazoline RxNorm: 7247
+ATC: R01AA08
+ATC: R01AB02
+ATC: S01GA01
+drug: Oxymetazoline RxNorm: 7812
+ATC: R01AA05
+ATC: R01AB07
+ATC: S01GA04
+drug: Phenylephrine RxNorm: 8163
+ATC: C01CA06
+ATC: R01AA04
+ATC: R01AB01
+ATC: R01BA03
+ATC: S01FB01
+ATC: S01GA05
+drug: Synephrine RxNorm: 10288
+drug: Tetryzoline RxNorm: 37935
+ATC: R01AA06
+ATC: R01AB03
+ATC: S01GA02
+drug: Tuaminoheptane RxNorm: 179753
+ATC: R01AA11
+ATC: R01AB08
+ALUMINUM-(SALTS).html
+
+ALUMINUM-\(SALTS\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ALUMINUM-\(SALTS\).html
+
+
+***CLASS***
+CLASS NAME= ALUMINUM (SALTS)
+CODE= A02AD0-001
+drug: Aluminum Hydroxide / magnesium carbonate RxNorm: 17384
+drug: Hydrotalcite RxNorm: 27221
+ATC: A02AD04
+drug: Magaldrate RxNorm: 29151
+ATC: A02AD02
+ATC: A02AF01
+AMINOGLYCOSIDES.html
+
+AMINOGLYCOSIDES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/AMINOGLYCOSIDES.html
+
+
+***CLASS***
+CLASS NAME= AMINOGLYCOSIDES 
+CODE= J01GB-001
+drug: Amikacin  RxNorm: 641
+ATC: D06AX12
+ATC: J01GB06
+ATC: S01AA21
+drug: Gentamicin RxNorm: 142438
+ATC: D06AX07
+ATC: J01GB03
+ATC: S01AA11
+ATC: S02AA14
+ATC: S03AA06
+drug: Isepamicin RxNorm: 51522
+ATC: J01GB11
+drug: Netilmicin RxNorm: 7337
+ATC: J01GB07
+ATC: S01AA23
+drug: Streptomycin  RxNorm: 10109
+ATC: A07AA04
+ATC: A07AA54
+ATC: J01GA
+ATC: J01GA01
+ATC: J04AM01
+ATC: S01AA15
+drug: Tobramycin RxNorm: 10627
+ATC: J01GB01
+ATC: S01AA12
+AMINOPENICILLINS.html
+
+AMINOPENICILLINS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/AMINOPENICILLINS.html
+
+
+***CLASS***
+CLASS NAME= AMINOPENICILLINS
+CODE= J01CA
+drug: Amoxicillin RxNorm: 723
+ATC: J01CA04
+ATC: J01CR02
+ATC: A02BD06
+ATC: A02BD07
+ATC: A02BD03
+ATC: A02BD05
+ATC: A02BD01
+ATC: A02BD04
+drug: Ampicillin RxNorm: 733
+ATC: J01CA01
+drug: Ticarcillin RxNorm: 10591
+ATC: J01CA13
+ATC: J01CR03
+ANDROGENS.html
+
+ANDROGENS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANDROGENS.html
+
+
+***CLASS***
+CLASS NAME= ANDROGENS
+CODE= A14AA0
+drug: Androstanolone RxNorm: 10031
+ATC: A14AA01
+ATC: G03BB02
+drug: Norethandrolone RxNorm: 7513
+ATC: A14AA09
+drug: Testosterone RxNorm: 10379
+ATC: G03BA03
+ATC: G03EA02
+ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+
+ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-\(ACE-INHIBITORS\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-\(ACE-INHIBITORS\).html
+
+
+***CLASS***
+CLASS NAME= ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)
+CODE= C09AA
+drug: Benazepril RxNorm: 18867
+ATC: C09AA07
+drug: Captopril RxNorm: 1998
+ATC: C09AA01
+drug: Cilazapril RxNorm: 21102
+ATC: C09AA08
+drug: Enalapril RxNorm: 3827
+ATC: C09AA02
+drug: Fosinopril RxNorm: 50166
+ATC: C09AA09
+drug: Lisinopril RxNorm: 29046
+ATC: C09AA03
+drug: Moexipril RxNorm: 30131
+ATC: C09AA13
+drug: Perindopril tert-butylamine RxNorm: 54552
+ATC: C09AA04
+drug: Quinapril RxNorm: 35208
+ATC: C09AA06
+drug: Ramipril RxNorm: 35296
+ATC: \C09AA05
+drug: Trandolapril RxNorm: 38454
+ATC: C09AA10
+drug: Zofenopril RxNorm: 39990
+ATC: C09AA15
+ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS-or-ANGIOTENSIN-RECEPTOR-BLOCKERS-(ARBs).html
+
+ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS-or-ANGIOTENSIN-RECEPTOR-BLOCKERS-\(ARBs\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS-or-ANGIOTENSIN-RECEPTOR-BLOCKERS-\(ARBs\).html
+
+
+***CLASS***
+CLASS NAME= ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)
+CODE= C09CA0-001
+drug: Azilsartan RxNorm: 1091643
+drug: Candesartan cilexetil RxNorm: 214354
+drug: Eprosartan RxNorm: 83515
+ATC: C09CA02
+ATC: C09DA02
+drug: Irbesartan RxNorm: 83818
+ATC: C09CA04
+drug: Losartan RxNorm: 52175
+ATC: C09CA01
+drug: Olmesartan RxNorm: 321064
+ATC: C09CA08
+drug: Telmisartan RxNorm: 73494
+ATC: C09CA07
+drug: Valsartan RxNorm: 69749
+ATC: C09CA03
+ANTABUSE-(REACTION).html
+
+ANTABUSE-\(REACTION\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTABUSE-\(REACTION\).html
+
+
+***CLASS***
+CLASS NAME= ANTABUSE (REACTION) 
+CODE= 123-ANT
+drug: Cefamandole RxNorm: 2178
+ATC: J01DC03
+drug: Disulfiram RxNorm: 3554
+ATC: N07BB01
+drug: Glibenclamide RxNorm: 4815
+ATC: A10BB01
+drug: Glipizide RxNorm: 4821
+ATC: A10BB07
+drug: Griseofulvin RxNorm: 5021
+ATC: D01AA08
+ATC: D01BA01
+drug: Ketoconazole RxNorm: 6135
+ATC: D01AC08
+ATC: G01AF11
+ATC: J02AB02
+drug: Metronidazole RxNorm: 6922
+ATC: A02BD08
+ATC: A02BD03
+ATC: A02BD02
+ATC: A01AB17
+ATC: D06BX01
+ATC: G01AF01
+ATC: J01XD01
+ATC: P01AB01
+ATC: A02BD01
+drug: Ornidazole RxNorm: 7701
+ATC: G01AF06
+ATC: J01XD03
+ATC: P01AB03
+drug: Procarbazine RxNorm: 8702
+ATC: L01XB01
+drug: Secnidazole  RxNorm: 36314
+ATC: P01AB07
+drug: Tenonitrozole RxNorm: 236186
+ATC: P01AX08
+drug: Tinidazole  RxNorm: 10612
+ATC: J01XD02
+ATC: P01AB02
+ANTIARRHYTHMIC-AGENTS.html
+
+ANTIARRHYTHMIC-AGENTS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTIARRHYTHMIC-AGENTS.html
+
+
+***CLASS***
+CLASS NAME= ANTIARRHYTHMIC AGENTS 
+CODE= C01B-001
+drug: Amiodarone RxNorm: 703
+ATC: C01BD01
+drug: Cibenzoline RxNorm: 21099
+ATC: C01BG07
+drug: Diltiazem  RxNorm: 3443
+ATC: C08DB01
+drug: Disopyramide RxNorm: 3541
+ATC: C01BA03
+drug: Dronedarone RxNorm: 233698
+ATC: C01BD07
+drug: Flecainide RxNorm: 4441
+ATC: C01BC04
+drug: Hydroquinidine RxNorm: 27220
+drug: Lidocaine RxNorm: 6387
+ATC: C01BB01
+ATC: C05AD01
+ATC: D04AB01
+ATC: N01BB02
+ATC: R02AD02
+ATC: S01HA07
+ATC: S02DA01
+drug: Mexiletine RxNorm: 6926
+ATC: C01BB02
+drug: Propafenone RxNorm: 8754
+ATC: C01BC03
+drug: Quinidine RxNorm: 9068
+ATC: C01BA01
+drug: Sotalol RxNorm: 9947
+ATC: C07AA07
+drug: Verapamil RxNorm: 11170
+ATC: C08DA01
+ANTIBACTERIAL-SULFONAMIDES.html
+
+ANTIBACTERIAL-SULFONAMIDES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTIBACTERIAL-SULFONAMIDES.html
+
+
+***CLASS***
+CLASS NAME= ANTIBACTERIAL SULFONAMIDES
+CODE= JO1E
+drug: Acetylsulfafurazol RxNorm: 
+drug: Sulfadiazine RxNorm: 10171
+ATC: J01EC02
+drug: Sulfadoxine RxNorm: 10173
+drug: Sulfafurazole  RxNorm: 10207
+ATC: J01EB05
+ATC: S01AB02
+drug: Sulfaguanidine RxNorm: 10174
+ATC: A07AB03
+drug: Sulfamethizole  RxNorm: 10179
+ATC: B05CA04
+ATC: D06BA04
+ATC: J01EB02
+ATC: S01AB01
+drug: Sulfamethoxazole RxNorm: 10180
+ATC: J01EC01
+ANTICONVULSANT-ENZYMATIC-INDUCERS.html
+
+ANTICONVULSANT-ENZYMATIC-INDUCERS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTICONVULSANT-ENZYMATIC-INDUCERS.html
+
+
+***CLASS***
+CLASS NAME= ANTICONVULSANT ENZYMATIC INDUCERS
+CODE= N03A-001
+drug: Carbamazepine RxNorm: 2002
+ATC: N03AF01
+drug: Fosphenytoin RxNorm: 72236
+ATC: N03AB05
+drug: Phenobarbital RxNorm: 8134
+ATC: N03AA02
+drug: Phenytoin RxNorm: 8183
+ATC: N03AB02
+drug: Primidone RxNorm: 8691
+ATC: N03AA03
+ANTICONVULSANT-ENZYME-INDUCERS.html
+
+ANTICONVULSANT-ENZYME-INDUCERS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTICONVULSANT-ENZYME-INDUCERS.html
+
+
+***CLASS***
+CLASS NAME= ANTICONVULSANT ENZYME INDUCERS
+CODE= N03A-001
+drug: Carbamazepine RxNorm: 2002
+ATC: N03AF01
+drug: Fosphenytoin RxNorm: 72236
+ATC: N03AB05
+drug: Phenobarbital RxNorm: 8134
+ATC: N03AA02
+drug: Phenytoin RxNorm: 8183
+ATC: N03AB02
+drug: Primidone RxNorm: 8691
+ATC: N03AA03
+ANTIEMITIC-NEUROLEPTICS.html
+
+ANTIEMITIC-NEUROLEPTICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTIEMITIC-NEUROLEPTICS.html
+
+
+***CLASS***
+CLASS NAME= ANTIEMITIC NEUROLEPTICS
+CODE= A03FA-001
+drug: Alizapride RxNorm: 17311
+ATC: A03FA05
+drug: Metoclopramide RxNorm: 6915
+ATC: A03FA01
+ANTIHYPERTENSIVE-ALPHA-BLOCKERS.html
+
+ANTIHYPERTENSIVE-ALPHA-BLOCKERS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTIHYPERTENSIVE-ALPHA-BLOCKERS.html
+
+
+***CLASS***
+CLASS NAME= ANTIHYPERTENSIVE ALPHA BLOCKERS
+CODE= C02CA0-001
+drug: Doxazosin RxNorm: 49276
+ATC: C02CA04
+drug: Prazosin RxNorm: 8629
+ATC: C02CA01
+drug: Urapidil RxNorm: 39230
+ATC: C02CA06
+ANTIHYPERTENSIVES-EXCEPT-ALPHA-BLOCKERS.html
+
+ANTIHYPERTENSIVES-EXCEPT-ALPHA-BLOCKERS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTIHYPERTENSIVES-EXCEPT-ALPHA-BLOCKERS.html
+
+
+***CLASS***
+CLASS NAME= ANTIHYPERTENSIVES EXCEPT ALPHA BLOCKERS
+CODE= C0-001
+drug: Acebutolol  RxNorm: 149
+ATC: C07AB04
+drug: Aliskiren RxNorm: 325646
+ATC: C09XA02
+drug: Altizide RxNorm: 17599
+ATC: C03EA04
+drug: Amiloride RxNorm: 644
+ATC: C03DB01
+drug: Amlodipine RxNorm: 17767
+ATC: C08CA01
+drug: Atenolol RxNorm: 1202
+ATC: C07AB03
+drug: Azilsartan RxNorm: 1091643
+ATC: C09CA09
+drug: Benazepril RxNorm: 18867
+ATC: C09AA07
+drug: Bendroflumethiazide RxNorm: 1369
+ATC: C03AA01
+drug: Betaxolol RxNorm: 1520
+ATC: C07AB05
+drug: Bisoprolol RxNorm: 19484
+ATC: C07AB07
+drug: Bumetanide RxNorm: 1808
+ATC: C03CA02
+drug: Candesartan cilexetil RxNorm: 214354
+ATC: C09CA06
+drug: Potassium canrenoate RxNorm: 618970
+ATC: C03DA02
+drug: Captopril RxNorm: 1998
+ATC: C09AA01
+drug: Carteolol RxNorm: 2116
+ATC: C07AA15
+drug: Celiprolol RxNorm: 20498
+ATC: C07AB08
+drug: Chlortalidone RxNorm: 
+ATC: C03BA04
+drug: Cicletanine RxNorm: 21914
+ATC: C03BX03
+drug: Cilazapril RxNorm: 21102
+ATC: C09AA08
+drug: Clevidipine RxNorm: 233603
+ATC: C08CA16
+drug: Clonidine RxNorm: 2599
+ATC: C02AC01
+ATC: N02CX02
+ATC: S01EA04
+drug: Clopamide RxNorm: 2603
+ATC: C03BA03
+drug: Dihydralazine RxNorm: 3409
+ATC: C02DB01
+drug: Diltiazem  RxNorm: 3443
+ATC: C08DB01
+drug: Enalapril RxNorm: 3827
+ATC: C09AA02
+drug: Eplerenone RxNorm: 298869
+ATC: C03DA04
+drug: Eprosartan RxNorm: 83515
+ATC: C09CA02
+drug: Felodipine  RxNorm: 4316
+ATC: C08CA02
+drug: Fosinopril RxNorm: 50166
+ATC: C09AA09
+drug: Furosemide RxNorm: 460
+ATC: C03CA01
+drug: Hydrochlorothiazide RxNorm: 5487
+ATC: C03AA03
+drug: Indapamide RxNorm: 5764
+ATC: C03BA11
+drug: Irbesartan RxNorm: 83818
+ATC: C09CA04
+drug: Isradipine  RxNorm: 33910
+ATC: C08CA03
+drug: Labetalol RxNorm: 6185
+ATC: C07AG01
+drug: Lacidipine  RxNorm: 28382
+ATC: C08CA09
+drug: Lercanidipine RxNorm: 135056
+ATC: C08CA13
+drug: Levobunolol RxNorm: 1813
+ATC: S01ED03
+drug: Lisinopril RxNorm: 29046
+ATC: C09AA03
+drug: Losartan RxNorm: 52175
+ATC: C09CA01
+drug: Manidipine  RxNorm: 29275
+ATC: C08CA11
+drug: Methyclothiazide RxNorm: 6860
+ATC: C03AA08
+drug: Methyldopa RxNorm: 6876
+ATC: C02AB
+ATC: C02AB01
+ATC: C02AB02
+drug: Metoprolol RxNorm: 6918
+ATC: C07AB02
+drug: Moexipril RxNorm: 30131
+ATC: C09AA13
+drug: Moxonidin RxNorm: 30257
+ATC: C02AC05
+drug: Nadolol RxNorm: 7226
+ATC: C07AA12
+drug: Nebivolol RxNorm: 31555
+ATC: C07AB12
+drug: Nicardipine RxNorm: 7396
+ATC: C08CA04
+drug: Nifedipine RxNorm: 7417
+ATC: C08CA05
+drug: Nimodipine RxNorm: 7426
+ATC: C08CA06
+drug: Nitrendipine  RxNorm: 7441
+ATC: C08CA08
+drug: Olmesartan RxNorm: 321064
+ATC: C09CA08
+drug: Perindopril tert-butylamine RxNorm: 
+drug: Pindolol RxNorm: 8332
+ATC: C07AA03
+drug: Piretanide RxNorm: 33770
+ATC: C03CA03
+drug: Propranolol RxNorm: 8787
+ATC: C07AA05
+drug: Quinapril RxNorm: 35208
+ATC: C09AA06
+drug: Ramipril RxNorm: 35296
+ATC: C09AA05
+drug: Rilmenidine RxNorm: 55679
+ATC: C02AC06
+drug: Sotalol RxNorm: 9947
+ATC: C07AA07
+drug: Spironolactone RxNorm: 9997
+ATC: C03DA01
+drug: Telmisartan RxNorm: 73494
+ATC: C09CA07
+drug: Tertatolol RxNorm: 37840
+ATC: C07AA16
+drug: Timolol RxNorm: 10600
+ATC: C07AA06
+drug: Trandolapril RxNorm: 38454
+ATC: C09AA10
+drug: Triamterene RxNorm: 10763
+drug: Valsartan RxNorm: 69749
+drug: Verapamil RxNorm: 11170
+ATC: C08DA01
+drug: Zofenopril RxNorm: 39990
+ATC: C09AA15
+ANTIHYPERTENSIVES-EXCEPT-ALPHA-LOCKERS.html
+
+ANTIHYPERTENSIVES-EXCEPT-ALPHA-LOCKERS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTIHYPERTENSIVES-EXCEPT-ALPHA-LOCKERS.html
+
+
+***CLASS***
+CLASS NAME= ANTIHYPERTENSIVES EXCEPT ALPHA BLOCKERS
+CODE= C0-001
+drug: Acebutolol  RxNorm: 149
+ATC: C07AB04
+drug: Aliskiren RxNorm: 325646
+ATC: C09XA02
+ATC: C09XA52
+ATC: C09DX02
+drug: Altizide RxNorm: 17599
+ATC: C03EA04
+drug: Amiloride RxNorm: 644
+ATC: C03DB01
+drug: Amlodipine RxNorm: 17767
+ATC: C08CA01
+ATC: C09BB04
+ATC: C09DB01
+ATC: C09DB02
+ATC: C10BX03
+ATC: C09BB03
+ATC: C09DB04
+drug: Atenolol RxNorm: 1202
+ATC: C07AB03
+drug: Azilsartan RxNorm: 1091643
+ATC: C09CA09
+drug: Benazepril RxNorm: 18867
+ATC: C09AA07
+drug: Bendroflumethiazide RxNorm: 1369
+ATC: C03AA01
+ATC: C03AB01
+ATC: C03EA13
+drug: Betaxolol RxNorm: 1520
+ATC: C07AB05
+drug: Bisoprolol RxNorm: 19484
+ATC: C07AB07
+ATC: C07AB57
+drug: Bumetanide RxNorm: 1808
+ATC: C03CA02
+ATC: C03CB02
+ATC: C03EB02
+drug: Candesartan cilexetil RxNorm: 214354
+ATC: C09CA06
+drug: Potassium canrenoate RxNorm: 618970
+ATC: C03DA02
+drug: Captopril RxNorm: 1998
+ATC: C09AA01
+drug: Carteolol RxNorm: 2116
+ATC: C07AA15
+drug: Celiprolol RxNorm: 20498
+ATC: C07AB08
+drug: Chlortalidone RxNorm: 
+ATC: C03BA04
+ATC: C03BB04
+ATC: C03EA06
+drug: Cicletanine RxNorm: 21914
+ATC: C03BX03
+drug: Cilazapril RxNorm: 21102
+ATC: C09AA08
+ATC: C09BA08
+drug: Clevidipine RxNorm: 233603
+ATC: C08CA16
+drug: Clonidine RxNorm: 2599
+ATC: C02AC01
+ATC: N02CX02
+ATC: S01EA04
+ATC: C02LC01
+ATC: C02LC51
+drug: Clopamide RxNorm: 2603
+ATC: C03BA03
+ATC: C03BB03
+drug: Dihydralazine RxNorm: 3409
+ATC: C02DB01
+ATC: C02LG01
+ATC: C02LG51
+drug: Diltiazem  RxNorm: 3443
+ATC: C08DB01
+drug: Enalapril RxNorm: 3827
+ATC: C09AA02
+ATC: C09BA02
+ATC: C09BB02
+ATC: C09BB06
+drug: Eplerenone RxNorm: 298869
+ATC: C03DA04
+drug: Eprosartan RxNorm: 83515
+ATC: C09CA02
+ATC: C09DA02
+drug: Felodipine  RxNorm: 4316
+ATC: C08CA02
+ATC: C09BB05
+drug: Fosinopril RxNorm: 50166
+ATC: C09AA09
+ATC: C09BA09
+drug: Furosemide RxNorm: 460
+ATC: C03CA01
+ATC: C03CB01
+ATC: C03EB01
+drug: Hydrochlorothiazide RxNorm: 5487
+ATC: C09XA52
+ATC: C09XA54
+ATC: C03AA03
+ATC: C03AB03
+ATC: C03EA01
+ATC: C03AX01
+ATC: C09DX03
+drug: Indapamide RxNorm: 5764
+ATC: C03BA11
+drug: Irbesartan RxNorm: 83818
+ATC: C09CA04
+ATC: C09DB05
+ATC: C09DA04
+drug: Isradipine  RxNorm: 33910
+ATC: C08CA03
+drug: Labetalol RxNorm: 6185
+ATC: C07AG01
+ATC: C07CG01
+ATC: C07BG01
+drug: Lacidipine  RxNorm: 28382
+ATC: C08CA09
+drug: Lercanidipine RxNorm: 135056
+ATC: C09BB02
+ATC: C08CA13
+drug: Levobunolol RxNorm: 1813
+ATC: S01ED03
+drug: Lisinopril RxNorm: 29046
+ATC: C09AA03
+drug: Losartan RxNorm: 52175
+ATC: C09CA01
+ATC: C09DB06
+ATC: C09DA01
+drug: Manidipine  RxNorm: 29275
+ATC: C09BB12
+ATC: C08CA11
+drug: Methyclothiazide RxNorm: 6860
+ATC: C03AA08
+ATC: C03AB08
+drug: Methyldopa RxNorm: 6876
+ATC: C02AB
+ATC: C02LB
+ATC: C02AB01
+ATC: C02LB01
+ATC: C02AB02
+drug: Metoprolol RxNorm: 6918
+ATC: C07AB02
+ATC: C07FB02
+ATC: C07CB02
+ATC: C07BB02
+ATC: C07BB52
+ATC: C07AB52
+drug: Moexipril RxNorm: 30131
+ATC: C09AA13
+drug: Moxonidin RxNorm: 30257
+ATC: C02AC05
+ATC: C02LC05
+drug: Nadolol RxNorm: 7226
+ATC: C07AA12
+drug: Nebivolol RxNorm: 31555
+ATC: C07AB12
+drug: Nicardipine RxNorm: 7396
+ATC: C08CA04
+drug: Nifedipine RxNorm: 7417
+ATC: C08CA05
+drug: Nimodipine RxNorm: 7426
+ATC: C08CA06
+drug: Nitrendipine  RxNorm: 7441
+ATC: C09BB06
+ATC: C08CA08
+drug: Olmesartan RxNorm: 321064
+ATC: C09CA08
+ATC: C09DB02
+ATC: C09DA08
+ATC: C09DX03
+drug: Perindopril tert-butylamine RxNorm: 
+drug: Pindolol RxNorm: 8332
+ATC: C07AA03
+drug: Piretanide RxNorm: 33770
+ATC: C03CA03
+drug: Propranolol RxNorm: 8787
+ATC: C07AA05
+drug: Quinapril RxNorm: 35208
+ATC: C09AA06
+drug: Ramipril RxNorm: 35296
+ATC: C09AA05
+drug: Rilmenidine RxNorm: 55679
+ATC: C02AC06
+drug: Sotalol RxNorm: 9947
+ATC: C07AA07
+drug: Spironolactone RxNorm: 9997
+ATC: C03DA01
+drug: Telmisartan RxNorm: 73494
+ATC: C09CA07
+ATC: C09DB04
+ATC: C09DA07
+drug: Tertatolol RxNorm: 37840
+ATC: C07AA16
+drug: Timolol RxNorm: 10600
+ATC: C07AA06
+drug: Trandolapril RxNorm: 38454
+ATC: C09AA10
+drug: Triamterene RxNorm: 10763
+drug: Valsartan RxNorm: 69749
+drug: Verapamil RxNorm: 11170
+ATC: C09BB10
+ATC: C08DA01
+ATC: C08DA51
+drug: Zofenopril RxNorm: 39990
+ATC: C09AA15
+ATC: C09BA15
+ANTI-LYMPHOCYTE-GLOBULINS.html
+
+ANTI-LYMPHOCYTE-GLOBULINS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTI-LYMPHOCYTE-GLOBULINS.html
+
+
+***CLASS***
+CLASS NAME= ANTI-LYMPHOCYTE GLOBULINS
+CODE= L04AA0-001
+drug: Antilymphocyte immunoglobulin (rabbit)  RxNorm: 1429944
+ATC: L04AA04
+drug: Antilymphocyte immunoglobulin (horse) RxNorm: 1431182
+ATC: L04AA03
+ANTIPARASITICS-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+
+ANTIPARASITICS-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTIPARASITICS-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+
+
+***CLASS***
+CLASS NAME= ANTIPARASITICS THAT TEND TO INDUCE TORSADES DE POINTES
+CODE= P01B-001
+drug: Chloroquin RxNorm: 2393
+ATC: P01BA01
+drug: Halofantrine RxNorm: 50749
+ATC: P01BX01
+drug: Lumefantrine RxNorm: 847728
+ATC: P01BF01
+drug: Pentamidine RxNorm: 7994
+ATC: P01CX01
+ANTIPARKINSONIAN-ANTICHOLINERGICS.html
+
+ANTIPARKINSONIAN-ANTICHOLINERGICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTIPARKINSONIAN-ANTICHOLINERGICS.html
+
+
+***CLASS***
+CLASS NAME= ANTIPARKINSONIAN ANTICHOLINERGICS
+CODE= N04AA-001
+drug: Biperiden RxNorm: 1589
+ATC: N04AA02
+drug: Trihexyphenidyl RxNorm: 10811
+ATC: N04AA01
+drug: Tropatepine RxNorm: 38876
+ATC: N04AA12
+ANTIPARKINSONIAN-DOPAMINERGICS.html
+
+ANTIPARKINSONIAN-DOPAMINERGICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTIPARKINSONIAN-DOPAMINERGICS.html
+
+
+***CLASS***
+CLASS NAME= ANTIPARKINSONIAN DOPAMINERGICS
+CODE= N04B-001
+drug: Amantadine  RxNorm: 620
+ATC: N04BB01
+drug: Apomorphine RxNorm: 1043
+ATC: G04BE07
+ATC: N04BC0
+drug: Bromocriptine  RxNorm: 1760
+ATC: G02CB01
+ATC: N04BC01
+drug: Entacapone  RxNorm: 60307
+ATC: N04BX02
+drug: Lisuride RxNorm: 6446
+ATC: G02CB02
+ATC: N02CA07
+drug: Pergolide RxNorm: 8047
+ATC: N04BC02
+drug: Piribedil  RxNorm: 8353
+ATC: N04BC08
+drug: Pramipexole RxNorm: 746741
+ATC: N04BC05
+drug: Rasagiline  RxNorm: 134748
+ATC: N04BD02
+drug: Ropinirole  RxNorm: 72302
+ATC: N04BC04
+drug: Rotigotine RxNorm: 616739
+ATC: N04BC09
+drug: Selegiline RxNorm: 9639
+ATC: N04BD01
+drug: Tolcapone RxNorm: 72937
+ATC: N04BX01
+ANTIPSYCHOTIC-NEUROLEPTICS-(EXCEPT-CLOZAPINE).html
+
+ANTIPSYCHOTIC-NEUROLEPTICS-\(EXCEPT-CLOZAPINE\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTIPSYCHOTIC-NEUROLEPTICS-\(EXCEPT-CLOZAPINE\).html
+
+
+***CLASS***
+CLASS NAME= ANTIPSYCHOTIC NEUROLEPTICS (EXCEPT CLOZAPINE)
+CODE= N05A-001
+drug: Amisulpride RxNorm: 46303
+ATC: N05AL05
+drug: Aripiprazole RxNorm: 89013
+ATC: N05AX12
+drug: Asenapine RxNorm: 784649
+ATC: N05AH05
+drug: Chlorpromazine  RxNorm: 2403
+ATC: N05AA01
+drug: Cyamemazine RxNorm: 21877
+ATC: N05AA06
+drug: Droperidol RxNorm: 3648
+ATC: N05AD08
+drug: Flupentixol RxNorm: 4495
+ATC: N05AF01
+drug: Fluphenazine RxNorm: 4496
+ATC: N05AB02
+drug: Haloperidol RxNorm: 5093
+ATC: N05AD01
+drug: Levomepromazine RxNorm: 6852
+ATC: N05AA02
+drug: Loxapine RxNorm: 6475
+ATC: N05AH01
+drug: Olanzapine  RxNorm: 61381
+ATC: N05AH03
+drug: Paliperidone RxNorm: 679314
+ATC: N05AX13
+drug: Penfluridol RxNorm: 7974
+ATC: N05AG03
+drug: Pimozide RxNorm: 8331
+ATC: N05AG02
+drug: Pipamperone RxNorm: 33739
+ATC: N05AD05
+drug: Pipotiazine RxNorm: 8348
+ATC: N05AC04
+drug: Propericiazine RxNorm: 8766
+drug: Quetiapine  RxNorm: 51272
+ATC: N05AH04
+drug: Risperidone  RxNorm: 35636
+ATC: N05AX08
+drug: Sulpiride RxNorm: 10239
+ATC: N05AL01
+drug: Tiapride RxNorm: 10588
+ATC: N05AL03
+drug: Zuclopenthixol RxNorm: 114176
+ATC: N05AF05
+ANTIPURINES.html
+
+ANTIPURINES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTIPURINES.html
+
+
+***CLASS***
+CLASS NAME= ANTIPURINES
+CODE= ANTIPUR
+drug: Azathioprine  RxNorm: 1256
+ATC: L04AX01
+drug: Mercaptopurine  RxNorm: 103
+ATC: L01BB02
+ANTI-TNF-ALPHA.html
+
+ANTI-TNF-ALPHA.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ANTI-TNF-ALPHA.html
+
+
+***CLASS***
+CLASS NAME= ANTI-TNF ALPHA
+CODE= 4ABO
+drug: Adalimumab RxNorm: 327361
+ATC: L04AB04
+drug: Certolizumab pegol RxNorm: 709271
+ATC: L04AB05
+drug: Etanercept  RxNorm: 214555
+ATC: L04AB01
+drug: Golimumab RxNorm: 819300
+ATC: L04AB06
+drug: Infliximab RxNorm: 191831
+ATC: L04AB02
+ATROPINIC-MEDICATIONS.html
+
+ATROPINIC-MEDICATIONS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ATROPINIC-MEDICATIONS.html
+
+
+***CLASS***
+CLASS NAME= ATROPINIC MEDICATIONS
+CODE= R06AA
+drug: Alimemazine RxNorm: 10825
+ATC: R06AD01
+drug: Amitriptyline RxNorm: 704
+ATC: N06AA09
+ATC: N06CA01
+drug: Amoxapine RxNorm: 722
+drug: Atropine RxNorm: 1223
+ATC: A03BA01
+ATC: S01FA01
+ATC: A03CB03
+drug: Azelastine RxNorm: 18603
+ATC: R01AC03
+ATC: R06AX19
+ATC: S01GX07
+drug: Biperiden RxNorm: 1589
+ATC: N04AA02
+drug: Brompheniramine RxNorm: 1767
+ATC: R06AB01
+ATC: R06AB5
+drug: Chlorphenamine RxNorm: 2400
+ATC: R06AB04
+drug: Chlorpromazine  RxNorm: 2403
+ATC: N05AA01
+drug: Clidinium RxNorm: 1429809
+ATC: A03CA02
+drug: Clomipramine RxNorm: 2597
+ATC: N06AA04
+drug: Clozapine  RxNorm: 2626
+ATC: N05AH02
+drug: Cyamemazine RxNorm: 21877
+ATC: N05AA06
+drug: Cyclopentolate RxNorm: 3001
+ATC: S01FA04
+drug: Cyproheptadine  RxNorm: 3013
+ATC: R06AX02
+drug: Darifenacin  RxNorm: 136198
+ATC: G04BD10
+drug: Dexchlorpheniramine RxNorm: 22697
+ATC: R06AB02
+drug: Diphenhydramine diacefylline RxNorm: 
+drug: Dimenhydrinate RxNorm: 3444
+drug: Diphenhydramine RxNorm: 3498
+ATC: D04AA32
+ATC: R06AA02
+drug: Disopyramide  RxNorm: 3541
+ATC: C01BA03
+drug: Dosulepin RxNorm: 3634
+ATC: N06AA16
+drug: Doxepin RxNorm: 3638
+ATC: N06AA12
+drug: Doxylamine RxNorm: 3642
+ATC: R06AA09
+drug: Fesoterodine  RxNorm: 797195
+ATC: G04BD11
+drug: Flunarizine RxNorm: 4459
+ATC: N07CA03
+drug: Flupentixol RxNorm: 4495
+ATC: N05AF01
+drug: Fluphenazine RxNorm: 4496
+ATC: N05AB02
+drug: Glycopyrronium RxNorm: 1546438
+ATC: as
+ATC: glycopyrronium
+ATC: bromide
+drug: Homatropine RxNorm: 27084
+ATC: S01FA05
+drug: Hydroxyzine RxNorm: 5553
+ATC: N05BB01
+drug: Imipramine RxNorm: 5691
+ATC: N06AA02
+drug: Ipratropium RxNorm: 7213
+drug: Isothipendyl RxNorm: 28012
+ATC: D04AA22
+ATC: R06AD09
+drug: Levomepromazine RxNorm: 6852
+ATC: N05AA02
+drug: Loxapine RxNorm: 6475
+ATC: N05AH01
+drug: Maprotiline RxNorm: 6646
+ATC: N06AA21
+drug: Meclozine RxNorm: 6676
+ATC: R06AE05
+drug: Mepyramine RxNorm: 9009
+ATC: D04AA02
+ATC: R06AC01
+drug: Mequitazine  RxNorm: 29528
+ATC: R06AD07
+drug: Metopimazine RxNorm: 29954
+ATC: A04AD05
+drug: Nefopam RxNorm: 7285
+ATC: N02BG06
+drug: Oxomemazine RxNorm: 234528
+ATC: R06AD08
+drug: Oxybutynin RxNorm: 32675
+ATC: G04BD04
+drug: Pheniramine RxNorm: 8132
+ATC: R06AB05
+drug: Phenyltoloxamine RxNorm: 33408
+drug: Pimethixene RxNorm: 33712
+ATC: R06AX23
+drug: Pipotiazine RxNorm: 8348
+ATC: N05AC04
+drug: Pizotifen RxNorm: 8373
+ATC: N02CX01
+drug: Promethazine RxNorm: 8745
+ATC: D04AA10
+ATC: R06AD02
+drug: Propericiazine RxNorm: 8766
+ATC: N05AC01
+drug: Quetiapine RxNorm: 51272
+ATC: N05AH04
+drug: Quinidine RxNorm: 9068
+ATC: C01BA01
+drug: Scopolamine RxNorm: 9601
+ATC: A04AD01
+ATC: N05CM05
+ATC: S01FA02
+drug: Solifenacin  RxNorm: 322167
+ATC: G04BD08
+drug: Tolterodine  RxNorm: 
+ATC: G04BD07
+drug: Trihexyphenidyl RxNorm: 10811
+ATC: N04AA01
+drug: Trimipramine RxNorm: 10834
+ATC: N06AA06
+drug: Triprolidine RxNorm: 10849
+ATC: R06AX07
+drug: Tropatepine RxNorm: 38876
+ATC: N04AA12
+drug: Tropicamide RxNorm: 10869
+ATC: S01FA06
+drug: Trospium RxNorm: 236778
+ATC: G04BD09
+ATC: A03DA06
+drug: Zuclopenthixol RxNorm: 114176
+ATC: N05AF05
+ATTENUATED-LIVE-VIRUS-VACCINES.html
+
+ATTENUATED-LIVE-VIRUS-VACCINES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ATTENUATED-LIVE-VIRUS-VACCINES.html
+
+
+***CLASS***
+CLASS NAME= ATTENUATED LIVE VIRUS VACCINES
+CODE= J07B-001
+drug: BCG Vaccine RxNorm: 1344
+ATC: L03AX03
+drug: Rotavirus Vaccine, Live Attenuated RxNorm: 805573
+ATC: J07BH01
+drug: Yellow Fever Vaccine RxNorm: 89890
+ATC: J07BL
+ATC: J07BL01
+drug: Measles vaccine RxNorm: 235574
+ATC: J07BD
+ATC: J07BD01
+drug: Mumps vaccine RxNorm: 68487
+ATC: J07BE
+ATC: J07BE01
+drug: Rubella vaccine RxNorm: 9486
+ATC: J07BJ
+ATC: J07BJ01
+drug: Varicella-Zoster Virus RxNorm: 11131
+ATC: J07BK01
+drug: Live Attenuated Influenza Vaccine [LAIV]  RxNorm: 
+ATC: J07BB03
+BARBITURATES.html
+
+BARBITURATES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/BARBITURATES.html
+
+
+***CLASS***
+CLASS NAME= BARBITURATES
+CODE= N05CA-001
+drug: Phenobarbital RxNorm: 8134
+ATC: N03AA02
+drug: Primidone RxNorm: 8691
+ATC: N03AA03
+drug: Thiopental RxNorm: 10493
+ATC: N01AF03
+ATC: N05CA19
+BENZODIAZEPINES-AND-RELATED.html
+
+BENZODIAZEPINES-AND-RELATED.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/BENZODIAZEPINES-AND-RELATED.html
+
+
+***CLASS***
+CLASS NAME= BENZODIAZEPINES AND RELATED
+CODE= N05-001
+drug: Alprazolam RxNorm: 596
+ATC: N05BA12
+drug: Avizafone RxNorm: 
+drug: Bromazepam RxNorm: 1749
+ATC: N05BA08
+drug: Chlordiazepoxide RxNorm: 2356
+ATC: N05BA02
+drug: Clobazam RxNorm: 21241
+ATC: N05BA09
+drug: Clonazepam RxNorm: 2598
+ATC: N03AE01
+drug: Clorazepate RxNorm: 2353
+ATC: N05BA05
+drug: Clotiazepam RxNorm: 2622
+ATC: N05BA21
+drug: Diazepam RxNorm: 3322
+ATC: N05BA01
+drug: Estazolam RxNorm: 4077
+ATC: N05CD04
+drug: Flunitrazepam RxNorm: 4460
+ATC: N05CD03
+drug: Flurazepam RxNorm: 4501
+ATC: N05CD01
+drug: Loflazepate RxNorm: 24524
+ATC: N05BA18
+drug: Loprazolam RxNorm: 38555
+ATC: N05CD11
+drug: Lorazepam RxNorm: 6470
+ATC: N05BA06
+ATC: N05BA56
+drug: Lormetazepam RxNorm: 28894
+ATC: N05CD06
+drug: Midazolam RxNorm: 6960
+ATC: N05CD08
+drug: Nitrazepam RxNorm: 7440
+ATC: N05CD02
+drug: Nordazepam RxNorm: 3155
+ATC: N05BA16
+drug: Oxazepam RxNorm: 7781
+ATC: N05BA04
+drug: Prazepam RxNorm: 8627
+ATC: N05BA11
+drug: Tetrazepam RxNorm: 37985
+ATC: M03BX07
+drug: Zolpidem RxNorm: 39993
+drug: Zopiclone RxNorm: 40001
+ATC: N05CF01
+BETA-2-MIMETICS-or-BETA2-ADRENERGIC-AGONISTS.html
+
+BETA-2-MIMETICS-or-BETA2-ADRENERGIC-AGONISTS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/BETA-2-MIMETICS-or-BETA2-ADRENERGIC-AGONISTS.html
+
+
+***CLASS***
+CLASS NAME= BETA-2 MIMETICS or BETA2 ADRENERGIC AGONISTS
+CODE= R03C-001
+drug: Bambuterol RxNorm: 18751
+ATC: R03CC12
+drug: Indacaterol RxNorm: 1114326
+ATC: R03AC18
+drug: Olodaterol RxNorm: 1546059
+ATC: R03AC19
+drug: Salbutamol RxNorm: 435
+ATC: R03AC02
+ATC: R03CC02
+ATC: R03AK04
+drug: Terbutaline  RxNorm: 10368
+ATC: R03AC03
+ATC: R03CC03
+drug: Vilanterol RxNorm: 1424884
+BETA-BLOCKING-AGENTS-(EXCEPT-ESMOLOL-AND-SOTALOL).html
+
+BETA-BLOCKING-AGENTS-\(EXCEPT-ESMOLOL-AND-SOTALOL\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/BETA-BLOCKING-AGENTS-\(EXCEPT-ESMOLOL-AND-SOTALOL\).html
+
+
+***CLASS***
+CLASS NAME= BETA BLOCKING AGENTS (EXCEPT ESMOLOL AND SOTALOL)
+CODE= C07AB-001
+drug: Acebutolol  RxNorm: 149
+ATC: C07AB04
+drug: Atenolol RxNorm: 1202
+ATC: C07AB03
+drug: Betaxolol RxNorm: 1520
+ATC: C07AB05
+drug: Bisoprolol RxNorm: 19484
+ATC: C07AB07
+drug: Carteolol RxNorm: 2116
+ATC: C07AA15
+drug: Celiprolol RxNorm: 20498
+ATC: C07AB08
+drug: Labetalol RxNorm: 6185
+ATC: C07AG01
+ATC: C07CG01
+ATC: C07BG01
+drug: Levobunolol RxNorm: 1813
+ATC: S01ED03
+drug: Metoprolol RxNorm: 6918
+ATC: C07AB02
+ATC: C07FB02
+ATC: C07CB02
+ATC: C07BB02
+drug: Nadolol RxNorm: 7226
+ATC: C07AA12
+drug: Nebivolol RxNorm: 31555
+ATC: C07AB12
+drug: Pindolol RxNorm: 8332
+ATC: C07AA03
+drug: Propranolol RxNorm: 8787
+ATC: C07AA05
+drug: Tertatolol RxNorm: 37840
+ATC: C07AA16
+drug: Timolol RxNorm: 10600
+ATC: C07AA06
+BETA-BLOCKING-AGENTS-(EXCEPT-ESMOLOL).html
+
+BETA-BLOCKING-AGENTS-\(EXCEPT-ESMOLOL\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/BETA-BLOCKING-AGENTS-\(EXCEPT-ESMOLOL\).html
+
+
+***CLASS***
+CLASS NAME= BETA BLOCKING AGENTS (EXCEPT ESMOLOL)
+CODE= C07AB-002
+drug: Acebutolol  RxNorm: 149
+ATC: C07AB04
+drug: Atenolol RxNorm: 1202
+ATC: C07AB03
+drug: Betaxolol RxNorm: 1520
+ATC: C07AB05
+drug: Bisoprolol RxNorm: 19484
+ATC: C07AB07
+drug: Carteolol RxNorm: 2116
+ATC: C07AA15
+drug: Celiprolol RxNorm: 20498
+ATC: C07AB08
+drug: Labetalol RxNorm: 6185
+ATC: C07AG01
+ATC: C07CG01
+ATC: C07BG01
+drug: Levobunolol RxNorm: 1813
+ATC: S01ED03
+drug: Metoprolol RxNorm: 6918
+ATC: C07AB02
+ATC: C07FB02
+ATC: C07CB02
+ATC: C07BB02
+drug: Nadolol RxNorm: 7226
+ATC: C07AA12
+drug: Nebivolol RxNorm: 31555
+ATC: C07AB12
+drug: Pindolol RxNorm: 8332
+ATC: C07AA03
+drug: Propranolol RxNorm: 8787
+ATC: C07AA05
+drug: Sotalol RxNorm: 9947
+ATC: C07AA07
+drug: Tertatolol RxNorm: 37840
+ATC: C07AA16
+drug: Timolol RxNorm: 10600
+ATC: C07AA06
+BETA-BLOCKING-AGENTS-IN-HEART-FAILURE.html
+
+BETA-BLOCKING-AGENTS-IN-HEART-FAILURE.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/BETA-BLOCKING-AGENTS-IN-HEART-FAILURE.html
+
+
+***CLASS***
+CLASS NAME= BETA-BLOCKING AGENTS IN HEART FAILURE
+CODE= C07AB-003
+drug: Bisoprolol RxNorm: 19484
+ATC: C07AB07
+drug: Carvedilol RxNorm: 20352
+ATC: C07AG02
+drug: Metoprolol RxNorm: 6918
+ATC: C07AB02
+ATC: C07FB02
+ATC: C07CB02
+ATC: C07BB02
+drug: Nebivolol RxNorm: 31555
+ATC: C07AB12
+BISPHOSPHONATES.html
+
+BISPHOSPHONATES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/BISPHOSPHONATES.html
+
+
+***CLASS***
+CLASS NAME= BISPHOSPHONATES
+CODE= M05B-001
+drug: Alendronic acid RxNorm: 236083
+ATC: M05BA04
+ATC: M05BB06
+ATC: M05BB03
+ATC: M05BB05
+drug: Clodronic acid RxNorm: 3350
+ATC: M05BA02
+drug: Etidronic acid RxNorm: 1356715
+ATC: M05BB01
+drug: Ibandronic acid RxNorm: 115265
+ATC: M05BA06
+drug: Oxidronic acid RxNorm: 1546448
+drug: Pamidronic acid RxNorm: 11473
+ATC: M05BA03
+drug: Risedronic acid RxNorm: 55685
+ATC: M05BA07
+ATC: M05BB02
+ATC: M05BB04
+drug: Tiludronic acid RxNorm: 11476
+ATC: M05BA05
+drug: Zoledronic acid RxNorm: 77655
+ATC: M05BA08
+BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+
+BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+
+
+***CLASS***
+CLASS NAME= BLOOD GLUCOSE LOWERING SULFONAMIDES
+CODE= A10BB
+drug: Glibenclamide RxNorm: 4815
+ATC: A10BB01
+drug: Gliclazide RxNorm: 4816
+ATC: A10BB09
+drug: Glimepiride RxNorm: 25789
+ATC: A10BB12
+drug: Glipizide RxNorm: 4821
+ATC: A10BB07
+BRADYCARDIA-INDUCING-DRUGS.html
+
+BRADYCARDIA-INDUCING-DRUGS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/BRADYCARDIA-INDUCING-DRUGS.html
+
+
+***CLASS***
+CLASS NAME= BRADYCARDIA INDUCING DRUGS
+CODE= C0N0S0
+drug: Acebutolol  RxNorm: 149
+ATC: C07AB04
+drug: Ambenonium RxNorm: 623
+ATC: N07AA30
+drug: Amiodarone RxNorm: 703
+ATC: C01BD01
+drug: Atenolol RxNorm: 1202
+ATC: C07AB03
+drug: Betaxolol RxNorm: 1520
+ATC: C07AB05
+drug: Bisoprolol RxNorm: 19484
+ATC: C07AB07
+drug: Carteolol RxNorm: 2116
+ATC: C07AA15
+drug: Carvedilol RxNorm: 20352
+ATC: C07AG02
+drug: Celiprolol RxNorm: 20498
+ATC: C07AB08
+drug: Clonidine RxNorm: 2599
+ATC: C02AC01
+ATC: N02CX02
+ATC: S01EA04
+ATC: C02LC01
+ATC: C02LC51
+drug: Crizotinib RxNorm: 1148495
+ATC: L01XE16
+drug: Digoxin RxNorm: 3407
+ATC: C01AA05
+drug: Diltiazem  RxNorm: 3443
+ATC: C08DB01
+drug: Disopyramide RxNorm: 3541
+ATC: C01BA03
+drug: Donepezil RxNorm: 135447
+ATC: N06DA02
+ATC: N06DA52
+drug: Dronedarone RxNorm: 233698
+ATC: C01BD07
+drug: Esmolol  RxNorm: 49737
+ATC: C07AB09
+drug: Fampridine RxNorm: 897018
+ATC: N07XX07
+drug: Fingolimod RxNorm: 1012892
+ATC: L04AA27
+drug: Galantamine RxNorm: 4637
+ATC: N06DA04
+drug: Hydroquinidine RxNorm: 27220
+drug: Ivabradine  RxNorm: 77417
+ATC: C01EB17
+drug: Labetalol RxNorm: 6185
+ATC: C07AG01
+ATC: C07CG01
+ATC: C07BG01
+drug: Levobunolol RxNorm: 1813
+ATC: S01ED03
+drug: Mefloquine RxNorm: 6694
+ATC: P01BF02
+ATC: P01BC02
+drug: Metoprolol RxNorm: 6918
+ATC: C07AB02
+ATC: C07FB02
+ATC: C07CB02
+ATC: C07BB02
+drug: Midodrine RxNorm: 6963
+ATC: C01CA17
+drug: Nadolol RxNorm: 7226
+ATC: C07AA12
+drug: Nebivolol RxNorm: 31555
+ATC: C07AB12
+drug: Neostigmine RxNorm: 7315
+ATC: N07AA01
+ATC: S01EB06
+drug: Pasireotide RxNorm: 1364105
+ATC: H01CB05
+drug: Pilocarpine RxNorm: 8328
+ATC: N07AX01
+ATC: S01EB51
+drug: Pindolol RxNorm: 8332
+ATC: C07AA03
+drug: Propranolol RxNorm: 8787
+ATC: C07AA05
+drug: Pyridostigmine RxNorm: 9000
+ATC: N07AA02
+drug: Quinidine RxNorm: 9068
+ATC: C01BA01
+drug: Rivastigmine RxNorm: 183379
+ATC: N06DA03
+drug: Sotalol RxNorm: 9947
+ATC: C07AA07
+drug: Tertatolol RxNorm: 37840
+ATC: C07AA16
+drug: Thalidomide RxNorm: 10432
+ATC: L04AX02
+drug: Timolol RxNorm: 10600
+ATC: C07AA06
+drug: Verapamil RxNorm: 11170
+ATC: C09BB10
+ATC: C08DA01
+CALCIUM-CHANNEL-BLOCKERS.html
+
+CALCIUM-CHANNEL-BLOCKERS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/CALCIUM-CHANNEL-BLOCKERS.html
+
+
+***CLASS***
+CLASS NAME= CALCIUM CHANNEL BLOCKERS 
+CODE= CO8CA-001
+drug: Amlodipine RxNorm: 17767
+ATC: C08CA01
+drug: Clevidipine RxNorm: 233603
+ATC: C08CA16
+drug: Diltiazem  RxNorm: 3443
+ATC: C05AE03
+ATC: C08DB01
+drug: Felodipine  RxNorm: 4316
+ATC: C08CA02
+drug: Isradipine  RxNorm: 33910
+ATC: C08CA03
+drug: Lacidipine  RxNorm: 28382
+ATC: C08CA09
+drug: Lercanidipine RxNorm: 135056
+ATC: C08CA13
+drug: Manidipine  RxNorm: 29275
+ATC: C08CA11
+drug: Nicardipine RxNorm: 7396
+ATC: C08CA04
+drug: Nifedipine RxNorm: 7417
+ATC: C08CA05
+drug: Nimodipine RxNorm: 7426
+ATC: C08CA06
+drug: Nitrendipine  RxNorm: 7441
+ATC: C08CA08
+drug: Verapamil RxNorm: 11170
+ATC: C08DA01
+CENTRAL-ANTIHYPERTENSIVES.html
+
+CENTRAL-ANTIHYPERTENSIVES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/CENTRAL-ANTIHYPERTENSIVES.html
+
+
+***CLASS***
+CLASS NAME= CENTRAL ANTIHYPERTENSIVES
+CODE= C02AC-001
+drug: Clonidine RxNorm: 2599
+ATC: C02AC01
+ATC: N02CX02
+ATC: S01EA04
+drug: Guanfacine  RxNorm: 40114
+ATC: C02AC02
+drug: Methyldopa RxNorm: 6876
+ATC: C02AB
+ATC: C02AB01
+ATC: C02AB02
+drug: Moxonidin RxNorm: 30257
+drug: Rilmenidine RxNorm: 55679
+ATC: C02AC06
+CHELATING-RESINS.html
+
+CHELATING-RESINS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/CHELATING-RESINS.html
+
+
+***CLASS***
+CLASS NAME= CHELATING RESINS
+CODE= C10-V0
+ERROR - Drug with no codes: Catioresine sulfo sodique
+drug: Colesevelam RxNorm: 141626
+ATC: C10AC04
+drug: Colestyramine RxNorm: 2447
+ATC: C10AC01
+drug: Sevelamer RxNorm: 214824
+ATC: V03AE02
+CITRATES.html
+
+CITRATES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/CITRATES.html
+
+
+***CLASS***
+CLASS NAME= CITRATES
+CODE= V09HX
+drug: Gallium (67 Ga) citrate RxNorm: 272758
+ATC: V09HX01
+drug: Trimagnesium dicitrate RxNorm: 
+drug: Potassium citrate RxNorm: 54993
+ATC: A12BA02
+drug: Sodium citrate RxNorm: 56466
+ATC: B05CB02
+drug: Diacid citrate of sodium  RxNorm: 
+CLASS-IA-ANTIARRYTHMICS.html
+
+CLASS-IA-ANTIARRYTHMICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/CLASS-IA-ANTIARRYTHMICS.html
+
+
+***CLASS***
+CLASS NAME= CLASS IA ANTIARRYTHMICS 
+CODE= C01B-002
+drug: Disopyramide RxNorm: 3541
+ATC: C01BA03
+drug: Hydroquinidine RxNorm: 27220
+drug: Quinidine RxNorm: 9068
+ATC: C01BA01
+CLASS-I-ANTIARYTHMICS-(EXCEPT-LIDOCAINE).html
+
+CLASS-I-ANTIARYTHMICS-\(EXCEPT-LIDOCAINE\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/CLASS-I-ANTIARYTHMICS-\(EXCEPT-LIDOCAINE\).html
+
+
+***CLASS***
+CLASS NAME= CLASS I ANTIARYTHMICS (EXCEPT LIDOCAINE)
+CODE= C01B-003
+drug: Cibenzoline RxNorm: 21099
+ATC: C01BG07
+drug: Disopyramide RxNorm: 3541
+ATC: C01BA03
+drug: Flecainide RxNorm: 4441
+ATC: C01BC04
+drug: Hydroquinidine RxNorm: 27220
+drug: Mexiletine RxNorm: 6926
+ATC: C01BB02
+drug: Propafenone RxNorm: 8754
+ATC: C01BC03
+drug: Quinidine RxNorm: 9068
+ATC: C01BA01
+COMBINED ESTROGEN-PROGESTIN-CONTRACEPTIVES.html
+
+COMBINED ESTROGEN-PROGESTIN-CONTRACEPTIVES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/COMBINED ESTROGEN-PROGESTIN-CONTRACEPTIVES.html
+
+CURARES.html
+
+CURARES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/CURARES.html
+
+
+***CLASS***
+CLASS NAME= CURARES
+CODE= M03A-001
+drug: Atracurium RxNorm: 1218
+ATC: M03AC04
+drug: Cisatracurium RxNorm: 319864
+ATC: M03AC11
+drug: Mivacurium RxNorm: 30077
+ATC: M03AC10
+drug: Rocuronium RxNorm: 68139
+ATC: M03AC09
+drug: Suxamethonium RxNorm: 10154
+ATC: M03AB01
+drug: Vecuronium RxNorm: 71535
+ATC: M03AC03
+CYTOTOXICS.html
+
+CYTOTOXICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/CYTOTOXICS.html
+
+
+***CLASS***
+CLASS NAME= CYTOTOXICS
+CODE= L01
+drug: Altretamine RxNorm: 5296
+ATC: L01XX03
+drug: Amsacrine RxNorm: 739
+ATC: L01XX01
+drug: Asparaginase RxNorm: 1156
+ATC: L01XX02
+drug: Azacitidine RxNorm: 1251
+drug: Azathioprine RxNorm: 1256
+ATC: L04AX01
+drug: Bendamustine RxNorm: 134547
+ATC: L01AA09
+drug: Bleomycin RxNorm: 1622
+ATC: L01DC01
+drug: Bortezomib RxNorm: 358258
+ATC: L01XX32
+drug: Busulfan RxNorm: 1828
+ATC: L01AB01
+drug: Cabazitaxel RxNorm: 996051
+ATC: L01CD04
+drug: Capecitabine RxNorm: 194000
+ATC: L01BC06
+drug: Carboplatin RxNorm: 40048
+ATC: L01XA02
+drug: Carmustine RxNorm: 2105
+ATC: L01AD01
+drug: Chlorambucil RxNorm: 2346
+ATC: L01AA02
+drug: Cisplatin RxNorm: 2555
+ATC: L01XA01
+drug: Cladribine RxNorm: 44157
+ATC: L01BB04
+drug: Clofarabine RxNorm: 44151
+ATC: L01BB06
+drug: Cyclophosphamide RxNorm: 3002
+ATC: L01AA01
+drug: Cytarabine RxNorm: 3041
+ATC: L01BC01
+drug: Dacarbazine RxNorm: 3098
+ATC: L01AX04
+drug: Dactinomycin RxNorm: 3100
+ATC: L01DA01
+drug: Daunorubicin RxNorm: 3109
+ATC: L01DB02
+drug: Decitabine RxNorm: 15657
+ATC: L01BC08
+drug: Dexrazoxane RxNorm: 42736
+ATC: V03AF02
+drug: Docetaxel RxNorm: 72962
+ATC: L01CD02
+drug: Doxorubicin RxNorm: 3639
+ATC: L01DB01
+drug: Epirubicin RxNorm: 3995
+ATC: L01DB03
+drug: Eribulin RxNorm: 1045453
+ATC: L01XX41
+drug: Estramustine RxNorm: 4089
+ATC: L01XX11
+drug: Etoposide RxNorm: 4179
+ATC: L01CB01
+drug: Fludarabine RxNorm: 24698
+ATC: L01BB05
+drug: Fluorouracile RxNorm: 4492
+ATC: L01BC01
+ATC: L01BC02
+ATC: L01BC03
+ATC: L01BC06
+drug: Fotemustine  RxNorm: 25287
+ATC: L01AD05
+drug: Gemcitabine RxNorm: 12574
+ATC: L01BC05
+drug: Gimeracil RxNorm: 
+drug: Hydroxycarbamide RxNorm: 5552
+ATC: L01XX05
+drug: Idarubicin RxNorm: 5650
+ATC: L01DB06
+drug: Ifosfamide RxNorm: 5657
+ATC: L01AA06
+drug: Irinotecan RxNorm: 51499
+ATC: L01XX19
+drug: Lomustine RxNorm: 6466
+ATC: L01AD02
+drug: Melphalan RxNorm: 6718
+ATC: L01AA03
+drug: Mercaptopurine RxNorm: 103
+ATC: L01BB02
+drug: Methotrexate RxNorm: 6851
+ATC: L01BA01
+ATC: L04AX03
+drug: Mitomycin c RxNorm: 632
+ATC: L01DC03
+drug: Mitoxantrone RxNorm: 7005
+ATC: L01DB07
+drug: Nelarabine RxNorm: 
+ATC: L01BB07
+drug: Oteracil RxNorm: 
+drug: Oxaliplatin RxNorm: 32592
+ATC: L01XA03
+drug: Paclitaxel RxNorm: 56946
+ATC: L01CD01
+ATC: L01CD03
+drug: Pentostatin RxNorm: 8011
+ATC: L01XX08
+drug: Pipobroman RxNorm: 8347
+ATC: L01AX02
+drug: Pixantrone RxNorm: 
+ATC: L01DB11
+drug: Procarbazine RxNorm: 8702
+ATC: L01XB01
+drug: Raltitrexed RxNorm: 196239
+ATC: L01BA03
+drug: Streptozocin RxNorm: 10114
+ATC: L01AD04
+drug: Tegafur  RxNorm: 4582
+ATC: L01BC03
+ATC: L01BC53
+drug: Temozolomide RxNorm: 37776
+ATC: L01AX03
+drug: Thiotepa RxNorm: 10473
+ATC: L01AC01
+drug: Tioguanine RxNorm: 10485
+ATC: L01BB03
+drug: Topotecan RxNorm: 57308
+ATC: L01XX17
+drug: Vinblastine RxNorm: 11198
+ATC: L01CA01
+drug: Vincristine RxNorm: 11202
+ATC: L01CA02
+drug: Vindesine RxNorm: 11204
+ATC: L01CA03
+drug: Vinflunine RxNorm: 194315
+ATC: L01CA05
+drug: Vinorelbine RxNorm: 39541
+ATC: L01CA04
+DERIVATIVES-OF-AMINOSALICYLIC-ACID-(ASA).html
+
+DERIVATIVES-OF-AMINOSALICYLIC-ACID-\(ASA\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/DERIVATIVES-OF-AMINOSALICYLIC-ACID-\(ASA\).html
+
+
+***CLASS***
+CLASS NAME= DERIVATIVES OF AMINOSALICYLIC ACID (ASA)
+CODE= A07EC-001
+drug: Mesalazine RxNorm: 52582
+ATC: A07EC02
+drug: Olsalazine RxNorm: 32385
+ATC: A07EC03
+drug: 4-aminosalicylic acid (para-aminosalicylic acid or PAS) RxNorm: 7833
+ATC: J04AA01
+drug: Sulfasalazine RxNorm: 9524
+ATC: A07EC01
+DEXTRAN-40.html
+
+DEXTRAN-40.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/DEXTRAN-40.html
+
+
+***CLASS***
+CLASS NAME= DEXTRAN 40
+CODE= B05AA
+drug: Dextran RxNorm: 42635
+ATC: B05AA05
+DIHYDROPYRIDINES.html
+
+DIHYDROPYRIDINES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/DIHYDROPYRIDINES.html
+
+
+***CLASS***
+CLASS NAME= DIHYDROPYRIDINES
+CODE= C08CA-002
+drug: Amlodipine  RxNorm: 17767
+ATC: C08CA01
+ATC: C09BB04
+ATC: C10BX03
+ATC: C09BB03
+ATC: C09DB01
+ATC: C09DB02
+ATC: C09DB04
+ATC: C09DX01
+ATC: C08GA02
+ATC: C09BX01
+ATC: C09DB07
+drug: Clevidipine RxNorm: 233603
+ATC: C08CA16
+drug: Felodipine  RxNorm: 4316
+ATC: C08CA02
+ATC: C09BB05
+drug: Isradipine  RxNorm: 33910
+ATC: C08C03
+drug: Lacidipine  RxNorm: 28382
+ATC: C08CA09
+drug: Lercanidipine RxNorm: 135056
+ATC: C09BB02
+ATC: C08CA13
+drug: Manidipine  RxNorm: 29275
+ATC: C09BB12
+ATC: C08CA11
+drug: Nicardipine RxNorm: 7396
+ATC: C08CA04
+drug: Nifedipine RxNorm: 7417
+ATC: C08CA05
+drug: Nimodipine RxNorm: 7426
+ATC: C08CA06
+drug: Nitrendipine  RxNorm: 7441
+ATC: C09BB06
+ATC: C08CA08
+DIRECT-THROMBIN-INHIBITORS.html
+
+DIRECT-THROMBIN-INHIBITORS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/DIRECT-THROMBIN-INHIBITORS.html
+
+
+***CLASS***
+CLASS NAME= DIRECT THROMBIN INHIBITORS
+CODE= BO1AE
+drug: Argatroban RxNorm: 15202
+ATC: B01AE03
+drug: Bivalirudin RxNorm: 60819
+ATC: B01AE06
+DIURETICS.html
+
+DIURETICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/DIURETICS.html
+
+
+***CLASS***
+CLASS NAME= DIURETICS
+CODE= C0E-001
+drug: Altizide RxNorm: 
+drug: Amiloride RxNorm: 644
+ATC: C03DB01
+drug: Bendroflumethiazide RxNorm: 1369
+ATC: C03AA01
+ATC: C03AB01
+ATC: C03EA13
+drug: Bumetanide RxNorm: 1808
+ATC: C03CA02
+ATC: C03CB02
+ATC: C03EB02
+drug: Potassium canrenoate RxNorm: 1981
+ATC: C03DA02
+drug: Chlortalidone RxNorm: 2409
+ATC: C03BA04
+ATC: C03BB04
+ATC: C03EA06
+drug: Cicletanine RxNorm: 21914
+ATC: C03BX03
+drug: Clopamide RxNorm: 2603
+ATC: C03BA03
+ATC: C03BB03
+drug: Eplerenone RxNorm: 298869
+ATC: C03DA04
+drug: Furosemide RxNorm: 4603
+ATC: C03CA01
+ATC: C03CB01
+ATC: C03EB01
+drug: Hydrochlorothiazide RxNorm: 5487
+ATC: C03AA03
+ATC: C03AB03
+ATC: C03EA01
+ATC: C03AX01
+ATC: C09DX03
+ATC: C09DX01
+drug: Indapamide RxNorm: 5764
+ATC: C03BA11
+drug: Methyclothiazide RxNorm: 6860
+ATC: C03AA08
+ATC: C03AB08
+drug: Piretanide RxNorm: 33770
+ATC: C03CA03
+drug: Spironolactone RxNorm: 9997
+ATC: C03DA01
+drug: Triamterene RxNorm: 10763
+ATC: C03DB02
+DOPAMINERGIC-ALKALOIDS-OF-ERGOT-OF-RYE.html
+
+DOPAMINERGIC-ALKALOIDS-OF-ERGOT-OF-RYE.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/DOPAMINERGIC-ALKALOIDS-OF-ERGOT-OF-RYE.html
+
+
+***CLASS***
+CLASS NAME= DOPAMINERGIC ALKALOIDS OF ERGOT OF RYE
+CODE= G02CB-001
+drug: Bromocriptine  RxNorm: 1760
+ATC: G02CB01
+ATC: N04BC01
+drug: Cabergoline RxNorm: 47579
+ATC: G02CB03
+ATC: N04BC06
+drug: Lisuride RxNorm: 6446
+drug: Pergolide RxNorm: 8047
+ATC: N04BC02
+DOPAMINERGICS,-EXCEPT-PARKINSON.html
+
+DOPAMINERGICS,-EXCEPT-PARKINSON.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/DOPAMINERGICS,-EXCEPT-PARKINSON.html
+
+
+***CLASS***
+CLASS NAME= DOPAMINERGICS, EXCEPT PARKINSON
+CODE= G02CB-002
+drug: Cabergoline RxNorm: 47579
+ATC: G02CB03
+ATC: N04BC06
+drug: Quinagolide RxNorm: 76887
+ATC: G02CB04
+DOPAMINERGICS.html
+
+DOPAMINERGICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/DOPAMINERGICS.html
+
+
+***CLASS***
+CLASS NAME= DOPAMINERGICS
+CODE= G02CB-002
+drug: Amantadine RxNorm: 620
+ATC: N04BB01
+drug: Apomorphine RxNorm: 1043
+ATC: G04BE07
+ATC: N04BC07
+drug: Bromocriptine RxNorm: 1760
+ATC: G02CB01
+ATC: N04BC01
+drug: Cabergoline RxNorm: 47579
+ATC: G02CB03
+ATC: N04BC06
+drug: Entacapone  RxNorm: 60307
+ATC: N04BX02
+drug: Lisuride RxNorm: 6446
+ATC: G02CB02
+ATC: N02CA07
+drug: Pergolide RxNorm: 8047
+ATC: N04BC02
+drug: Piribedil  RxNorm: 8353
+ATC: N04BC08
+drug: Pramipexole RxNorm: 746741
+ATC: N04BC05
+drug: Quinagolide RxNorm: 76887
+ATC: G02CB04
+drug: Rasagiline  RxNorm: 134748
+ATC: N04BD02
+drug: Ropinirole RxNorm: 72302
+ATC: N04BC04
+drug: Rotigotine RxNorm: 616739
+ATC: N04BC09
+drug: Selegiline RxNorm: 9639
+ATC: N04BD01
+drug: Tolcapone RxNorm: 72937
+ENZYME-INDUCERS.html
+
+ENZYME-INDUCERS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ENZYME-INDUCERS.html
+
+
+***CLASS***
+CLASS NAME= ENZYME INDUCERS
+CODE= N03-J05-001
+drug: Carbamazepine  RxNorm: 2002
+ATC: N03AF01
+drug: Dabrafenib RxNorm: 1424911
+ATC: L01XE23
+drug: Efavirenz  RxNorm: 195085
+ATC: J05AG03
+drug: Enzalutamide RxNorm: 1307298
+ATC: L02BB04
+drug: Esclicarbazepine RxNorm: 1482502
+ATC: N03AF04
+drug: Fosphenytoin RxNorm: 72236
+ATC: N03AB05
+drug: Nevirapine RxNorm: 53654
+ATC: J05AG01
+drug: Oxcarbazepine  RxNorm: 32624
+ATC: N03AF02
+drug: Phenobarbital RxNorm: 8134
+ATC: N03AA02
+drug: Phenytoin RxNorm: 8183
+ATC: N03AB02
+drug: Primidone RxNorm: 8691
+ATC: N03AA03
+drug: Rifabutin RxNorm: 55672
+ATC: J04AB04
+drug: Rifampicin  RxNorm: 9384
+ATC: J04AB02
+FIBRATES.html
+
+FIBRATES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/FIBRATES.html
+
+
+***CLASS***
+CLASS NAME= FIBRATES
+CODE= C01AB-001
+drug: Bezafibrate RxNorm: 1525
+ATC: C10AB02
+drug: Ciprofibrate RxNorm: 21149
+ATC: C10AB08
+drug: Fenofibrate RxNorm: 8703
+ATC: C10AB05
+drug: Gemfibrozil RxNorm: 4719
+ATC: C10AB04
+FLUOROQUINOLONES.html
+
+FLUOROQUINOLONES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/FLUOROQUINOLONES.html
+
+
+***CLASS***
+CLASS NAME= FLUOROQUINOLONES
+CODE= J01MA-001
+drug: Ciprofloxacin RxNorm: 2551
+ATC: J01MA02
+ATC: S01AE03
+ATC: S02AA15
+ATC: S03AA07
+drug: Enoxacin RxNorm: 3925
+ATC: J01MA04
+drug: Levofloxacin RxNorm: 82122
+ATC: J01MA12
+ATC: S01AE05
+drug: Lomefloxacin RxNorm: 28872
+ATC: J01MA07
+ATC: S01AE04
+drug: Moxifloxacin RxNorm: 139462
+ATC: J01MA14
+ATC: S01AE07
+drug: Norfloxacin RxNorm: 7517
+ATC: J01MA06
+ATC: S01AE02
+drug: Ofloxacin RxNorm: 7623
+ATC: J01MA01
+ATC: S01AE01
+ATC: S02AA16
+drug: Pefloxacin RxNorm: 7960
+ATC: J01MA03
+FLUOROURACIL-(AND,-BY-EXTRAPOLATION,-OTHER-FLUOROPYRIMIDINES).html
+
+FLUOROURACIL-\(AND,-BY-EXTRAPOLATION,-OTHER-FLUOROPYRIMIDINES\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/FLUOROURACIL-\(AND,-BY-EXTRAPOLATION,-OTHER-FLUOROPYRIMIDINES\).html
+
+
+***CLASS***
+CLASS NAME= FLUOROURACIL (AND, BY EXTRAPOLATION, OTHER FLUOROPYRIMIDINES)
+CODE= L01BC-001
+drug: Capecitabine RxNorm: 194000
+ATC: L01BC06
+drug: Fluorouracil RxNorm: 4492
+ATC: L01BC02
+drug: Gimeracil RxNorm: 
+drug: Oteracil RxNorm: 
+drug: Tegafur  RxNorm: 4582
+ATC: L01BC03
+FOLATES.html
+
+FOLATES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/FOLATES.html
+
+
+***CLASS***
+CLASS NAME= FOLATES
+CODE= V03-
+drug: Folinic Acid RxNorm: 6313
+ATC: V03AF03
+drug: Folic Acid RxNorm: 4511
+ATC: B03BB01
+GASTRO-INTESTINAL-TARGETED-MEDICATIONS,-ANTACIDS,-AND-ABSORBANTS.html
+
+GASTRO-INTESTINAL-TARGETED-MEDICATIONS,-ANTACIDS,-AND-ABSORBANTS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/GASTRO-INTESTINAL-TARGETED-MEDICATIONS,-ANTACIDS,-AND-ABSORBANTS.html
+
+
+***CLASS***
+CLASS NAME= GASTRO-INTESTINAL TARGETED MEDICATIONS, ANTACIDS, AND ABSORBANTS
+CODE= A07BC-A02AD
+drug: Activated Charcoal RxNorm: 272
+drug: Vegetal charcoal RxNorm: 
+drug: Diosmectite RxNorm: 59346
+ATC: A07BC05
+drug: Aluminum Hydoxide and Magnesium carbonate gel RxNorm: 17384
+drug: Hydrotalcite RxNorm: 27221
+ATC: A02AD04
+drug: Kaolin RxNorm: 6102
+ATC: A07BC02
+drug: Lanthane RxNorm: 234416
+ATC: V03AE03
+drug: Magaldrate RxNorm: 29151
+ATC: A02AD02
+ATC: A02AF01
+drug: Magnesium Hydroxide RxNorm: 6581
+ATC: A02AA04
+ATC: G04BX01
+drug: Magnesium Trisilicate RxNorm: 29170
+drug: Monmectite RxNorm: 
+drug: Povidone RxNorm: 1310706
+ATC: A07BC03
+GLINIDES.html
+
+GLINIDES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/GLINIDES.html
+
+
+***CLASS***
+CLASS NAME= GLINIDES
+CODE= A10BX-001
+drug: Nateglinide RxNorm: 274332
+ATC: A10BX03
+drug: Repaglinide RxNorm: 73044
+ATC: A10BX02
+GLIPTINS.html
+
+GLIPTINS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/GLIPTINS.html
+
+
+***CLASS***
+CLASS NAME= GLIPTINS
+CODE= A10B-001
+drug: Linagliptin RxNorm: 1100699
+ATC: A10BH05
+drug: Saxagliptin RxNorm: 857974
+ATC: A10BH03
+drug: Sitagliptin RxNorm: 593411
+ATC: A10BH01
+drug: Vildagliptin RxNorm: 596554
+ATC: A10BH02
+GLUCOCORTICOIDS-(EXCEPT-HYDROCORTISONE).html
+
+GLUCOCORTICOIDS-\(EXCEPT-HYDROCORTISONE\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/GLUCOCORTICOIDS-\(EXCEPT-HYDROCORTISONE\).html
+
+
+***CLASS***
+CLASS NAME= GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)
+CODE= A0-H0-001
+drug: Betamethasone RxNorm: 1514
+drug: Budesonide RxNorm: 19831
+ATC: A07EA06
+ATC: D07AC09
+ATC: R01AD05
+ATC: R03BA02
+drug: Cortisone RxNorm: 2878
+ATC: H02AB10
+ATC: S01BA03
+drug: Cortivazol RxNorm: 21660
+ATC: H02AB17
+drug: Dexamethasone RxNorm: 3264
+ATC: A01AC02
+ATC: C05AA09
+ATC: D07AB19
+ATC: D07XB05
+ATC: D10AA03
+ATC: H02AB02
+ATC: R01AD03
+ATC: S01BA01
+ATC: S01CB01
+ATC: S02BA06
+ATC: S03BA01
+drug: Methylprednisolone RxNorm: 6902
+ATC: D07AA01
+ATC: D10AA02
+ATC: H02AB04
+drug: Prednisolone RxNorm: 8638
+ATC: A07EA01
+ATC: C05AA04
+ATC: D07AA03
+ATC: D07XA02
+ATC: H02AB06
+ATC: R01AD02
+ATC: S01BA04
+ATC: S01CB02
+ATC: S02BA03
+ATC: S03BA02
+drug: Prednisone RxNorm: 8640
+ATC: A07EA03
+ATC: H02AB07
+drug: Tetracosactide RxNorm: 2890
+ATC: H01AA02
+drug: Triamcinolone RxNorm: 10759
+ATC: A01AC01
+ATC: C05AA12
+ATC: D07AB09
+ATC: D07XB02
+ATC: H02AB08
+ATC: R01AD11
+ATC: R03BA06
+ATC: S01BA05
+H2-RECEPTOR-ANTAGONISTS.html
+
+H2-RECEPTOR-ANTAGONISTS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/H2-RECEPTOR-ANTAGONISTS.html
+
+
+***CLASS***
+CLASS NAME= H2 RECEPTOR ANTAGONISTS
+CODE= A02BA-001
+drug: Cimetidine RxNorm: 2541
+ATC: A02BA01
+drug: Famotidine RxNorm: 4278
+ATC: A02BA03
+drug: Nizatidine RxNorm: 42319
+ATC: A02BA04
+drug: Ranitidine RxNorm: 9143
+ATC: A02BA02
+HALOGENATED-HYDROCARBON-ANESTHETICS.html
+
+HALOGENATED-HYDROCARBON-ANESTHETICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/HALOGENATED-HYDROCARBON-ANESTHETICS.html
+
+
+***CLASS***
+CLASS NAME= HALOGENATED HYDROCARBON ANESTHETICS 
+CODE= N01AB0-001
+drug: Desflurane RxNorm: 27340
+ATC: N01AB07
+drug: Halothane RxNorm: 5095
+ATC: N01AB01
+drug: Isoflurane RxNorm: 6026
+ATC: N01AB06
+drug: Methoxyflurane RxNorm: 6857
+ATC: N02BG09
+drug: Sevoflurane RxNorm: 36453
+ATC: N01AB08
+HEPARINS.html
+
+HEPARINS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/HEPARINS.html
+
+
+***CLASS***
+CLASS NAME= HEPARINS
+CODE= B01AB
+drug: Dalteparin sodium RxNorm: 67109
+ATC: B01AB04
+drug: Danaparoid sodium RxNorm: 78484
+ATC: B01AB09
+drug: Enoxaparin RxNorm: 67108
+drug: Fondaparinux RxNorm: 321208
+ATC: B01AX05
+drug: Heparin RxNorm: 5224
+ATC: B01AB01
+ATC: C05BA03
+ATC: S01XA14
+drug: Nadroparin calcium RxNorm: 67031
+ATC: B01AB06
+drug: Reviparin RxNorm: 75960
+ATC: B01AB08
+drug: Tinzaparin RxNorm: 69646
+ATC: B01AB10
+HMG-COA-REDUCTASE-INHIBITORS-(STATINS).html
+
+HMG-COA-REDUCTASE-INHIBITORS-\(STATINS\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/HMG-COA-REDUCTASE-INHIBITORS-\(STATINS\).html
+
+
+***CLASS***
+CLASS NAME= HMG-COA REDUCTASE INHIBITORS (STATINS)
+CODE= C10AA
+drug: Atorvastatin RxNorm: 83367
+ATC: C10AA05
+drug: Fluvastatin RxNorm: 41127
+ATC: C10AA04
+drug: Pitavastatin RxNorm: 861634
+ATC: C10AA08
+drug: Pravastatin RxNorm: 42463
+ATC: C10AA03
+drug: Rosuvastatin RxNorm: 301542
+ATC: C10AA07
+drug: Simvastatin RxNorm: 36567
+ATC: C10AA01
+HYPERKALEMIA-INDUCING-MEDICATIONS.html
+
+HYPERKALEMIA-INDUCING-MEDICATIONS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/HYPERKALEMIA-INDUCING-MEDICATIONS.html
+
+
+***CLASS***
+CLASS NAME= HYPERKALEMIA INDUCING MEDICATIONS
+CODE= M01A-001
+drug: Aceclofenac RxNorm: 16689
+ATC: M01AB16
+ATC: M02AA25
+drug: Mefenamic Acid RxNorm: 257844
+ATC: M01AG01
+drug: Niflumic Acid RxNorm: 7418
+ATC: M01AX02
+ATC: M02AA17
+drug: Tiaprofenic acid RxNorm: 618442
+ATC: M01AE11
+drug: Alminoprofen RxNorm: 17387
+ATC: M01AE16
+drug: Amiloride RxNorm: 644
+ATC: C03DB01
+drug: Azilsartan RxNorm: 1091643
+ATC: C09CA09
+drug: Benazepril RxNorm: 18867
+ATC: C09AA07
+drug: Candesartan cilexetil RxNorm: 214354
+ATC: C09CA06
+drug: Potassium canrenoate RxNorm: 1981
+ATC: C03DA02
+drug: Captopril RxNorm: 1998
+ATC: C09AA01
+drug: Celecoxib RxNorm: 140587
+ATC: L01XX33
+ATC: M01AH01
+drug: Ciclosporin  RxNorm: 3008
+ATC: L04AD01
+ATC: S01XA18
+drug: Cilazapril RxNorm: 21102
+ATC: C09AA08
+ATC: C09BA08
+drug: Dalteparin sodium RxNorm: 67109
+ATC: B01AB04
+drug: Danaparoid sodium RxNorm: 78484
+ATC: B01AB09
+drug: Dexketoprofen trometamol RxNorm: 233386
+ATC: for
+ATC: "
+ATC: Dexketoprofen
+ATC: "
+ATC: M01AE17
+drug: Diclofenac RxNorm: 3355
+ATC: D11AX18
+ATC: M01AB05
+ATC: M02AA15
+ATC: S01BC03
+drug: Drospirenone  RxNorm: 840781
+ATC: G03AC10
+drug: Enalapril RxNorm: 3827
+ATC: C09AA02
+drug: Enoxaparin RxNorm: 67108
+ATC: B01AB05
+drug: Eplerenone  RxNorm: 298869
+ATC: C03DA04
+drug: Eprosartan RxNorm: 83515
+ATC: C09CA02
+drug: Etodolac RxNorm: 24605
+ATC: M01AB08
+drug: Etoricoxib  RxNorm: 307296
+ATC: M01AH05
+drug: Fenoprofen RxNorm: 4331
+ATC: M01AE04
+drug: Flurbiprofen RxNorm: 4502
+ATC: M01AE09
+ATC: M02AA19
+ATC: R02AX01
+ATC: S01BC04
+drug: Fondaparinux RxNorm: 321208
+ATC: B01AX05
+drug: Fosinopril RxNorm: 50166
+ATC: C09AA09
+drug: Heparin RxNorm: 5224
+ATC: B01AB
+ATC: B01AB01
+ATC: C05BA03
+ATC: S01XA14
+drug: Ibuprofen RxNorm: 5640
+ATC: M01AE14
+ATC: C01EB16
+ATC: G02CC01
+ATC: M01AE01
+ATC: M02AA13
+ATC: R02AX02
+drug: Indometacin RxNorm: 5781
+ATC: C01EB03
+ATC: M01AB01
+ATC: M02AA23
+ATC: S01BC01
+drug: Irbesartan RxNorm: 83818
+ATC: C09CA04
+drug: Ketoprofen RxNorm: 6142
+ATC: M01AE03
+ATC: M02AA10
+drug: Lisinopril RxNorm: 29046
+ATC: C09AA03
+drug: Losartan RxNorm: 52175
+ATC: C09CA01
+drug: Meloxicam RxNorm: 41493
+ATC: M01AC06
+drug: Moexipril RxNorm: 30131
+ATC: C09AA13
+drug: Morniflumate RxNorm: 30225
+ATC: M01AX22
+drug: Nabumetone RxNorm: 31448
+ATC: M01AX01
+drug: Nadroparin RxNorm: 67031
+ATC: B01AB06
+drug: Naproxen RxNorm: 7258
+ATC: G02CC02
+ATC: M01AE02
+ATC: M02AA12
+drug: Nimesulide RxNorm: 53694
+ATC: M01AX17
+ATC: M02AA26
+drug: Olmesartan RxNorm: 321064
+ATC: C09CA08
+drug: Parecoxib RxNorm: 279950
+ATC: M01AH04
+drug: Perindopril tert-butylamine RxNorm: 
+drug: Piroxicam RxNorm: 8356
+ATC: M01AC01
+ATC: M02AA07
+ATC: S01BC06
+drug: Piroxicam-betadex RxNorm: 
+drug: Potassium  RxNorm: 8588
+ATC: A12BA
+drug: Quinapril RxNorm: 35208
+ATC: C09AA06
+drug: Ramipril RxNorm: 35296
+ATC: C09AA05
+drug: Reviparin RxNorm: 75960
+ATC: B01AB08
+drug: Rofecoxib RxNorm: 232158
+ATC: M01AH02
+drug: Spironolactone RxNorm: 9997
+ATC: C03DA01
+drug: Sulindac RxNorm: 10237
+ATC: M01AB02
+drug: Tacrolimus RxNorm: 42316
+ATC: D11AH01
+ATC: L04AD02
+drug: Telmisartan RxNorm: 73494
+ATC: C09CA07
+drug: Tenoxicam RxNorm: 37790
+ATC: M01AC02
+drug: Tinzaparin RxNorm: 69646
+ATC: B01AB10
+drug: Trandolapril RxNorm: 38454
+ATC: C09AA10
+drug: Triamterene RxNorm: 10763
+ATC: C03DB02
+drug: Trimethoprim  RxNorm: 10829
+ATC: J01EA01
+drug: Valdecoxib RxNorm: 278567
+ATC: M01AH03
+drug: Valsartan RxNorm: 69749
+ATC: C09CA03
+drug: Zofenopril RxNorm: 39990
+ATC: C09AA15
+HYPNOTICS.html
+
+HYPNOTICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/HYPNOTICS.html
+
+
+***CLASS***
+CLASS NAME= HYPNOTICS
+CODE= N05-R06
+drug: Alimemazine RxNorm: 10825
+ATC: R06AD01
+drug: Doxylamine RxNorm: 3642
+ATC: R06AA09
+drug: Estazolam RxNorm: 4077
+ATC: N05CD04
+drug: Loprazolam RxNorm: 38555
+ATC: N05CD11
+drug: Lormetazepam RxNorm: 28894
+ATC: N05CD06
+drug: Nitrazepam RxNorm: 7440
+ATC: N05CD02
+drug: Promethazine RxNorm: 8745
+ATC: D04AA10
+ATC: R06AD02
+drug: Zolpidem RxNorm: 39993
+drug: Zopiclone RxNorm: 40001
+ATC: N05CF01
+HYPONATREMIA-INDUCING-MEDICATIONS.html
+
+HYPONATREMIA-INDUCING-MEDICATIONS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/HYPONATREMIA-INDUCING-MEDICATIONS.html
+
+
+***CLASS***
+CLASS NAME= HYPONATREMIA INDUCING MEDICATIONS
+CODE= C03EA
+drug: Altizide RxNorm: 17599
+ATC: C03EA04
+drug: Amiloride RxNorm: 644
+ATC: C03DB01
+drug: Bendroflumethiazide RxNorm: 1369
+ATC: C03AA01
+drug: Bumetanide RxNorm: 1808
+ATC: C03CA02
+drug: Potassium canrenoate RxNorm: 1981
+ATC: C03DA02
+drug: Carbamazepine RxNorm: 2002
+ATC: N03AF01
+drug: Chlortalidone RxNorm: 
+ATC: C03BA04
+drug: Cicletanine RxNorm: 21914
+ATC: C03BX03
+drug: Citalopram RxNorm: 2556
+ATC: N06AB04
+drug: Clopamide RxNorm: 2603
+ATC: C03BA03
+drug: Desmopressin RxNorm: 3251
+ATC: H01BA02
+drug: Eplerenone RxNorm: 298869
+ATC: C03DA04
+drug: Escitalopram RxNorm: 321988
+ATC: N06AB10
+drug: Fluoxetine RxNorm: 4493
+ATC: N06AB03
+drug: Fluvoxamine RxNorm: 42355
+ATC: N06AB08
+drug: Furosemide RxNorm: 460
+ATC: C03CA01
+drug: Hydrochlorothiazide RxNorm: 5487
+ATC: C03AA03
+drug: Indapamide RxNorm: 5764
+ATC: C03BA11
+drug: Methyclothiazide RxNorm: 6860
+ATC: C03AA08
+drug: Oxcarbazepine RxNorm: 32624
+ATC: N03AF02
+drug: Paroxetine RxNorm: 32937
+ATC: N06AB05
+drug: Piretanide RxNorm: 33770
+ATC: C03CA03
+drug: Sertraline RxNorm: 36437
+ATC: N06AB06
+drug: Spironolactone RxNorm: 9997
+ATC: C03DA01
+drug: Triamterene RxNorm: 10763
+ATC: C03DB02
+IMMUNOSUPPRESSANTS.html
+
+IMMUNOSUPPRESSANTS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/IMMUNOSUPPRESSANTS.html
+
+
+***CLASS***
+CLASS NAME= IMMUNOSUPPRESSANTS
+CODE= L04A
+drug: Ciclosporin  RxNorm: 3008
+ATC: L04AD01
+ATC: S01XA18
+drug: Everolimus RxNorm: 141704
+ATC: L01XE10
+ATC: L04AA18
+drug: Sirolimus RxNorm: 35302
+ATC: L04AA10
+drug: Tacrolimus  RxNorm: 42316
+ATC: D11AH01
+ATC: L04AD02
+drug: Temsirolimus  RxNorm: 657797
+ATC: L01XE09
+INDIRECT-SYMPATHOMIMETICS.html
+
+INDIRECT-SYMPATHOMIMETICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/INDIRECT-SYMPATHOMIMETICS.html
+
+
+***CLASS***
+CLASS NAME= INDIRECT SYMPATHOMIMETICS
+CODE= C01CA-R01BA
+drug: Bupropion  RxNorm: 42347
+drug: Cafedrine RxNorm: 47589
+ATC: C01CA21
+drug: Ephedrine RxNorm: 3966
+ATC: C01CA26
+ATC: R01AA03
+ATC: R01AB05
+ATC: R03CA02
+ATC: S01FB02
+drug: Methylphenidate RxNorm: 6901
+ATC: N06BA04
+drug: Phenylephrine RxNorm: 8163
+ATC: C01CA06
+ATC: R01AA04
+ATC: R01AB01
+ATC: R01BA03
+ATC: S01FB01
+ATC: S01GA05
+drug: Pseudoephedrine RxNorm: 8896
+ATC: R01BA02
+drug: Theodrenaline RxNorm: 31958
+ATC: C01CA23
+INHIBITORS-OF-CATECHOL-O-METHYLTRANSFERASE-(COMT).html
+
+INHIBITORS-OF-CATECHOL-O-METHYLTRANSFERASE-\(COMT\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/INHIBITORS-OF-CATECHOL-O-METHYLTRANSFERASE-\(COMT\).html
+
+
+***CLASS***
+CLASS NAME= INHIBITORS OF CATECHOL-O-METHYLTRANSFERASE (COMT)
+CODE= catomet
+drug: Entacapone RxNorm: 60307
+ATC: N04BX02
+drug: Tolcapone RxNorm: 72937
+ATC: N04BX01
+INSULIN.html
+
+INSULIN.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/INSULIN.html
+
+
+***CLASS***
+CLASS NAME= INSULIN
+CODE= A10A
+drug: insulin RxNorm: 236646
+ATC: A10A
+IODINATED-X-RAY-CONTRAST-MEDIA.html
+
+IODINATED-X-RAY-CONTRAST-MEDIA.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/IODINATED-X-RAY-CONTRAST-MEDIA.html
+
+
+***CLASS***
+CLASS NAME= IODINATED X-RAY CONTRAST MEDIA
+CODE= VO8A-001
+drug: Amidotrizoic acid RxNorm: 1546223
+ATC: V08AA01
+drug: Ioxaglic acid RxNorm: 1426458
+ATC: V08AB03
+drug: Ioxitalamic acid RxNorm: 
+ATC: V08AA05
+drug: Iobitridol RxNorm: 87639
+ATC: V08AB11
+drug: Iodixanol RxNorm: 27729
+ATC: V08AB09
+drug: Iohexol RxNorm: 5956
+ATC: V08AB02
+drug: Iomeprol RxNorm: 
+ATC: V08AB10
+drug: Iopamidol RxNorm: 5966
+ATC: V08AB04
+drug: Iopromide RxNorm: 27781
+ATC: V08AB05
+drug: Ioversol  RxNorm: 27792
+ATC: V08AB07
+IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+
+IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-\(MAOI\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-\(MAOI\).html
+
+
+***CLASS***
+CLASS NAME= IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)
+CODE= N06AF0
+drug: Iproniazide RxNorm: 1431471
+ATC: N06AF05
+LINCOSANIDES.html
+
+LINCOSANIDES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/LINCOSANIDES.html
+
+
+***CLASS***
+CLASS NAME= LINCOSANIDES
+CODE= J01FF0
+drug: Clindamycin RxNorm: 2582
+ATC: D10AF01
+ATC: G01AA10
+ATC: J01FF01
+drug: Lincomycin RxNorm: 6398
+ATC: J01FF02
+LOOP-DIURETICS.html
+
+LOOP-DIURETICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/LOOP-DIURETICS.html
+
+
+***CLASS***
+CLASS NAME= LOOP DIURETICS
+CODE= C03CA-001
+drug: Bumetanide RxNorm: 1808
+ATC: C03CA02
+ATC: C03CB02
+ATC: C03EB02
+drug: Furosemide RxNorm: 4603
+ATC: C03CA01
+ATC: C03CB01
+ATC: C03EB01
+drug: Piretanide RxNorm: 33770
+ATC: C03CA03
+LOW-MOLECULAR-WEIGHT-HEPARINS-AND-RELATED-DRUGS-(CURATIVE-DOSES-AND-OR-OLDER-PATIENT).html
+
+LOW-MOLECULAR-WEIGHT-HEPARINS-AND-RELATED-DRUGS-\(CURATIVE-DOSES-AND-OR-OLDER-PATIENT\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/LOW-MOLECULAR-WEIGHT-HEPARINS-AND-RELATED-DRUGS-\(CURATIVE-DOSES-AND-OR-OLDER-PATIENT\).html
+
+
+***CLASS***
+CLASS NAME= LOW MOLECULAR WEIGHT HEPARINS AND RELATED DRUGS (CURATIVE DOSES AND/OR OLDER PATIENT)
+CODE= B01AB-001
+drug: Dalteparin sodium RxNorm: 67109
+ATC: B01AB04
+drug: Danaparoid sodium RxNorm: 78484
+ATC: B01AB09
+drug: Enoxaparin RxNorm: 67108
+ATC: B01AB05
+drug: Fondaparinux RxNorm: 321208
+ATC: B01AX05
+drug: Nadroparin  RxNorm: 67031
+ATC: B01AB06
+drug: Reviparin RxNorm: 75960
+ATC: B01AB08
+drug: Tinzaparin RxNorm: 69646
+ATC: B01AB10
+LOW-MOLECULAR-WEIGHT-HEPARINS-AND-RELATED-DRUGS-(PREVENTIVE-DOSES).html
+
+LOW-MOLECULAR-WEIGHT-HEPARINS-AND-RELATED-DRUGS-\(PREVENTIVE-DOSES\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/LOW-MOLECULAR-WEIGHT-HEPARINS-AND-RELATED-DRUGS-\(PREVENTIVE-DOSES\).html
+
+
+***CLASS***
+CLASS NAME= LOW MOLECULAR WEIGHT HEPARINS AND RELATED DRUGS (PREVENTIVE DOSES)
+CODE= B01AB-002
+drug: Dalteparin sodium RxNorm: 67109
+ATC: B01AB04
+drug: Danaparoid sodium RxNorm: 78484
+ATC: B01AB09
+drug: Enoxaparin RxNorm: 67108
+ATC: B01AB05
+drug: Fondaparinux RxNorm: 321208
+ATC: B01AX05
+drug: Nadroparin  RxNorm: 67031
+ATC: B01AB06
+drug: Reviparin RxNorm: 75960
+ATC: B01AB08
+drug: Tinzaparin RxNorm: 69646
+ATC: B01AB10
+MACROLIDES-(EXCEPT-SPIRAMYCIN).html
+
+MACROLIDES-\(EXCEPT-SPIRAMYCIN\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MACROLIDES-\(EXCEPT-SPIRAMYCIN\).html
+
+
+***CLASS***
+CLASS NAME= MACROLIDES (EXCEPT SPIRAMYCIN)
+CODE= J01FA
+drug: Azithromycin RxNorm: 18631
+ATC: J01FA10
+drug: Clarithromycin RxNorm: 21212
+ATC: J01FA09
+drug: Erythromycin RxNorm: 4053
+ATC: J01FA01
+drug: Josamycin RxNorm: 6084
+ATC: J01FA07
+drug: Midecamycin RxNorm: 30005
+ATC: J01FA05
+drug: Roxithromycin RxNorm: 9478
+ATC: J01FA06
+ERROR - Drug with no codes: Telithromycin
+ATC: J01FA15
+MAOI-B.html
+
+MAOI-B.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MAOI-B.html
+
+
+***CLASS***
+CLASS NAME= MAOI-B 
+CODE= N04BD0-001
+drug: Rasagiline RxNorm: 134748
+ATC: N04BD02
+drug: Selegiline RxNorm: 9639
+ATC: N04BD01
+MEDICATIONS-AT-RISK-WHEN-WITHDRAWING-FROM-TOBACCO.html
+
+MEDICATIONS-AT-RISK-WHEN-WITHDRAWING-FROM-TOBACCO.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MEDICATIONS-AT-RISK-WHEN-WITHDRAWING-FROM-TOBACCO.html
+
+
+***CLASS***
+CLASS NAME= MEDICATIONS AT RISK WHEN WITHDRAWING FROM TOBACCO
+CODE= NO-R0-002
+drug: Clozapine RxNorm: 2626
+ATC: N05AH02
+drug: Methadone  RxNorm: 6813
+ATC: N07BC02
+drug: Ropinirole  RxNorm: 72302
+ATC: N04BC04
+drug: Theophylline RxNorm: 10438
+ATC: R03DA04
+ATC: R03DB04
+MEDICATIONS-AT-THE-ORIGIN-OF-A-SEROTONIN-SYNDROME.html
+
+MEDICATIONS-AT-THE-ORIGIN-OF-A-SEROTONIN-SYNDROME.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MEDICATIONS-AT-THE-ORIGIN-OF-A-SEROTONIN-SYNDROME.html
+
+
+***CLASS***
+CLASS NAME= MEDICATIONS AT THE ORIGIN OF A SEROTONIN SYNDROME
+CODE= OSEROSYN
+drug: Amitriptyline RxNorm: 704
+ATC: N06AA09
+drug: Methylene blue or Methylthioninium chloride RxNorm: 6878
+ATC: V03AB17
+ATC: V04CG05
+drug: Citalopram RxNorm: 2556
+ATC: N06AB04
+drug: Clomipramine RxNorm: 2597
+ATC: N06AA04
+drug: Duloxetine RxNorm: 72625
+ATC: N06AX21
+drug: Escitalopram RxNorm: 321988
+ATC: N06AB10
+drug: Fluoxetine RxNorm: 4493
+ATC: N06AB03
+ATC: N06CA03
+drug: Fluvoxamine RxNorm: 42355
+ATC: N06AB08
+drug: Imipramine RxNorm: 5691
+ATC: N06AA02
+drug: Iproniazide RxNorm: 1431471
+ATC: N06AF05
+drug: Linezolide RxNorm: 190376
+ATC: J01XX08
+drug: Lithium  RxNorm: 6448
+ATC: D11AX04
+drug: St Johns Wort  RxNorm: 258326
+drug: Milnacipran RxNorm: 588250
+ATC: N06AX17
+drug: Moclobemide RxNorm: 30121
+ATC: N06AG02
+drug: Oxitriptan RxNorm: 94
+ATC: N06AX01
+drug: Paroxetine RxNorm: 32937
+ATC: N06AB05
+drug: Pethidine  RxNorm: 6754
+ATC: N02AB02
+ATC: N02AG03
+drug: Sertraline RxNorm: 36437
+ATC: N06AB06
+drug: Tramadol RxNorm: 10689
+ATC: N02AX02
+drug: Trimipramine RxNorm: 10834
+ATC: N06AA06
+drug: Venlafaxine RxNorm: 39786
+ATC: N06AX16
+MEDICATIONS-AT-THE-ORIGIN-OF-ORTHOSTATIC-HYPOTENSION.html
+
+MEDICATIONS-AT-THE-ORIGIN-OF-ORTHOSTATIC-HYPOTENSION.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MEDICATIONS-AT-THE-ORIGIN-OF-ORTHOSTATIC-HYPOTENSION.html
+
+
+***CLASS***
+CLASS NAME= MEDICATIONS AT THE ORIGIN OF ORTHOSTATIC HYPOTENSION
+CODE= N05AA-001
+drug: Alfuzosin RxNorm: 17300
+ATC: G04CA01
+drug: Alimemazine RxNorm: 10825
+ATC: R06AD01
+drug: Alizapride RxNorm: 17311
+ATC: A03FA05
+drug: Amantadine RxNorm: 620
+ATC: N04BB01
+drug: Amitriptyline RxNorm: 704
+ATC: N06AA09
+ATC: N06CA01
+drug: Amoxapine RxNorm: 722
+drug: Apomorphine RxNorm: 1043
+ATC: G04BE07
+ATC: N04BC0
+drug: Aripiprazole RxNorm: 89013
+ATC: N05AX12
+drug: Avanafil RxNorm: 1291301
+ATC: G04BE10
+drug: Baclofen  RxNorm: 1292
+ATC: M03BX01
+drug: Bromocriptine  RxNorm: 1760
+ATC: G02CB01
+ATC: N04BC01
+drug: Chlorpromazine  RxNorm: 2403
+ATC: N05AA01
+drug: Clomipramine RxNorm: 2597
+ATC: N06AA04
+drug: Clozapine  RxNorm: 2626
+ATC: N05AH02
+drug: Cyamemazine RxNorm: 21877
+ATC: N05AA06
+drug: Isosorbide dinitrate  RxNorm: 6058
+ATC: C01DA08
+ATC: C05AE02
+drug: Dosulepin RxNorm: 3634
+ATC: N06AA16
+drug: Doxazosin RxNorm: 49276
+ATC: C02CA04
+drug: Doxepin RxNorm: 3638
+ATC: N06AA12
+drug: Droperidol RxNorm: 3648
+ATC: N05AD08
+drug: Entacapone  RxNorm: 60307
+ATC: N04BX02
+drug: Flupentixol RxNorm: 4495
+ATC: N05AF01
+drug: Fluphenazine RxNorm: 4496
+ATC: N05AB02
+drug: Haloperidol RxNorm: 5093
+ATC: N05AD01
+drug: Imipramine RxNorm: 5691
+ATC: N06AA02
+drug: Isosorbide RxNorm: 6058
+ATC: C01DA08
+ATC: C05AE02
+ATC: C01DA14
+drug: Levodopa  RxNorm: 6375
+ATC: N04BA01
+ATC: N04BA02
+ATC: N04BA03
+drug: Levomepromazine RxNorm: 6852
+ATC: N05AA02
+drug: Lisuride RxNorm: 6446
+ATC: G02CB02
+ATC: N02CA07
+drug: Loxapine RxNorm: 6475
+ATC: N05AH01
+drug: Maprotiline RxNorm: 6646
+ATC: N06AA21
+drug: Metopimazine RxNorm: 29954
+ATC: A04AD05
+drug: Molsidomine RxNorm: 7023
+ATC: C01DX12
+drug: Nicorandil RxNorm: 31748
+ATC: C01DX16
+drug: Olanzapine  RxNorm: 61381
+ATC: N05AH03
+drug: Oxomemazine RxNorm: 234528
+ATC: R06AD08
+drug: Paliperidone RxNorm: 679314
+ATC: N05AX13
+drug: Penfluridol RxNorm: 7974
+ATC: N05AG03
+drug: Pergolide RxNorm: 8047
+ATC: N04BC02
+drug: Pimozide RxNorm: 8331
+ATC: N05AG02
+drug: Pipamperone RxNorm: 33739
+ATC: N05AD05
+drug: Pipotiazine RxNorm: 8348
+ATC: N05AC04
+drug: Piribedil  RxNorm: 8353
+ATC: N04BC08
+drug: Pramipexole RxNorm: 746741
+ATC: N04BC05
+drug: Prazosin RxNorm: 8629
+ATC: C02CA01
+ATC: C02LE01
+drug: Promethazine RxNorm: 8745
+ATC: V03AB05
+ATC: D04AA10
+ATC: R06AD02
+drug: Propericiazine RxNorm: 8766
+ATC: N05AC01
+drug: Quetiapine RxNorm: 51272
+ATC: N05AH04
+drug: Rasagiline  RxNorm: 134748
+ATC: N04BD02
+drug: Riociguat RxNorm: 1439816
+ATC: C02KX05
+drug: Risperidone  RxNorm: 35636
+ATC: N05AX08
+drug: Ropinirole  RxNorm: 72302
+ATC: N04BC04
+drug: Selegiline RxNorm: 9639
+ATC: N04BD01
+drug: Sildenafil RxNorm: 136411
+ATC: G04BE03
+drug: Silodosin RxNorm: 720825
+ATC: G04CA04
+drug: Sulpiride RxNorm: 10239
+ATC: N05AL01
+drug: Tadalafil RxNorm: 358263
+ATC: G04BE08
+drug: Tamsulosin RxNorm: 77492
+ATC: G04CA02
+drug: Terazosin RxNorm: 37798
+ATC: G04CA03
+drug: Tiapride RxNorm: 10588
+ATC: N05AL03
+drug: Tolcapone RxNorm: 72937
+ATC: N04BX01
+drug: Trimipramine RxNorm: 10834
+ATC: N06AA06
+drug: Trinitrine RxNorm: 
+drug: Vardenafil RxNorm: 306674
+ATC: G04BE09
+drug: Vortioxetine RxNorm: 1455099
+ATC: N06AX26
+drug: Zuclopenthixol RxNorm: 114176
+ATC: N05AF05
+MEDICATIONS-THAT-LOWER-BLOOD-PRESSURE.html
+
+MEDICATIONS-THAT-LOWER-BLOOD-PRESSURE.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MEDICATIONS-THAT-LOWER-BLOOD-PRESSURE.html
+
+
+***CLASS***
+CLASS NAME= MEDICATIONS THAT LOWER BLOOD PRESSURE 
+CODE= MABT
+drug: acebutolol  RxNorm: 149
+ATC: C07AB04
+drug: aliskiren RxNorm: 325646
+ATC: C09XA02
+drug: altizide RxNorm: 17599
+ATC: C03EA04
+drug: amiloride RxNorm: 644
+ATC: C03DB01
+drug: amlodipine RxNorm: 17767
+ATC: C08CA01
+drug: atenolol RxNorm: 1202
+ATC: C07AB03
+drug: azilsartan RxNorm: 1091643
+ATC: C09CA09
+drug: benazepril RxNorm: 18867
+ATC: C09AA07
+drug: bendroflumethiazide RxNorm: 1369
+ATC: C03AA01
+drug: betaxolol RxNorm: 1520
+ATC: C07AB05
+drug: bisoprolol RxNorm: 19484
+ATC: C07AB07
+drug: bumetanide RxNorm: 1808
+ATC: C03CA02
+drug: candesartan cilexetil RxNorm: 214354
+ATC: C09CA06
+drug: potassium canrenoate RxNorm: 1981
+ATC: C03DA02
+drug: captopril RxNorm: 1998
+ATC: C09AA01
+drug: carteolol RxNorm: 2116
+ATC: C07AA15
+drug: carvedilol RxNorm: 20352
+ATC: C07AG02
+drug: celiprolol RxNorm: 20498
+ATC: C07AB08
+ERROR - Drug with no codes: chlortalidone
+ATC: C03BA04
+drug: cicletanine RxNorm: 21914
+ATC: C03BX03
+drug: cilazapril RxNorm: 21102
+ATC: C09AA08
+drug: clevidipine RxNorm: 233603
+ATC: C08CA16
+drug: clonidine RxNorm: 2599
+ATC: C02AC01
+ATC: N02CX02
+ATC: S01EA04
+drug: clopamide RxNorm: 2603
+ATC: C03BA03
+drug: cyclothiazide RxNorm: 22033
+ATC: C03AA09
+drug: dihydralazine RxNorm: 3409
+ATC: C02DB01
+drug: diltiazem RxNorm: 3443
+ATC: C08DB01
+drug: doxazosine RxNorm: 49276
+ATC: C02CA04
+drug: enalapril RxNorm: 3827
+ATC: C09AA02
+drug: eplerenone RxNorm: 298869
+ATC: C03DA04
+drug: eprosartan RxNorm: 83515
+ATC: C09CA02
+drug: felodipine  RxNorm: 4316
+ATC: C08CA02
+drug: fosinopril RxNorm: 50166
+ATC: C09AA09
+drug: furosemide RxNorm: 460
+ATC: C03CA01
+drug: anfacine RxNorm: 40114
+ATC: C02AC02
+drug: hydrochlorothiazide RxNorm: 5487
+ATC: C03AA03
+drug: indapamide RxNorm: 5764
+ATC: C03BA11
+drug: irbesartan RxNorm: 83818
+ATC: C09CA04
+drug: isradipine  RxNorm: 33910
+ATC: C08C03
+drug: labetalol RxNorm: 6185
+ATC: C07AG01
+drug: lacidipine  RxNorm: 28382
+ATC: C08CA09
+drug: lercanidipine RxNorm: 135056
+ATC: C08CA13
+drug: levobunolol RxNorm: 1813
+ATC: S01ED03
+drug: lisinopril RxNorm: 29046
+ATC: C09AA03
+drug: losartan RxNorm: 52175
+ATC: C09CA01
+drug: manidipine  RxNorm: 29275
+ATC: C08CA11
+drug: methyclothiazide RxNorm: 6860
+ATC: C03AA08
+drug: methyldopa RxNorm: 6876
+ATC: C02AB
+drug: metoprolol  RxNorm: 6918
+ATC: C07AB02
+drug: moexipril RxNorm: 30131
+ATC: C09AA13
+drug: moxonidine RxNorm: 30257
+ATC: C02AC05
+drug: nadolol RxNorm: 7226
+ATC: C07AA12
+drug: nebivolol RxNorm: 31555
+ATC: C07AB12
+drug: nicardipine RxNorm: 7396
+ATC: C08CA04
+drug: nifedipine  RxNorm: 7417
+ATC: C08CA05
+drug: nimodipine RxNorm: 7426
+ATC: C08CA06
+drug: nitrendipine  RxNorm: 7441
+ATC: C08CA08
+drug: olmesartan RxNorm: 321064
+ATC: C09CA08
+drug: perindopril tert-butylamine RxNorm: 54552
+ATC: C09AA04
+drug: pindolol RxNorm: 8332
+ATC: C07AA03
+drug: piretanide  RxNorm: 33770
+ATC: C03CA03
+drug: prazosine RxNorm: 8629
+ATC: C02CA01
+drug: propranolol  RxNorm: 8787
+ATC: C07AA05
+drug: quinapril RxNorm: 35208
+ATC: C09AA06
+drug: amipril RxNorm: 35296
+ATC: C09AA05
+drug: ilmenidine RxNorm: 55679
+ATC: C02AC06
+drug: sotalol RxNorm: 9947
+ATC: C07AA07
+drug: spironolactone RxNorm: 9997
+ATC: C03DA01
+drug: tamsulosine RxNorm: 77492
+ATC: G04CA02
+drug: telmisartan RxNorm: 73494
+ATC: C09CA07
+drug: terazosine RxNorm: 37798
+ATC: G04CA03
+drug: tertatolol  RxNorm: 37840
+ATC: C07AA16
+drug: timolol  RxNorm: 10600
+ATC: C07AA06
+drug: trandolapril RxNorm: 38454
+ATC: C09AA10
+drug: triamterene RxNorm: 10763
+ATC: C03DB02
+drug: apidil RxNorm: 3923
+ATC: C02CA06
+drug: valsartan RxNorm: 69749
+ATC: C09CA03
+drug: verapamil RxNorm: 11170
+ATC: C08DA01
+drug: vortioxetine RxNorm: 1455099
+ATC: N06AX26
+drug: zofenopril RxNorm: 39990
+ATC: C09AA15
+MEDICATIONS-THAT-LOWER-THE-EPILEPTIC-THRESHOLD.html
+
+MEDICATIONS-THAT-LOWER-THE-EPILEPTIC-THRESHOLD.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MEDICATIONS-THAT-LOWER-THE-EPILEPTIC-THRESHOLD.html
+
+
+***CLASS***
+CLASS NAME= MEDICATIONS THAT LOWER THE EPILEPTIC THRESHOLD
+CODE= N05AA-002
+drug: Alimemazine RxNorm: 10825
+ATC: R06AD01
+drug: Amitriptyline RxNorm: 704
+ATC: N06AA09
+ATC: N06CA01
+drug: Amoxapine RxNorm: 722
+drug: Bupropion  RxNorm: 42347
+drug: Camphor RxNorm: 1952
+drug: Chloroquine  RxNorm: 2393
+ATC: P01BA01
+drug: Chlorpromazine  RxNorm: 2403
+ATC: N05AA01
+drug: Cineole RxNorm: 21116
+ATC: R05CA13
+drug: Ciprofloxacin  RxNorm: 2551
+ATC: J01MA02
+ATC: S01AE03
+ATC: S02AA15
+ATC: S03AA07
+drug: Citalopram RxNorm: 2556
+ATC: N06AB04
+drug: Clomipramine RxNorm: 2597
+ATC: N06AA04
+drug: Cyamemazine RxNorm: 21877
+ATC: N05AA06
+drug: Dosulepin RxNorm: 3634
+ATC: N06AA16
+drug: Doxepin RxNorm: 3638
+ATC: N06AA12
+drug: Droperidol RxNorm: 3648
+ATC: N05AD08
+drug: Enoxacin RxNorm: 3925
+ATC: J01MA04
+drug: Escitalopram RxNorm: 321988
+ATC: N06AB10
+drug: Eucalyptus RxNorm: 319781
+drug: Eugenol RxNorm: 4186
+drug: Fampridine RxNorm: 897018
+ATC: N07XX07
+drug: Fluoxetine RxNorm: 4493
+ATC: N06AB03
+ATC: N06CA03
+drug: Fluphenazine RxNorm: 4496
+ATC: N05AB02
+drug: Fluvoxamine RxNorm: 42355
+drug: Haloperidol  RxNorm: 5093
+ATC: N05AD01
+drug: Imipramine RxNorm: 5691
+ATC: N06AA02
+drug: Levofloxacin RxNorm: 82122
+ATC: J01MA12
+ATC: S01AE05
+drug: Levomenthol RxNorm: 236388
+drug: Levomepromazine RxNorm: 6852
+ATC: N05AA02
+drug: Lomefloxacin RxNorm: 28872
+ATC: J01MA07
+ATC: S01AE04
+drug: Maprotiline RxNorm: 6646
+ATC: N06AA21
+drug: Mefloquine RxNorm: 6694
+ATC: P01BF02
+ATC: P01BC02
+drug: Mint RxNorm: 1372004
+drug: Racemic menthol RxNorm: 
+drug: Moxifloxacin RxNorm: 139462
+ATC: J01MA14
+ATC: S01AE07
+drug: Niaouli RxNorm: 1309375
+drug: Norfloxacin RxNorm: 7517
+ATC: J01MA06
+ATC: S01AE02
+drug: Ofloxacine RxNorm: 7623
+ATC: J01MA01
+ATC: S01AE01
+ATC: S02AA16
+drug: Oxomemazine RxNorm: 234528
+ATC: R06AD08
+drug: Paroxetine RxNorm: 32937
+ATC: N06AB05
+drug: Pefloxacin RxNorm: 7960
+ATC: J01MA03
+drug: Pimozide  RxNorm: 8331
+ATC: N05AG02
+drug: Pipamperone RxNorm: 33739
+ATC: N05AD05
+drug: Pipotiazine RxNorm: 8348
+ATC: N05AC04
+drug: Promethazine RxNorm: 8745
+ATC: V03AB05
+ATC: D04AA10
+ATC: R06AD02
+drug: Propericiazine RxNorm: 8766
+ATC: N05AC01
+drug: Sertraline RxNorm: 36437
+ATC: N06AB06
+drug: Terpine RxNorm: 
+drug: Terpineol RxNorm: 1368180
+drug: Terpinol RxNorm: 
+drug: Thymol RxNorm: 10553
+drug: Tramadol RxNorm: 10689
+ATC: N02AX02
+drug: Trimipramine RxNorm: 10834
+ATC: N06AA06
+MERCURIAL-ANTISEPTICS.html
+
+MERCURIAL-ANTISEPTICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MERCURIAL-ANTISEPTICS.html
+
+
+***CLASS***
+CLASS NAME= MERCURIAL ANTISEPTICS
+CODE= D08AK0
+drug: Merbromin RxNorm: 6762
+drug: Thiomersal RxNorm: 10472
+ATC: D08AK06
+METABOLIZED-ANTICONVULSANTS.html
+
+METABOLIZED-ANTICONVULSANTS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/METABOLIZED-ANTICONVULSANTS.html
+
+
+***CLASS***
+CLASS NAME= METABOLIZED ANTICONVULSANTS 
+CODE= N03A-002
+drug: Valproic acid RxNorm: 11118
+ATC: N03AG01
+drug: Ethosuximide RxNorm: 4135
+ATC: N03AD01
+ATC: N03AD51
+drug: Felbamate RxNorm: 24812
+ATC: N03AX10
+drug: Fosphenytoin RxNorm: 72236
+ATC: N03AB05
+drug: Lamotrigine RxNorm: 28439
+ATC: N03AX09
+drug: Oxcarbazepine RxNorm: 32624
+ATC: N03AF02
+drug: Perampanel RxNorm: 1356552
+ATC: N03AX22
+drug: Phenobarbital RxNorm: 8134
+ATC: N03AA02
+drug: Phenytoin RxNorm: 8183
+ATC: N03AB02
+ATC: N03AB52
+drug: Primidone RxNorm: 8691
+ATC: N03AA03
+drug: Retigabine RxNorm: 1112990
+ATC: N03AX21
+drug: Tiagabine RxNorm: 31914
+ATC: N03AG06
+drug: Topiramate RxNorm: 38404
+ATC: 38404
+drug: Valpromide RxNorm: 23420
+ATC: N03AG02
+drug: Zonisamide RxNorm: 39998
+ATC: N03AX15
+METABOLIZED-TYROSINE-KINASE-INHIBITORS.html
+
+METABOLIZED-TYROSINE-KINASE-INHIBITORS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/METABOLIZED-TYROSINE-KINASE-INHIBITORS.html
+
+
+***CLASS***
+CLASS NAME= METABOLIZED TYROSINE-KINASE INHIBITORS
+CODE= L01XE
+drug: Axitinib  RxNorm: 1242999
+drug: Bosutinib RxNorm: 1307619
+ATC: L01XE14
+drug: Cabozantinib RxNorm: 1363268
+ATC: L01XE26
+drug: Ceritinib RxNorm: 1535457
+ATC: L01XE28
+drug: Cobimetinib RxNorm: 1722365
+drug: Crizotinib  RxNorm: 1148495
+ATC: L01XE16
+drug: Dabrafenib RxNorm: 1424911
+ATC: L01XE23
+drug: Dasatinib RxNorm: 475342
+ATC: L01XE06
+drug: Erlotinib RxNorm: 337525
+ATC: L01XE03
+drug: Gefitinib RxNorm: 328134
+ATC: L01XE02
+drug: Ibrutinib RxNorm: 1442981
+ATC: L01XE27
+drug: Imatinib RxNorm: 282388
+ATC: L01XE01
+drug: Lapatinib RxNorm: 480167
+ATC: L01XE07
+drug: Nilotinib RxNorm: 662281
+ATC: L01XE08
+drug: Osimertinib RxNorm: 1721560
+drug: Pazopanib RxNorm: 714438
+ATC: L01XE11
+drug: Ponatinib RxNorm: 1364347
+ATC: L01XE24
+drug: Ruxolitinib RxNorm: 1193326
+ATC: L01XE18
+drug: Sorafenib RxNorm: 495881
+ATC: L01XE05
+drug: Sunitinib RxNorm: 357977
+ATC: L01XE04
+drug: Vandetanib RxNorm: 1098413
+ATC: L01XE12
+METHEMOGLOBINIZING-MEDICATIONS.html
+
+METHEMOGLOBINIZING-MEDICATIONS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/METHEMOGLOBINIZING-MEDICATIONS.html
+
+
+***CLASS***
+CLASS NAME= METHEMOGLOBINIZING MEDICATIONS
+CODE= CO-DO-RO
+drug: Acetylsulfafurazol RxNorm: 
+drug: Benzocaine RxNorm: 1399
+ATC: C05AD03
+ATC: D04AB04
+ATC: N01BA05
+ATC: R02AD01
+drug: Dapsone RxNorm: 3108
+ATC: D10AX05
+ATC: J04BA02
+drug: Flutamide  RxNorm: 4508
+ATC: L02BB01
+drug: Metoclopramide RxNorm: 6915
+ATC: A03FA01
+drug: Prilocaine RxNorm: 8686
+ATC: N01BB04
+drug: Nitroprusside  RxNorm: 7476
+ATC: C02DD01
+drug: Sulfadiazine RxNorm: 10171
+ATC: J01EC02
+ATC: J01EE06
+ATC: J01EE02
+drug: Sulfadoxine RxNorm: 10173
+drug: Sulfafurazole RxNorm: 10207
+ATC: J01EB05
+ATC: S01AB02
+drug: Sulfaguanidine RxNorm: 10174
+ATC: A07AB03
+drug: Sulfamethizole  RxNorm: 10179
+ATC: B05CA04
+ATC: D06BA04
+ATC: J01EB02
+ATC: S01AB01
+drug: Sulfamethoxazole RxNorm: 10180
+ATC: J01EC01
+ATC: J01EE01
+MINERALOCORTICOIDS.html
+
+MINERALOCORTICOIDS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MINERALOCORTICOIDS.html
+
+
+***CLASS***
+CLASS NAME= MINERALOCORTICOIDS
+CODE= H02AA0
+drug: Desoxycortone RxNorm: 3256
+ATC: H02AA03
+drug: Fludrocortisone RxNorm: 4452
+ATC: H02AA02
+ATC: S01CA06
+ATC: S02CA07
+ATC: S03CA05
+MINERAL-OILS.html
+
+MINERAL-OILS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MINERAL-OILS.html
+
+
+***CLASS***
+CLASS NAME= MINERAL OILS
+CODE= A06AA-
+drug: Paraffin, liquid RxNorm: 6972
+ATC: A06AA01
+drug: Silicone RxNorm: 9778
+ATC: A03AX13
+MIXED-ADRENERGIC-SEROTONINERGIC-MEDICATIONS.html
+
+MIXED-ADRENERGIC-SEROTONINERGIC-MEDICATIONS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MIXED-ADRENERGIC-SEROTONINERGIC-MEDICATIONS.html
+
+
+***CLASS***
+CLASS NAME= MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS
+CODE= N06A
+drug: Amitriptyline RxNorm: 704
+ATC: N06AA09
+ATC: N06CA01
+drug: Clomipramine RxNorm: 2597
+ATC: N06AA04
+drug: Duloxetine RxNorm: 72625
+ATC: N06AX21
+drug: Imipramine RxNorm: 5691
+ATC: N06AA02
+drug: Milnacipran RxNorm: 588250
+ATC: N06AX17
+drug: Oxitriptan  RxNorm: 94
+ATC: N06AX01
+drug: Venlafaxine RxNorm: 39786
+ATC: N06AX16
+MONOCLONAL-ANTIBODIES-(EXCEPT-ANTI-TNF-ALPHA).html
+
+MONOCLONAL-ANTIBODIES-\(EXCEPT-ANTI-TNF-ALPHA\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MONOCLONAL-ANTIBODIES-\(EXCEPT-ANTI-TNF-ALPHA\).html
+
+
+***CLASS***
+CLASS NAME= MONOCLONAL ANTIBODIES (EXCEPT ANTI-TNF ALPHA)
+CODE= MONANT
+drug: Belimumab RxNorm: 1092437
+ATC: L04AA26
+drug: Bevacizumab RxNorm: 253337
+ATC: L01XC07
+drug: Blinatumomab RxNorm: 1597258
+drug: Brentuximab RxNorm: 1147320
+drug: Canakinumab RxNorm: 853491
+ATC: L04AC08
+drug: Cetuximab RxNorm: 318341
+ATC: L01XC06
+drug: Denosumab RxNorm: 993449
+drug: Ibritumomab RxNorm: 337130
+ATC: V10XX02
+drug: Ipilimumab  RxNorm: 1094833
+ATC: L01XC11
+drug: Natalizumab RxNorm: 354770
+ATC: L04AA23
+drug: Nivolumab RxNorm: 1597876
+ATC: L01XC17
+drug: Obinutuzumab RxNorm: 974779
+ATC: L01XC15
+drug: Ofatumumab RxNorm: 712566
+ATC: L01XC10
+drug: Panitumumab RxNorm: 263034
+ATC: L01XC08
+drug: Pembrolizumab RxNorm: 1547545
+ATC: L01XC18
+drug: Ramucirumab RxNorm: 1535922
+ATC: L01XC21
+drug: Rituximab RxNorm: 121191
+ATC: L01XC02
+drug: Tocilizumab RxNorm: 612865
+ATC: L04AC07
+drug: Trastuzumab RxNorm: 224905
+drug: Ustekinumab RxNorm: 847083
+ATC: L04AC05
+drug: Vedolizumab RxNorm: 1538097
+ATC: L04AA33
+MORPHINE-LIKE-ANTITUSSIVES.html
+
+MORPHINE-LIKE-ANTITUSSIVES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/MORPHINE-LIKE-ANTITUSSIVES.html
+
+
+***CLASS***
+CLASS NAME= MORPHINE LIKE ANTITUSSIVES
+CODE= R05DA0-001
+drug: Dextromethorphan RxNorm: 3289
+ATC: R05DA09
+drug: Noscapine RxNorm: 7533
+ATC: R05DA07
+drug: Pholcodine RxNorm: 33431
+ATC: R05DA08
+NEPHROTOXIC-MEDICATIONS.html
+
+NEPHROTOXIC-MEDICATIONS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/NEPHROTOXIC-MEDICATIONS.html
+
+
+***CLASS***
+CLASS NAME= NEPHROTOXIC MEDICATIONS
+CODE= J01-J05
+drug: Aciclovir RxNorm: 281
+ATC: D06BB03
+ATC: J05AB01
+ATC: S01AD03
+drug: Diatrizoic acid  RxNorm: 1546223
+ATC: V08AA01
+drug: Clodronic Acid RxNorm: 3350
+ATC: M05BA02
+drug: Ioxaglic acid RxNorm: 1426458
+ATC: V08AB03
+drug: Ioxitalamic acid RxNorm: 
+ATC: V08AA05
+drug: Adefovir RxNorm: 16521
+ATC: as
+ATC: adefovir
+ATC: dipivoxil
+drug: Amikacin  RxNorm: 641
+ATC: D06AX12
+ATC: J01GB06
+ATC: S01AA21
+drug: Amphotericin B  RxNorm: 732
+ATC: A01AB04
+ATC: A07AA07
+ATC: G01AA03
+ATC: J02AA01
+drug: Carboplatin RxNorm: 40048
+ATC: L01XA02
+drug: Ciclosporin  RxNorm: 3008
+ATC: L04AD01
+ATC: S01XA18
+drug: Cisplatin RxNorm: 2555
+ATC: L01XA01
+drug: Colistin  RxNorm: 2709
+ATC: A07AA10
+ATC: J01XB01
+drug: Foscarnet RxNorm: 33562
+ATC: J05AD01
+drug: Ganciclovir  RxNorm: 4678
+ATC: J05AB06
+ATC: S01AD09
+drug: Gentamicin RxNorm: 142438
+ATC: D06AX07
+ATC: J01GB03
+ATC: S01AA11
+ATC: S02AA14
+ATC: S03AA06
+drug: Ifosfamide RxNorm: 5657
+ATC: L01AA06
+drug: Iobitridol RxNorm: 87639
+ATC: V08AB11
+drug: Iodixanol RxNorm: 27729
+ATC: V08AB09
+drug: Iohexol RxNorm: 5956
+ATC: V08AB02
+drug: Iomeprol RxNorm: 
+ATC: V08AB10
+drug: Iopamidol RxNorm: 5966
+ATC: V08AB04
+drug: Iopromide RxNorm: 27781
+ATC: V08AB05
+drug: Ioversol  RxNorm: 27792
+ATC: V08AB07
+drug: Isepamicin RxNorm: 51522
+ATC: J01GB11
+drug: Methotrexate  RxNorm: 6851
+ATC: L01BA01
+ATC: L04AX03
+drug: Netilmicin RxNorm: 7337
+ATC: J01GB07
+ATC: S01AA23
+drug: Oxaliplatin RxNorm: 32592
+ATC: L01XA03
+drug: Pentamidine  RxNorm: 7994
+ATC: P01CX01
+drug: Spectinomycin RxNorm: 270
+ATC: J01XX04
+drug: Streptomycin  RxNorm: 10109
+ATC: A07AA04
+ATC: A07AA54
+ATC: J01GA
+ATC: J01GA01
+ATC: J04AM01
+ATC: S01AA15
+drug: Streptozocin RxNorm: 10114
+ATC: L01AD04
+drug: Tacrolimus RxNorm: 42316
+ATC: D11AH01
+ATC: L04AD02
+ATC: L04AD02
+drug: Teicoplanin RxNorm: 57021
+ATC: J01XA02
+drug: Tenofovir disoproxil RxNorm: 300195
+ATC: J05AR06
+ATC: J05AR08
+ATC: J05AR09
+ATC: J05AF07
+ATC: J05AR03
+drug: Tobramycin RxNorm: 10627
+ATC: J01GB01
+ATC: S01AA12
+drug: Valaciclovir RxNorm: 73645
+ATC: J05AB11
+drug: Valganciclovir RxNorm: 275891
+ATC: J05AB14
+drug: Vancomycin RxNorm: 11124
+ATC: A07AA09
+ATC: J01XA01
+NEUROLEPTICS.html
+
+NEUROLEPTICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/NEUROLEPTICS.html
+
+
+***CLASS***
+CLASS NAME= NEUROLEPTICS
+CODE= N05AA-003
+drug: Alimemazine RxNorm: 10825
+ATC: R06AD01
+drug: Alizapride RxNorm: 17311
+ATC: A03FA05
+drug: Amisulpride RxNorm: 46303
+ATC: N05AL05
+drug: Aripiprazole RxNorm: 89013
+ATC: N05AX12
+drug: Carpipramine RxNorm: 20342
+drug: Chlorpromazine  RxNorm: 2403
+ATC: N05AA01
+drug: Clozapine  RxNorm: 2626
+ATC: N05AH02
+drug: Cyamemazine RxNorm: 21877
+ATC: N05AA06
+drug: Droperidol RxNorm: 3648
+ATC: N05AD08
+drug: Flupentixol RxNorm: 4495
+ATC: N05AF01
+drug: Fluphenazine RxNorm: 4496
+ATC: N05AB02
+drug: Haloperidol RxNorm: 5093
+ATC: N05AD01
+drug: Levomepromazine RxNorm: 6852
+ATC: N05AA02
+drug: Loxapine RxNorm: 6475
+ATC: N05AH01
+drug: Metoclopramide RxNorm: 6915
+ATC: A03FA01
+drug: Olanzapine  RxNorm: 61381
+ATC: N05AH03
+drug: Oxomemazine RxNorm: 234528
+ATC: R06AD08
+drug: Paliperidone RxNorm: 679314
+ATC: N05AX13
+drug: Penfluridol RxNorm: 7974
+ATC: N05AG03
+drug: Pimozide RxNorm: 8331
+ATC: N05AG02
+drug: Pipamperone RxNorm: 33739
+ATC: N05AD05
+drug: Pipotiazine RxNorm: 8348
+ATC: N05AC04
+drug: Promethazine RxNorm: 8745
+ATC: V03AB05
+ATC: D04AA10
+ATC: R06AD02
+drug: Propericiazine RxNorm: 8766
+ATC: N05AC01
+drug: Quetiapine  RxNorm: 51272
+ATC: N05AH04
+drug: Risperidone  RxNorm: 35636
+ATC: N05AX08
+drug: Sulpiride RxNorm: 10239
+ATC: N05AL01
+drug: Tiapride RxNorm: 10588
+ATC: N05AL03
+drug: Zuclopenthixol RxNorm: 114176
+ATC: N05AF05
+NEUROLEPTICS-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+
+NEUROLEPTICS-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/NEUROLEPTICS-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+
+
+***CLASS***
+CLASS NAME= NEUROLEPTICS THAT TEND TO INDUCE TORSADES DE POINTES
+CODE= N05A-002
+drug: Amisulpride RxNorm: 46303
+ATC: N05AL05
+drug: Chlorpromazine  RxNorm: 2403
+ATC: N05AA01
+drug: Cyamemazine RxNorm: 21877
+ATC: N05AA06
+drug: Droperidol RxNorm: 3648
+ATC: N05AD08
+drug: Flupentixol RxNorm: 4495
+ATC: N05AF01
+drug: Fluphenazine RxNorm: 4496
+ATC: N05AB02
+drug: Haloperidol RxNorm: 5093
+ATC: N05AD01
+drug: Levomepromazine RxNorm: 6852
+ATC: N05AA02
+drug: Pimozide RxNorm: 8331
+ATC: N05AG02
+drug: Pipamperone RxNorm: 33739
+ATC: N05AD05
+drug: Pipotiazine RxNorm: 8348
+ATC: N05AC04
+drug: Sulpiride RxNorm: 10239
+ATC: N05AL01
+drug: Tiapride RxNorm: 10588
+ATC: N05AL03
+drug: Zuclopenthixol RxNorm: 114176
+ATC: N05AF05
+NICOTINE-SUBSTITUION-TREATMENT.html
+
+NICOTINE-SUBSTITUION-TREATMENT.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/NICOTINE-SUBSTITUION-TREATMENT.html
+
+
+***CLASS***
+CLASS NAME= NICOTINE SUBSTITUION TREATMENT
+CODE= N07BA
+drug: Nicotine RxNorm: 7407
+ATC: N07BA01
+NITRATE-DERIVATIVES-AND-RELATED.html
+
+NITRATE-DERIVATIVES-AND-RELATED.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/NITRATE-DERIVATIVES-AND-RELATED.html
+
+
+***CLASS***
+CLASS NAME= NITRATE DERIVATIVES AND RELATED
+CODE= C01D-001
+drug: Isosorbide dinitrate RxNorm: 6058
+ATC: C01DA08
+ATC: C05AE02
+drug: Isosorbide RxNorm: 6057
+ATC: C01DA08
+ATC: C05AE02
+drug: Molsidomine RxNorm: 7023
+ATC: C01DX12
+drug: Nicorandil RxNorm: 31748
+ATC: C01DX16
+drug: Trinitrine known as Nitroglycerin in the US RxNorm: 4917
+NON-CONTRACEPTIVE-ESTROGENS.html
+
+NON-CONTRACEPTIVE-ESTROGENS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/NON-CONTRACEPTIVE-ESTROGENS.html
+
+
+***CLASS***
+CLASS NAME= NON-CONTRACEPTIVE ESTROGENS
+CODE= G03C-001
+drug: Diethylstilbestrol RxNorm: 3390
+ATC: G03CB02
+ATC: G03CC05
+ATC: L02AA01
+drug: Estradiol RxNorm: 4083
+ATC: G03AB08
+ATC: G03CA03
+drug: Estriol RxNorm: 4094
+ATC: G03CA04
+ATC: G03CC06
+drug: Sulfoconjugated equine estrogen RxNorm: 
+drug: Estrone RxNorm: 4103
+ATC: G03CA07
+ATC: G03CC04
+drug: Promestriene RxNorm: 34625
+ATC: G03CA09
+NON-CONTRACEPTIVE-PROGESTOGENS,-COMBINED-WITH-AN-ESTROGEN-OR-NOT.html
+
+NON-CONTRACEPTIVE-PROGESTOGENS,-COMBINED-WITH-AN-ESTROGEN-OR-NOT.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/NON-CONTRACEPTIVE-PROGESTOGENS,-COMBINED-WITH-AN-ESTROGEN-OR-NOT.html
+
+
+***CLASS***
+CLASS NAME= NON-CONTRACEPTIVE PROGESTOGENS, COMBINED WITH AN ESTROGEN OR NOT
+CODE= G03-003
+drug: Chlormadinone RxNorm: 78904
+ATC: G03DB06
+ATC: G03FB03
+ATC: G03AA15
+ATC: G03AB07
+drug: Dydrogesterone RxNorm: 3706
+ATC: G03DB01
+ATC: G03FA14
+ATC: G03FB08
+drug: Hydroxyprogesterone RxNorm: 5542
+ATC: G03DA03
+ATC: G03FA02
+drug: Medrogestone RxNorm: 6690
+ATC: G03DB03
+ATC: G03FB07
+drug: Medroxyprogesterone RxNorm: 6691
+ATC: G03AC06
+ATC: G03DA02
+ATC: L02AB02
+ATC: G03FA12
+ATC: G03FB06
+ATC: G03AA08
+drug: Nomegestrol RxNorm: 31930
+ATC: G03DB04
+ATC: G03AA14
+drug: Norethisterone RxNorm: 7514
+ATC: G03AC01
+ATC: G03DC02
+ATC: G03FA01
+ATC: G03FB05
+ATC: G03AA05
+ATC: G03AB04
+drug: Progesterone RxNorm: 8727
+ATC: G03DA04
+ATC: G03FA04
+drug: Promegestone RxNorm: 8744
+ATC: G03DB07
+NON-DEPOLARIZING-CURARES.html
+
+NON-DEPOLARIZING-CURARES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/NON-DEPOLARIZING-CURARES.html
+
+
+***CLASS***
+CLASS NAME= NON-DEPOLARIZING CURARES
+CODE= M03A-002
+drug: Atracurium RxNorm: 1218
+ATC: M03AC04
+drug: Cisatracurium RxNorm: 319864
+ATC: M03AC11
+drug: Rocuronium RxNorm: 68139
+ATC: M03AC09
+drug: Vecuronium RxNorm: 71535
+ATC: M03AC03
+NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+
+NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+
+
+***CLASS***
+CLASS NAME= NON STEROIDAL ANTI-INFLAMMATORY DRUGS
+CODE= M01A-002
+drug: Aceclofenac RxNorm: 16689
+ATC: M01AB16
+ATC: M02AA25
+drug: Mefenamic Acid RxNorm: 257844
+ATC: M01AG01
+drug: Niflumic Acid RxNorm: 7418
+ATC: M01AX02
+ATC: M02AA17
+drug: Tiaprofenic acid RxNorm: 618442
+ATC: M01AE11
+drug: Alminoprofen RxNorm: 17387
+ATC: M01AE16
+drug: Celecoxib RxNorm: 140587
+ATC: L01XX33
+ATC: M01AH01
+drug: Dexketoprofen trometamol RxNorm: 233386
+ATC: M01AE17
+drug: Diclofenac RxNorm: 3355
+ATC: D11AX18
+ATC: M01AB05
+ATC: M02AA15
+ATC: S01BC03
+drug: Etodolac RxNorm: 24605
+ATC: M01AB08
+drug: Etoricoxib RxNorm: 307296
+ATC: M01AH05
+drug: Fenoprofen RxNorm: 4331
+ATC: M01AE04
+drug: Flurbiprofen RxNorm: 4502
+ATC: M01AE09
+ATC: M02AA19
+ATC: R02AX01
+ATC: S01BC04
+drug: Ibuprofen RxNorm: 5640
+ATC: M01AE14
+ATC: C01EB16
+ATC: G02CC01
+ATC: M01AE01
+ATC: M02AA13
+ATC: R02AX02
+drug: Indometacin RxNorm: 5781
+ATC: C01EB03
+ATC: M01AB01
+ATC: M02AA23
+ATC: S01BC01
+drug: Ketoprofen RxNorm: 6142
+ATC: M01AE03
+ATC: M02AA10
+drug: Meloxicam RxNorm: 41493
+ATC: M01AC06
+drug: Morniflumate RxNorm: 30225
+ATC: M01AX22
+drug: Nabumetone RxNorm: 31448
+ATC: M01AX01
+drug: Naproxen RxNorm: 7258
+ATC: G02CC02
+ATC: M01AE02
+ATC: M02AA12
+drug: Nimesulide RxNorm: 53694
+ATC: M01AX17
+ATC: M02AA26
+drug: Parecoxib RxNorm: 279950
+ATC: M01AH04
+drug: Piroxicam RxNorm: 8356
+ATC: M01AC01
+ATC: M02AA07
+ATC: S01BC06
+drug: Piroxicam-betadex RxNorm: 68115
+drug: Rofecoxib RxNorm: 232158
+ATC: M01AH02
+drug: Sulindac RxNorm: 10237
+ATC: M01AB02
+drug: Tenoxicam RxNorm: 37790
+ATC: M01AC02
+drug: Valdecoxib RxNorm: 278567
+ATC: M01AH03
+OMBITASVIR-+-PARITAPEVIR.html
+
+OMBITASVIR-+-PARITAPEVIR.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/OMBITASVIR-+-PARITAPEVIR.html
+
+
+***CLASS***
+CLASS NAME= OMBITASVIR + PARITAPEVIR
+CODE= OMPA
+drug: Ombitasvir RxNorm: 1597371
+drug: Paritaprevir RxNorm: 1597373
+OPIOID RECEPTOR ANTAGONISTS.html
+
+OPIOID RECEPTOR ANTAGONISTS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/OPIOID RECEPTOR ANTAGONISTS.html
+
+OPIOIDS-FOR-REPLACEMENT-THERAPY.html
+
+OPIOIDS-FOR-REPLACEMENT-THERAPY.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/OPIOIDS-FOR-REPLACEMENT-THERAPY.html
+
+
+***CLASS***
+CLASS NAME= OPIOIDS FOR REPLACEMENT THERAPY
+CODE= N07BC
+drug: Buprenorphine RxNorm: 1819
+ATC: N02AE01
+drug: Methadone  RxNorm: 6813
+ATC: N07BC02
+OPIOIDS.html
+
+OPIOIDS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/OPIOIDS.html
+
+
+***CLASS***
+CLASS NAME= OPIOIDS
+CODE= N0-R0
+drug: Alfentanil  RxNorm: 480
+ATC: N01AH02
+drug: Buprenorphine RxNorm: 1819
+ATC: N02AE01
+drug: Codeine  RxNorm: 2670
+ATC: R05DA04
+drug: Dextromethorphane  RxNorm: 3289
+ATC: R05DA09
+drug: Dihydrocodeine RxNorm: 23088
+ATC: N02AA08
+drug: Ethylmorphine RxNorm: 4166
+ATC: R05DA01
+ATC: S01XA06
+drug: Fentanyl RxNorm: 4337
+ATC: N01AH01
+ATC: N01AH5
+ATC: N02AB03
+drug: Hydromorphone  RxNorm: 3423
+ATC: N02AA03
+ATC: N02AG04
+drug: Methadone  RxNorm: 6813
+ATC: N07BC02
+drug: Morphine RxNorm: 7052
+ATC: N02AA01
+drug: Nalbuphine RxNorm: 7238
+ATC: N02AF02
+drug: Nalmefene RxNorm: 31479
+ATC: N07BB05
+drug: Naloxone RxNorm: 7242
+ATC: V03AB15
+drug: Naltrexone RxNorm: 7243
+ATC: N07BB04
+drug: Noscapine RxNorm: 7533
+ATC: R05DA07
+drug: Oxycodone RxNorm: 7804
+ATC: N02AA05
+drug: Pethidine RxNorm: 6754
+ATC: N02AB02
+drug: Pholcodine RxNorm: 33431
+ATC: R05DA08
+drug: Remifentanil RxNorm: 703032
+ATC: N01AH06
+drug: Sufentanil RxNorm: 56795
+ATC: N01AH03
+drug: Tramadol RxNorm: 10689
+ATC: N02AX02
+ORAL-ANTICOAGULANTS.html
+
+ORAL-ANTICOAGULANTS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/ORAL-ANTICOAGULANTS.html
+
+
+***CLASS***
+CLASS NAME= ORAL ANTICOAGULANTS 
+CODE= B01A-001
+drug: Acenocoumarol RxNorm: 154
+ATC: B01AA07
+drug: Apixaban RxNorm: 1364430
+ATC: B01AF02
+drug: Dabigatran RxNorm: 1037042
+ATC: B01AE07
+drug: Fluindione RxNorm: 50097
+ATC: B01AA12
+drug: Phenindione RxNorm: 8130
+ATC: B01AA02
+drug: Rivaroxaban RxNorm: 1114195
+ATC: B01AF01
+drug: Warfarin RxNorm: 11289
+ATC: B01AA03
+OTHER-CORTICOIDES,-ESPECIALLY-INHALED-ONES.html
+
+OTHER-CORTICOIDES,-ESPECIALLY-INHALED-ONES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/OTHER-CORTICOIDES,-ESPECIALLY-INHALED-ONES.html
+
+
+***CLASS***
+CLASS NAME= OTHER CORTICOIDES, ESPECIALLY INHALED ONES
+CODE= D07AC-001
+drug: Budesonide RxNorm: 19831
+ATC: A07EA06
+ATC: D07AC09
+ATC: R01AD05
+ATC: R03BA02
+drug: Ciclesonide RxNorm: 274964
+ATC: R01AD13
+ATC: R03BA08
+drug: Fluticasone RxNorm: 41126
+ATC: D07AC17
+ATC: R01AD08
+ATC: R03BA05
+ATC: R01AD58
+drug: Mometasone RxNorm: 108118
+ATC: D07AC13
+ATC: D07XC03
+ATC: R01AD09
+ATC: R03BA07
+OTOTOXIC-MEDICATIONS.html
+
+OTOTOXIC-MEDICATIONS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/OTOTOXIC-MEDICATIONS.html
+
+
+***CLASS***
+CLASS NAME= OTOTOXIC MEDICATIONS
+CODE= J01GB-J01XA
+drug: Amikacin  RxNorm: 641
+ATC: D06AX12
+ATC: J01GB06
+ATC: S01AA21
+drug: Bumetanide RxNorm: 1808
+ATC: C03CA02
+ATC: C03CB02
+ATC: C03EB02
+drug: Carboplatin RxNorm: 40048
+ATC: L01XA02
+drug: Cisplatin RxNorm: 2555
+ATC: L01XA01
+drug: Furosemide RxNorm: 460
+ATC: C03CA01
+ATC: C03CB01
+ATC: C03EB01
+drug: Gentamicin RxNorm: 142438
+ATC: D06AX07
+ATC: J01GB03
+ATC: S01AA11
+ATC: S02AA14
+ATC: S03AA06
+drug: Isepamicin RxNorm: 51522
+ATC: J01GB11
+drug: Netilmicin RxNorm: 7337
+ATC: J01GB07
+ATC: S01AA23
+drug: Oxaliplatin RxNorm: 32592
+ATC: L01XA03
+drug: Piretanide RxNorm: 33770
+ATC: C03CA03
+drug: Streptomycin  RxNorm: 10109
+ATC: A07AA04
+ATC: J01GA
+ATC: J01GA01
+drug: Teicoplanin RxNorm: 57021
+ATC: J01XA02
+drug: Tobramycin RxNorm: 10627
+ATC: J01GB01
+ATC: S01AA12
+drug: Vancomycin RxNorm: 11124
+ATC: A07AA09
+ATC: J01XA01
+PENEMS.html
+
+PENEMS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/PENEMS.html
+
+
+***CLASS***
+CLASS NAME= PENEMS
+CODE= J01DH
+drug: Ertapenem  RxNorm: 325642
+ATC: J01DH03
+drug: Imipenem RxNorm: 5690
+drug: Meropenem RxNorm: 29561
+ATC: J01DH02
+PENICILLINS.html
+
+PENICILLINS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/PENICILLINS.html
+
+
+***CLASS***
+CLASS NAME= PENICILLINS
+CODE= J01C
+drug: Amoxicillin RxNorm: 723
+ATC: J01CA04
+ATC: J01CR02
+ATC: A02BD06
+ATC: A02BD07
+ATC: A02BD03
+ATC: A02BD05
+ATC: A02BD01
+ATC: A02BD04
+drug: Ampicillin RxNorm: 733
+ATC: J01CA01
+drug: Benethamine-penicillin RxNorm: 
+drug: Benzylpenicillin RxNorm: 7980
+ATC: J01CE01
+ATC: S01AA14
+drug: Cloxacillin RxNorm: 2625
+ATC: J01CF02
+drug: Oxacillin RxNorm: 7773
+ATC: J01CF04
+drug: Phenoxymethylpenicillin RxNorm: 7984
+ATC: J01CE02
+drug: Piperacillin RxNorm: 8339
+ATC: J01CA12
+ATC: J01CR05
+drug: Pivmecillinam RxNorm: 
+ATC: J01CA08
+drug: Temocilline RxNorm: 37775
+ATC: J01CA17
+drug: Ticarcillin RxNorm: 10591
+ATC: J01CA13
+ATC: J01CR03
+PHENOBARBITAL-(AND,-BY-EXTRAPOLATION,-PRIMIDONE).html
+
+PHENOBARBITAL-\(AND,-BY-EXTRAPOLATION,-PRIMIDONE\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/PHENOBARBITAL-\(AND,-BY-EXTRAPOLATION,-PRIMIDONE\).html
+
+
+***CLASS***
+CLASS NAME= PHENOBARBITAL (AND, BY EXTRAPOLATION, PRIMIDONE)
+CODE= N03AA-001
+drug: Phenobarbital RxNorm: 8134
+ATC: N03AA02
+drug: Primidone RxNorm: 8691
+ATC: N03AA03
+PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+
+PHENYTOIN-\(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/PHENYTOIN-\(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN\).html
+
+
+***CLASS***
+CLASS NAME= PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)
+CODE= N03AB
+drug: Phenytoin RxNorm: 8183
+ATC: N03AB02
+drug: Fosphenytoin RxNorm: 72236
+ATC: N03AB05
+PLATELET-AGGREGATION-INHIBITORS.html
+
+PLATELET-AGGREGATION-INHIBITORS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/PLATELET-AGGREGATION-INHIBITORS.html
+
+
+***CLASS***
+CLASS NAME= PLATELET AGGREGATION INHIBITORS
+CODE= B01AC-001
+drug: Abciximab (formerly called c 7e3b fab) RxNorm: 83929
+ATC: B01AC13
+drug: Acetylsalicylic Acid RxNorm: 1191
+ATC: A01AD05
+ATC: B01AC06
+ATC: N02BA01
+drug: Cilostazol RxNorm: 21107
+ATC: B01AC23
+drug: Clopidogrel  RxNorm: 3296
+ATC: B01AC04
+drug: Epoprostenol RxNorm: 8814
+ATC: B01AC09
+drug: Eptifibatide RxNorm: 75635
+ATC: B01AC16
+drug: Iloprost RxNorm: 40138
+ATC: B01AC11
+drug: Iloprost trometamol RxNorm: 
+drug: Prasugrel RxNorm: 613391
+ATC: B01AC22
+drug: Ticagrelor RxNorm: 1116632
+ATC: B01AC24
+drug: Ticlopidine RxNorm: 10594
+ATC: B01AC05
+drug: Tirofiban RxNorm: 73137
+ATC: B01AC17
+drug: Treprostinil RxNorm: 343048
+ATC: B01AC21
+PLATINUM-BASED-ANTINEOPLASTIC-DRUGS.html
+
+PLATINUM-BASED-ANTINEOPLASTIC-DRUGS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/PLATINUM-BASED-ANTINEOPLASTIC-DRUGS.html
+
+
+***CLASS***
+CLASS NAME= PLATINUM-BASED ANTINEOPLASTIC DRUGS
+CODE= ORGAPLA
+drug: Carboplatin RxNorm: 40048
+ATC: L01XA02
+drug: Cisplatin RxNorm: 2555
+ATC: L01XA01
+drug: Oxaliplatin RxNorm: 32592
+ATC: L01XA03
+POTASSIUM-LOWERING-AGENTS.html
+
+POTASSIUM-LOWERING-AGENTS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/POTASSIUM-LOWERING-AGENTS.html
+
+
+***CLASS***
+CLASS NAME= POTASSIUM LOWERING AGENTS
+CODE= C03-001
+drug: Altizide RxNorm: 17599
+ATC: C03EA04
+drug: Amphotericin B  RxNorm: 732
+ATC: A01AB04
+ATC: A07AA07
+ATC: G01AA03
+ATC: J02AA01
+drug: Bendroflumethiazide RxNorm: 1369
+ATC: C03AA01
+ATC: C03AB01
+ATC: C03EA13
+drug: Betamethasone RxNorm: 
+ATC: A07EA04
+ATC: C05AA05
+ATC: D07AC01
+ATC: D07XC01
+ATC: H02AB01
+ATC: R01AD06
+ATC: R03BA04
+ATC: S01BA06
+ATC: S01CB04
+ATC: S02BA07
+ATC: S03BA03
+drug: Bisacodyl RxNorm: 1596
+ATC: A06AB02
+ATC: A06AG02
+drug: Boldo RxNorm: 
+drug: Bourdaine RxNorm: 
+drug: Bumetanide RxNorm: 1808
+ATC: C03CA02
+drug: Cascara RxNorm: 66869
+ATC: A06AB07
+drug: Cascara sagrada RxNorm: 
+drug: Chlortalidone RxNorm: 
+ATC: C03BA04
+drug: Cicletanine RxNorm: 21914
+ATC: C03BX03
+drug: Clopamide RxNorm: 2603
+ATC: C03BA03
+drug: Cortisone RxNorm: 2878
+ATC: H02AB10
+ATC: S01BA03
+drug: Cortivazol RxNorm: 21660
+ATC: H02AB17
+drug: Dexamethasone  RxNorm: 3264
+ATC: A01AC02
+ATC: C05AA09
+ATC: D07AB19
+ATC: D07XB05
+ATC: D10AA03
+ATC: H02AB02
+ATC: R01AD03
+ATC: S01BA01
+ATC: S01CB01
+ATC: S02BA06
+ATC: S03BA01
+drug: Fludrocortisone RxNorm: 4452
+ATC: H02AA02
+drug: Furosemide RxNorm: 460
+ATC: C03CA01
+drug: Hydrochlorothiazide RxNorm: 5487
+ATC: C03AA03
+drug: Hydrocortisone RxNorm: 5492
+ATC: A01AC03
+ATC: A07EA02
+ATC: C05AA01
+ATC: D07AA02
+ATC: D07XA01
+ATC: H02AB09
+ATC: S01BA02
+drug: Indapamide RxNorm: 5764
+ATC: C03BA11
+drug: Methyclothiazide RxNorm: 6860
+ATC: C03AA08
+ATC: C03AB08
+drug: Methylprednisolone  RxNorm: 6902
+ATC: D07AA01
+ATC: D10AA02
+ATC: H02AB04
+drug: Piretanide RxNorm: 33770
+ATC: C03CA03
+drug: Prednisolone  RxNorm: 8638
+ATC: A07EA01
+ATC: C05AA04
+ATC: D07AA03
+ATC: D07XA02
+ATC: H02AB06
+ATC: R01AD02
+ATC: S01BA04
+ATC: S01CB02
+ATC: S02BA03
+ATC: S03BA02
+drug: Prednisone RxNorm: 8640
+ATC: A07EA03
+ATC: H02AB07
+drug: Reglisse RxNorm: 
+drug: Rhubarb RxNorm: 
+drug: Ricin RxNorm: 
+drug: Ricinus communis RxNorm: 
+drug: Sene  RxNorm: 
+drug: Sene of India RxNorm: 
+drug: Docusate sodium RxNorm: 71722
+ATC: A06AA02
+drug: Sodium picosulfate RxNorm: 33688
+ATC: A06AB08
+drug: Sodium ricinoleate RxNorm: 
+drug: Tetracosactide RxNorm: 2890
+ATC: H01AA02
+drug: Triamcinolone RxNorm: 10759
+ATC: A01AC01
+ATC: C05AA12
+ATC: D07AB09
+ATC: D07XB02
+ATC: H02AB08
+ATC: R01AD11
+ATC: R03BA06
+ATC: S01BA05
+POTASSIUM-LOWERING-DIURETICS.html
+
+POTASSIUM-LOWERING-DIURETICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/POTASSIUM-LOWERING-DIURETICS.html
+
+
+***CLASS***
+CLASS NAME= POTASSIUM LOWERING DIURETICS
+CODE= C03
+drug: Altizide RxNorm: 17599
+ATC: C03EA04
+drug: Bendroflumethiazide RxNorm: 1369
+ATC: C03AA01
+ATC: C03AB01
+ATC: C03EA13
+drug: Bumetanide RxNorm: 1808
+ATC: C03CA02
+ATC: C03CB02
+ATC: C03EB02
+drug: Chlortalidone RxNorm: 2409
+ATC: C03BA04
+ATC: C03BB04
+ATC: C03EA06
+drug: Cicletanine RxNorm: 21914
+ATC: C03BX03
+drug: Clopamide RxNorm: 2603
+ATC: C03BA03
+ATC: C03BB03
+drug: Furosemide RxNorm: 4603
+ATC: C03CA01
+ATC: C03CB01
+ATC: C03EB01
+drug: Hydrochlorothiazide RxNorm: 5487
+ATC: C03AA03
+ATC: C03AB03
+ATC: C03EA01
+ATC: C03AX01
+ATC: C09DX03
+ATC: C09DX01
+drug: Indapamide RxNorm: 5764
+ATC: C03BA11
+drug: Methyclothiazide RxNorm: 6860
+ATC: C03AA08
+ATC: C03AB08
+drug: Piretanide RxNorm: 33770
+ATC: C03CA03
+POTASSIUM-SPARING-DIURETICS-(ALONE-OR-IN-COMBINATION).html
+
+POTASSIUM-SPARING-DIURETICS-\(ALONE-OR-IN-COMBINATION\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/POTASSIUM-SPARING-DIURETICS-\(ALONE-OR-IN-COMBINATION\).html
+
+
+***CLASS***
+CLASS NAME= POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)
+CODE= C0E-004
+drug: Amiloride RxNorm: 644
+ATC: C03DB01
+drug: Potassium canrenoate RxNorm: 1981
+ATC: C03DA02
+drug: Eplerenone RxNorm: 298869
+ATC: C03DA04
+drug: Spironolactone RxNorm: 9997
+ATC: C03DA01
+drug: Triamterene RxNorm: 10763
+ATC: C03DB02
+PROGESTIN-CONTRACEPTIVES.html
+
+PROGESTIN-CONTRACEPTIVES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/PROGESTIN-CONTRACEPTIVES.html
+
+
+***CLASS***
+CLASS NAME= PROGESTIN CONTRACEPTIVES
+CODE= G03-001
+drug: Desogestrel RxNorm: 22656
+ATC: G03AC09
+ATC: G03FB10
+ATC: G03AA09
+ATC: G03AB05
+drug: Dienogest RxNorm: 22968
+ATC: G03DB08
+ATC: G03AB08
+ATC: G03FA15
+drug: Drospirenone  RxNorm: 840781
+ATC: G03FA17
+ATC: G03AA12
+drug: Etonogestrel RxNorm: 14584
+ATC: G03AC08
+drug: Levonorgestrel RxNorm: 6373
+ATC: G03AC03
+ATC: G03AD01
+ATC: G03FA11
+ATC: G03FB09
+ATC: G03AA07
+ATC: G03AB03
+drug: Medroxyprogesterone RxNorm: 6691
+ATC: G03AC06
+ATC: G03DA02
+ATC: L02AB02
+ATC: G03FA12
+ATC: G03FB06
+ATC: G03AA08
+drug: Nomegestrol RxNorm: 31930
+ATC: G03DB04
+ATC: G03AA14
+drug: Norelgestromin RxNorm: 326374
+ATC: G03AA13
+drug: Norethisterone RxNorm: 7514
+ATC: G03AC01
+ATC: G03DC02
+ATC: G03FA01
+ATC: G03FB05
+ATC: G03AA05
+ATC: G03AB04
+drug: Norgestimate RxNorm: 31994
+ATC: G03FA13
+ATC: G03AA11
+PROTON-PUMP-INHIBITORS.html
+
+PROTON-PUMP-INHIBITORS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/PROTON-PUMP-INHIBITORS.html
+
+
+***CLASS***
+CLASS NAME= PROTON PUMP INHIBITORS
+CODE= A02BC-001
+drug: Esomeprazole RxNorm: 283742
+ATC: A02BC05
+drug: Lansoprazole RxNorm: 17128
+ATC: A02BC03
+drug: Omeprazole RxNorm: 7646
+ATC: A02BC01
+drug: Pantoprazole RxNorm: 40790
+ATC: A02BC02
+drug: Rabeprazole RxNorm: 114979
+ATC: A02BC04
+RETINOIDS.html
+
+RETINOIDS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/RETINOIDS.html
+
+
+***CLASS***
+CLASS NAME= RETINOIDS
+CODE= D05-D10
+drug: Acitretin  RxNorm: 16818
+ATC: D05BB02
+drug: Alitretinoin RxNorm: 81864
+ATC: D11AH04
+ATC: L01XX22
+drug: Isotretinoin RxNorm: 6064
+ATC: D10AD04
+ATC: D10BA01
+drug: Tretinoin RxNorm: 10753
+ATC: D10AD01
+ATC: L01XX14
+REVERSIBLE-MAOI-A,-INCLUDING-LINEZOLIDE-AND-METHYLENE-BLUE.html
+
+REVERSIBLE-MAOI-A,-INCLUDING-LINEZOLIDE-AND-METHYLENE-BLUE.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/REVERSIBLE-MAOI-A,-INCLUDING-LINEZOLIDE-AND-METHYLENE-BLUE.html
+
+
+***CLASS***
+CLASS NAME= REVERSIBLE MAOI-A, INCLUDING LINEZOLIDE AND METHYLENE BLUE
+CODE= NO6AG-001
+drug: Linezolid RxNorm: 190376
+ATC: J01XX08
+drug: Methylthioninium chloride RxNorm: 6878
+ATC: V03AB17
+drug: Moclobemide RxNorm: 30121
+ATC: N06AG02
+RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+
+RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+
+
+***CLASS***
+CLASS NAME= RITONAVIR BOOSTED PROTEASE INHIBITORS
+CODE= J05AE-002
+drug: Atazanavir RxNorm: 343047
+ATC: J05AE08
+drug: Darunavir RxNorm: 460132
+ATC: J05AE10
+drug: Fosamprenavir RxNorm: 358262
+ATC: J05AE07
+drug: Indinavir RxNorm: 114289
+ATC: J05AE02
+drug: Lopinavir RxNorm: 195088
+ATC: J05AR10
+drug: Ritonavir  RxNorm: 85762
+ATC: J05AE03
+drug: Saquinavir RxNorm: 83395
+ATC: J05AE01
+drug: Tipranavir RxNorm: 190548
+ATC: J05AE09
+SEDATIVE-MEDICATIONS.html
+
+SEDATIVE-MEDICATIONS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/SEDATIVE-MEDICATIONS.html
+
+
+***CLASS***
+CLASS NAME= SEDATIVE MEDICATIONS
+CODE= N04-N05-N06
+drug: Agomelatine  RxNorm: 306718
+ATC: N06AX22
+drug: Alfentanil  RxNorm: 480
+ATC: N01AH02
+drug: Alimemazine RxNorm: 10825
+ATC: R06AD01
+drug: Alizapride RxNorm: 17311
+ATC: A03FA05
+drug: Alprazolam RxNorm: 596
+ATC: N05BA12
+drug: Amisulpride RxNorm: 46303
+ATC: N05AL05
+drug: Amitriptyline RxNorm: 704
+ATC: N06AA09
+ATC: N06CA01
+drug: Aripiprazole RxNorm: 89013
+ATC: N05AX12
+drug: Avizafone RxNorm: 
+drug: Azelastine RxNorm: 18603
+ATC: R01AC03
+ATC: R06AX19
+ATC: S01GX07
+drug: Baclofen RxNorm: 1292
+ATC: M03BX01
+drug: Bromazepam RxNorm: 1749
+ATC: N05BA08
+drug: Brompheniramine RxNorm: 1767
+ATC: R06AB01
+drug: Buprenorphine RxNorm: 1819
+ATC: N02AE01
+drug: Captodiame RxNorm: 89812
+ATC: N05BB02
+drug: Chlordiazepoxide  RxNorm: 2356
+ATC: N05BA02
+drug: Chlorphenamine RxNorm: 2400
+ATC: R06AB04
+ATC: R06AB54
+drug: Chlorpromazine  RxNorm: 2403
+ATC: N05AA01
+drug: Clobazam  RxNorm: 21241
+ATC: N05BA09
+drug: Clonazepam RxNorm: 2598
+ATC: N03AE01
+drug: Clonidine RxNorm: 2599
+ATC: C02AC01
+ATC: N02CX02
+ATC: S01EA04
+ATC: C02LC01
+drug: Clorazepate RxNorm: 2353
+ATC: N05BA05
+drug: Clotiazepam RxNorm: 2622
+ATC: N05BA21
+drug: Clozapine  RxNorm: 2626
+ATC: N05AH02
+drug: Codeine  RxNorm: 2670
+ATC: R05DA04
+drug: Cyamemazine RxNorm: 21877
+ATC: N05AA06
+drug: Cyproheptadine  RxNorm: 3013
+ATC: R06AX02
+drug: Dapoxetine RxNorm: 69394
+ATC: G04BX14
+drug: Dexchlorpheniramine RxNorm: 22697
+ATC: R06AB02
+drug: Dexmedetomidine RxNorm: 48937
+ATC: N05CM18
+drug: Dextromethorphane  RxNorm: 3289
+ATC: R05DA09
+drug: di(acefylline) diphenhydramine  RxNorm: 236260
+drug: Diazepam  RxNorm: 3322
+ATC: N05BA01
+drug: Dihydrocodeine RxNorm: 23088
+ATC: N02AA08
+ATC: N02AA58
+drug: Dimenhydrinate RxNorm: 3444
+drug: e: Diphenhydramine RxNorm: 3498
+ATC: D04AA32
+ATC: R06AA02
+drug: Doxepin RxNorm: 3638
+ATC: N06AA12
+drug: Doxylamine RxNorm: 3642
+ATC: R06AA09
+drug: Droperidol RxNorm: 3648
+ATC: N05AD08
+drug: Estazolam RxNorm: 4077
+ATC: N05CD04
+drug: Ethylmorphine RxNorm: 4166
+ATC: R05DA01
+ATC: S01XA06
+drug: Etifoxine RxNorm: 24441
+ATC: N05BX03
+drug: Fenspiride RxNorm: 4335
+ATC: R03BX01
+ATC: R03DX03
+drug: Fentanyl RxNorm: 4337
+ATC: N01AH01
+ATC: N02AB03
+drug: Flunarizine RxNorm: 4459
+ATC: N07CA03
+drug: Flupentixol RxNorm: 4495
+ATC: N05AF01
+drug: Fluphenazine RxNorm: 4496
+ATC: N05AB02
+drug: Flurazepam RxNorm: 4501
+ATC: N05CD01
+drug: Haloperidol RxNorm: 5093
+ATC: N05AD01
+drug: Hydromorphone  RxNorm: 3423
+ATC: N02AA03
+ATC: N02AG04
+drug: Hydroxyzine RxNorm: 5553
+ATC: N05BB01
+drug: Isothipendyl RxNorm: 28012
+ATC: D04AA22
+ATC: R06AD09
+drug: Ketotifen RxNorm: 6146
+ATC: R06AX17
+ATC: S01GX08
+drug: Levomepromazine RxNorm: 6852
+ATC: N05AA02
+drug: Loflazepate RxNorm: 24524
+ATC: N05BA18
+drug: Loprazolam RxNorm: 38555
+ATC: N05CD11
+drug: Lorazepam RxNorm: 6470
+ATC: N05BA06
+drug: Lormetazepam RxNorm: 28894
+ATC: N05CD06
+drug: Loxapine RxNorm: 6475
+ATC: N05AH01
+drug: Maprotiline RxNorm: 6646
+ATC: N06AA21
+drug: Meclozine RxNorm: 6676
+ATC: R06AE05
+drug: Mepyramine RxNorm: 9009
+ATC: D04AA02
+ATC: R06AC01
+drug: Mequitazine  RxNorm: 29528
+ATC: R06AD07
+drug: Methadone  RxNorm: 6813
+ATC: N07BC02
+drug: Methyldopa RxNorm: 6876
+ATC: C02AB
+ATC: C02AB01
+ATC: C02AB02
+drug: Metoclopramide RxNorm: 6915
+ATC: A03FA01
+drug: Metopimazine RxNorm: 29954
+ATC: A04AD05
+drug: Mianserin  RxNorm: 6929
+ATC: N06AX03
+drug: Midazolam  RxNorm: 6960
+ATC: N05CD08
+drug: Mirtazapine RxNorm: 15996
+ATC: N06AX11
+drug: Morphine RxNorm: 7052
+ATC: N02AA01
+drug: Moxonidin RxNorm: 30257
+ATC: C02AC05
+ATC: C02LC05
+drug: Nalbuphine RxNorm: 7238
+ATC: N02AF02
+drug: Naloxone RxNorm: 7242
+ATC: V03AB15
+drug: Nefopam RxNorm: 7285
+ATC: N02BG06
+drug: Nitrazepam RxNorm: 7440
+ATC: N05CD02
+drug: Nordazepam RxNorm: 3155
+ATC: N05BA16
+drug: Noscapine RxNorm: 7533
+ATC: R05DA07
+drug: Olanzapine  RxNorm: 61381
+ATC: N05AH03
+drug: Oxazepam RxNorm: 7781
+ATC: N05BA04
+drug: Oxetorone RxNorm: 32633
+ATC: N02CX06
+drug: Oxomemazine RxNorm: 234528
+ATC: R06AD08
+drug: Sodium Oxybate RxNorm: 9899
+ATC: N01AX11
+ATC: N07XX04
+drug: Oxycodone RxNorm: 7804
+ATC: N02AA05
+drug: Paliperidone RxNorm: 679314
+ATC: N05AX13
+drug: Perampanel RxNorm: 1356552
+ATC: N03AX22
+drug: Pethidine RxNorm: 6754
+ATC: N02AB02
+ATC: N02AG03
+drug: Pheniramine RxNorm: 8132
+ATC: R06AB05
+drug: Phenobarbital RxNorm: 8134
+ATC: N03AA02
+drug: Phenyltoloxamine RxNorm: 33408
+drug: Pholcodine RxNorm: 33431
+ATC: R05DA08
+drug: Pimethixene RxNorm: 33712
+ATC: R06AX23
+drug: Pimozide RxNorm: 8331
+ATC: N05AG02
+drug: Pipamperone RxNorm: 33739
+ATC: N05AD05
+drug: Pipotiazine RxNorm: 8348
+ATC: N05AC04
+drug: Pizotifen RxNorm: 8373
+ATC: N02CX01
+drug: Prazepam RxNorm: 8627
+ATC: N05BA11
+drug: Pregabalin RxNorm: 187832
+ATC: N03AX16
+drug: Primidone RxNorm: 8691
+ATC: N03AA03
+drug: Promethazine RxNorm: 8745
+ATC: V03AB05
+ATC: D04AA10
+ATC: R06AD02
+drug: Propericiazine RxNorm: 8766
+ATC: N05AC01
+drug: Quetiapine  RxNorm: 51272
+ATC: N05AH04
+drug: Remifentanil RxNorm: 703032
+ATC: N01AH06
+drug: Rilmenidine RxNorm: 55679
+ATC: C02AC06
+drug: Risperidone  RxNorm: 35636
+ATC: N05AX08
+drug: Ropinirole  RxNorm: 72302
+ATC: N04BC04
+drug: Rupatadine RxNorm: 138470
+ATC: R06AX28
+drug: Sufentanil RxNorm: 56795
+ATC: N01AH03
+drug: Sulpiride RxNorm: 10239
+ATC: N05AL01
+drug: Tapentadol  RxNorm: 787390
+ATC: N02AX06
+drug: Tetrabenazine RxNorm: 10390
+ATC: N07XX06
+drug: Thalidomide  RxNorm: 10432
+ATC: L04AX02
+drug: Tiapride RxNorm: 10588
+ATC: N05AL03
+drug: Tramadol RxNorm: 10689
+ATC: N02AX02
+drug: Trimipramine RxNorm: 10834
+ATC: N06AA06
+drug: Triprolidine RxNorm: 10849
+ATC: R06AX07
+drug: Ziconotide RxNorm: 68503
+ATC: N02BG08
+drug: Zolpidem RxNorm: 39993
+drug: Zopiclone RxNorm: 40001
+ATC: N05CF01
+drug: Zuclopenthixol RxNorm: 114176
+ATC: N05AF05
+SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+
+SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-\(SSRIs\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-\(SSRIs\).html
+
+
+***CLASS***
+CLASS NAME= SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)
+CODE= N06AB
+drug: Citalopram RxNorm: 2556
+ATC: N06AB04
+drug: Dapoxetine RxNorm: 69394
+ATC: G04BX14
+drug: Escitalopram RxNorm: 321988
+ATC: N06AB10
+drug: Fluoxetine RxNorm: 4493
+ATC: N06AB03
+ATC: N06CA03
+drug: Fluvoxamine RxNorm: 42355
+drug: Paroxetine RxNorm: 32937
+ATC: N06AB05
+drug: Sertraline RxNorm: 36437
+ATC: N06AB06
+drug: Vortioxetine RxNorm: 1455099
+ATC: N06AX26
+SOMATOSTATIN-ANALOGS.html
+
+SOMATOSTATIN-ANALOGS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/SOMATOSTATIN-ANALOGS.html
+
+
+***CLASS***
+CLASS NAME= SOMATOSTATIN ANALOGS
+CODE= H01CB0-001
+drug: Lanreotide RxNorm: 68092
+ATC: H01CB03
+drug: Octreotide RxNorm: 7617
+ATC: H01CB02
+drug: Pasireotide RxNorm: 1364105
+ATC: H01CB05
+SPERMICIDES.html
+
+SPERMICIDES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/SPERMICIDES.html
+
+
+***CLASS***
+CLASS NAME= SPERMICIDES
+CODE= R02AA
+drug: Benzalkonium RxNorm: 1378
+ATC: D08AJ01
+ATC: D09AA11
+ATC: R02AA16
+ATC: R02AA10
+drug: Cetalkonium RxNorm: 
+drug: Nonoxynol-9 RxNorm: 53750
+STEP-III-OPIOID-ANALGESICS.html
+
+STEP-III-OPIOID-ANALGESICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/STEP-III-OPIOID-ANALGESICS.html
+
+
+***CLASS***
+CLASS NAME= STEP III OPIOID ANALGESICS 
+CODE= N02A-002
+drug: Alfentanil RxNorm: 480
+ATC: N01AH02
+drug: Fentanyl RxNorm: 4337
+ATC: N01AH01
+ATC: N02AB03
+drug: Hydromorphone  RxNorm: 3423
+ATC: N02AA03
+ATC: N02AG04
+drug: Morphine RxNorm: 7052
+ATC: N02AA01
+ATC: N02AG01
+ATC: R05DA05
+drug: Oxycodone RxNorm: 7804
+ATC: N02AA05
+drug: Pethidine RxNorm: 6754
+ATC: N02AB02
+ATC: N02AG03
+drug: Remifentanil RxNorm: 73032
+ATC: N01AH06
+drug: Sufentanil RxNorm: 56795
+ATC: N01AH03
+drug: Tapentadol  RxNorm: 787390
+ATC: N02AX06
+STEP II OPIOID ANALGESICS.html
+
+STEP II OPIOID ANALGESICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/STEP II OPIOID ANALGESICS.html
+
+STRONG-INHIBITORS-OF-CYP3A4.html
+
+STRONG-INHIBITORS-OF-CYP3A4.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/STRONG-INHIBITORS-OF-CYP3A4.html
+
+
+***CLASS***
+CLASS NAME= STRONG INHIBITORS OF CYP3A4
+CODE= J02-J05
+drug: Boceprevir  RxNorm: 1102129
+ATC: J05AE12
+drug: Clarithromycin RxNorm: 21212
+ATC: J01FA09
+drug: Cobicistat RxNorm: 1306284
+ATC: V03AX03
+drug: Erythromycin RxNorm: 4053
+ATC: D10AF02
+ATC: J01FA01
+ATC: S01AA17
+drug: Itraconazole RxNorm: 28031
+ATC: J02AC02
+drug: Ketoconazole  RxNorm: 6135
+ATC: D01AC08
+ATC: G01AF11
+ATC: J02AB02
+drug: Posaconazole RxNorm: 282446
+ATC: J02AC04
+drug: Ritonavir RxNorm: 85762
+ATC: J05AE03
+drug: Telaprevir  RxNorm: 1102261
+ATC: J05AE11
+drug: Telithromycin RxNorm: 274786
+ATC: J01FA15
+drug: Voriconazole  RxNorm: 121243
+ATC: J02AC03
+SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+
+SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+
+
+***CLASS***
+CLASS NAME= SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES
+CODE= C01-N05
+drug: Amiodarone RxNorm: 703
+ATC: C01BD01
+drug: Amisulpride RxNorm: 46303
+ATC: N05AL05
+drug: Arsenic trioxide RxNorm: 18330
+ATC: L01XX27
+drug: Chloroquine RxNorm: 2393
+ATC: P01BA01
+drug: Chlorpromazine  RxNorm: 2403
+ATC: N05AA01
+drug: Citalopram RxNorm: 2556
+ATC: N06AB04
+drug: Cocaine RxNorm: 2653
+ATC: N01BC01
+ATC: R02AD03
+ATC: S01HA01
+ATC: S02DA02
+drug: Cyamemazine RxNorm: 21877
+ATC: N05AA06
+drug: Disopyramide RxNorm: 3541
+ATC: C01BA03
+drug: Domperidone RxNorm: 3626
+ATC: A03FA03
+drug: Dronedarone RxNorm: 233698
+ATC: C01BD07
+drug: Droperidol RxNorm: 3648
+ATC: N05AD08
+drug: Erythromycin RxNorm: 4053
+ATC: D10AF02
+ATC: J01FA01
+ATC: S01AA17
+drug: Escitalopram RxNorm: 321988
+ATC: N06AB10
+drug: Flupentixol RxNorm: 4495
+ATC: N05AF01
+drug: Fluphenazine RxNorm: 4496
+ATC: N05AB02
+drug: Halofantrine  RxNorm: 50749
+ATC: P01BX01
+drug: Haloperidol RxNorm: 5093
+ATC: N05AD01
+drug: Hydroquinidine RxNorm: 27220
+drug: Hydroxychloroquine RxNorm: 5521
+ATC: P01BA02
+drug: Hydroxyzine RxNorm: 5553
+ATC: N05BB01
+drug: Levomepromazine RxNorm: 6852
+ATC: N05AA02
+drug: Lumefantrine RxNorm: 847728
+ATC: P01BF01
+drug: Mequitazine  RxNorm: 29528
+ATC: R06AD07
+drug: Methadone  RxNorm: 6813
+ATC: N07BC02
+drug: Moxifloxacine RxNorm: 139462
+ATC: J01MA14
+ATC: S01AE07
+drug: Pentamidine RxNorm: 7994
+ATC: P01CX01
+drug: Pimozide RxNorm: 8331
+ATC: N05AG02
+drug: Pipamperone RxNorm: 33739
+ATC: N05AD05
+drug: Piperaquine RxNorm: 1430959
+ATC: P01BF05
+drug: Pipotiazine RxNorm: 8348
+ATC: N05AC04
+drug: Prucalopride RxNorm: 278774
+ATC: A06AX05
+drug: Quinidine RxNorm: 9068
+ATC: C01BA01
+drug: Sotalol RxNorm: 9947
+ATC: C07AA07
+drug: Spiramycin RxNorm: 9991
+ATC: J01FA02
+ATC: J01RA04
+drug: Sulpiride RxNorm: 10239
+ATC: N05AL01
+drug: Tiapride RxNorm: 10588
+ATC: N05AL03
+drug: Toremifene RxNorm: 38409
+ATC: L02BA02
+drug: Vandetanib RxNorm: 1098413
+ATC: L01XE12
+drug: Vincamine RxNorm: 11201
+ATC: C04AX07
+drug: Zuclopenthixol RxNorm: 114176
+ATC: N05AF05
+SUBSTANCES-WITH-ABSORPTION-REDUCED-BY-GASTRO-INTESTINAL-TARGETED-MEDICATIONS,-ANTACIDS,-AND-ABSORBANTS.html
+
+SUBSTANCES-WITH-ABSORPTION-REDUCED-BY-GASTRO-INTESTINAL-TARGETED-MEDICATIONS,-ANTACIDS,-AND-ABSORBANTS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/SUBSTANCES-WITH-ABSORPTION-REDUCED-BY-GASTRO-INTESTINAL-TARGETED-MEDICATIONS,-ANTACIDS,-AND-ABSORBANTS.html
+
+
+***CLASS***
+CLASS NAME= SUBSTANCES WITH ABSORPTION REDUCED BY GASTRO-INTESTINAL TARGETED MEDICATIONS, ANTACIDS, AND ABSORBANTS 
+CODE= RBGI
+drug: Acetylsalicylic acid RxNorm: 
+ATC: A01AD05
+ATC: B01AC06
+ATC: C10BX01
+ATC: C10BX02
+ATC: C10BX04
+ATC: M01BA03
+ATC: N02BA01
+drug: Alendronic Acid RxNorm: 236083
+ATC: M05BA04
+drug: Clodronic acid RxNorm: 3350
+ATC: M05BA02
+drug: Etidronic acid RxNorm: 1356715
+ATC: M05BA01
+drug: Ibandronic Acid RxNorm: 115265
+ATC: M05BA06
+drug: Oxidronic acid RxNorm: 1546448
+ATC: V09BA01
+drug: Pamidronic acid RxNorm: 1546406
+ATC: M05BA03
+drug: Risedronic acid RxNorm: 55685
+ATC: M05BA07
+drug: Tiludronic acid RxNorm: 11476
+drug: Zoledronic acid RxNorm: 77655
+ATC: M05BA08
+drug: Alimemazine RxNorm: 10825
+ATC: R06AD01
+drug: Atenolol RxNorm: 1202
+ATC: C07AB03
+drug: Betamethasone RxNorm: 1514
+drug: Budesonide RxNorm: 19831
+ATC: A07EA06
+ATC: D07AC09
+ATC: R01AD05
+ATC: R03BA02
+drug: Cation Exchange Resins RxNorm: 2161
+ATC: V04CG01
+drug: Chloroquine RxNorm: 2393
+ATC: P01BA01
+drug: Chlorpromazine  RxNorm: 2403
+ATC: N05AA01
+drug: Chlortetracycline RxNorm: 2408
+ATC: A01AB21
+ATC: D06AA02
+ATC: J01AA03
+ATC: S01AA02
+drug: Cimetidine  RxNorm: 2541
+ATC: A02BA01
+drug: Ciprofloxacin RxNorm: 2551
+ATC: J01MA02
+ATC: S01AE03
+ATC: S02AA15
+ATC: S03AA07
+drug: Clindamycin RxNorm: 2582
+ATC: D10AF01
+ATC: G01AA10
+ATC: J01FF01
+drug: Cortisone RxNorm: 2878
+ATC: H02AB10
+ATC: S01BA03
+drug: Cyamemazine RxNorm: 21877
+ATC: N05AA06
+drug: Demeclocycline RxNorm: 3154
+ATC: D06AA01
+ATC: J01AA01
+drug: Dexamethasone RxNorm: 3264
+ATC: A01AC02
+ATC: C05AA09
+ATC: D07AB19
+ATC: D07XB05
+ATC: D10AA03
+ATC: H02AB02
+ATC: R01AD03
+ATC: S01BA01
+ATC: S01CB01
+ATC: S02BA06
+ATC: S03BA01
+ATC: D07CB04
+ATC: S01CA01
+ATC: S02CA06
+ATC: S03CA01
+drug: Digoxin  RxNorm: 3407
+ATC: C01AA05
+drug: Dolutegravir RxNorm: 1433868
+ATC: J05AX12
+drug: Doxycycline RxNorm: 3640
+ATC: A01AB22
+ATC: J01AA02
+drug: Elvitegravir RxNorm: 1306286
+ATC: J05AX11
+drug: Enoxacine RxNorm: 3925
+ATC: J01MA04
+drug: Ethambutol RxNorm: 4110
+drug: Famotidine RxNorm: 4278
+ATC: A02BA03
+drug: Iron  RxNorm: 1431589
+ATC: B03A
+drug: Fexofenadine RxNorm: 87636
+ATC: R06AX26
+drug: Fluor RxNorm: 
+drug: Fluphenazine RxNorm: 4496
+ATC: N05AB02
+drug: Isoniazid  RxNorm: 6038
+ATC: J04AM03
+ATC: J04AC01
+ATC: J04AM02
+ATC: J04AM05
+ATC: J04AM06
+ATC: J04AM01
+ATC: J04AM04
+drug: Lansoprazole RxNorm: 17128
+ATC: A02BC03
+ATC: A02BD07
+ATC: A02BD03
+ATC: A02BD02
+drug: Ledipasvir RxNorm: 1591922
+drug: Levofloxacin RxNorm: 82122
+ATC: J01MA12
+ATC: S01AE05
+drug: Levomepromazine RxNorm: 6852
+ATC: N05AA02
+drug: Levothyroxine RxNorm: 
+drug: Lincomycin RxNorm: 6398
+ATC: J01FF02
+drug: Liothyronine sodium RxNorm: 
+ATC: H03AA02
+drug: Lomefloxacin RxNorm: 28872
+ATC: J01MA07
+ATC: S01AE04
+drug: Lymecycline RxNorm: 6513
+ATC: J01AA04
+drug: Methylenecycline RxNorm: 
+drug: Methylprednisolone RxNorm: 6902
+ATC: D07AA01
+ATC: D10AA02
+ATC: H02AB04
+ATC: D07CA02
+ATC: S01CA08
+ATC: H02BX01
+drug: Metopimazine RxNorm: 29954
+ATC: A04AD05
+drug: Metoprolol RxNorm: 6918
+ATC: C07AB02
+ATC: C07FB02
+ATC: C07CB02
+ATC: C07BB02
+drug: Minocycline RxNorm: 6980
+ATC: A01AB23
+ATC: J01AA08
+drug: Moxifloxacin RxNorm: 139462
+ATC: J01MA14
+ATC: S01AE07
+drug: Nizatidine RxNorm: 42319
+ATC: A02BA04
+drug: Norfloxacin RxNorm: 7517
+ATC: J01MA06
+ATC: S01AE02
+drug: Ofloxacin RxNorm: 7623
+ATC: J01MA01
+ATC: S01AE01
+ATC: S02AA16
+drug: Oxomemazine RxNorm: 234528
+ATC: R06AD08
+drug: Oxytetracycline RxNorm: 7821
+ATC: D06AA03
+ATC: G01AA07
+ATC: J01AA06
+ATC: S01AA04
+drug: Pefloxacin RxNorm: 7960
+ATC: J01MA03
+drug: Penicillamine RxNorm: 7975
+ATC: M01CC01
+drug: Phosphorus RxNorm: 8263
+drug: Piperazine RxNorm: 8340
+ATC: P02CB
+ATC: P02CB01
+drug: Pipotiazine RxNorm: 8348
+ATC: N05AC04
+drug: Prednisolone RxNorm: 8638
+ATC: A07EA01
+ATC: C05AA04
+ATC: D07AA03
+ATC: D07XA02
+ATC: H02AB06
+ATC: R01AD02
+ATC: S01BA04
+ATC: S01CB02
+ATC: S02BA03
+ATC: S03BA02
+ATC: D07CA03
+ATC: S01CA02
+ATC: S02CA01
+ATC: S03CA02
+ATC: D07BA01
+ATC: S01BB02
+ATC: V03AB05
+ATC: A01AC54
+drug: Prednisone RxNorm: 8640
+ATC: A07EA03
+ATC: H02AB07
+drug: Proguanil RxNorm: 2382
+ATC: P01BB01
+drug: Promethazine RxNorm: 8745
+ATC: V03AB05
+ATC: D04AA10
+ATC: R06AD02
+drug: Propericiazine RxNorm: 8766
+ATC: N05AC01
+drug: Propranolol  RxNorm: 8787
+ATC: C07AA05
+drug: Ranitidine RxNorm: 9143
+ATC: A02BA02
+drug: Rosuvastatin  RxNorm: 301542
+ATC: C10AA07
+drug: Sulpiride  RxNorm: 10239
+ATC: N05AL01
+drug: Teriflunomide RxNorm: 1310520
+ATC: L04AA31
+drug: Tetracycline RxNorm: 10395
+ATC: A02BD08
+ATC: J01AA20
+ATC: A02BD02
+ATC: A01AB13
+ATC: D06AA04
+ATC: J01AA07
+ATC: S01AA09
+ATC: S02AA08
+ATC: S03AA02
+drug: Thyroxines RxNorm: 
+drug: Tigecycline RxNorm: 384455
+ATC: J01AA12
+drug: Tiratricol RxNorm: 13982
+drug: Triamcinolone RxNorm: 10759
+ATC: A01AC01
+ATC: C05AA12
+ATC: D07AB09
+ATC: D07XB02
+ATC: H02AB08
+ATC: R01AD11
+ATC: R03BA06
+ATC: S01BA05
+ATC: D07CB01
+ATC: S02CA04
+ATC: D07BB03
+drug: Ulipristal RxNorm: 1005921
+ATC: G03AD02
+SUBSTRATES-AT-RISK-OF-CYP3A4.html
+
+SUBSTRATES-AT-RISK-OF-CYP3A4.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/SUBSTRATES-AT-RISK-OF-CYP3A4.html
+
+
+***CLASS***
+CLASS NAME= SUBSTRATES AT RISK OF CYP3A4
+CODE= L01N01
+drug: Alfentanil  RxNorm: 480
+ATC: N01AH02
+drug: Apixaban RxNorm: 1364430
+ATC: B01AF02
+drug: Atorvastatin RxNorm: 83367
+ATC: C10AA05
+drug: Bortezomib  RxNorm: 358258
+ATC: L01XX32
+drug: Cabazitaxel  RxNorm: 996051
+ATC: L01CD04
+drug: Ciclosporin  RxNorm: 3008
+ATC: L04AD01
+ATC: S01XA18
+drug: Dasatinib RxNorm: 475342
+ATC: L01XE06
+drug: Dihydroergotamine RxNorm: 3418
+ATC: N02CA01
+drug: Docetaxel RxNorm: 72962
+ATC: L01CD02
+drug: Ergotamine RxNorm: 4025
+ATC: N02CA02
+drug: Erlotinib RxNorm: 337525
+ATC: L01XE03
+drug: Everolimus RxNorm: 141704
+ATC: L01XE10
+ATC: L04AA18
+drug: Gefitinib RxNorm: 328134
+ATC: L01XE02
+drug: Halofantrine  RxNorm: 50749
+ATC: P01BX01
+drug: Imatinib RxNorm: 282388
+ATC: L01XE01
+drug: Irinotecan  RxNorm: 51499
+ATC: L01XX19
+drug: Lapatinib RxNorm: 480167
+ATC: L01XE07
+drug: Lumefantrine RxNorm: 847728
+ATC: P01BF01
+drug: Midazolam RxNorm: 6960
+ATC: N05CD08
+drug: Nilotinib RxNorm: 662281
+ATC: L01XE08
+drug: Oxycodone RxNorm: 7804
+ATC: N02AA05
+drug: Pazopanib RxNorm: 714438
+ATC: L01XE11
+drug: Pimozide RxNorm: 8331
+ATC: N05AG02
+drug: Quetiapine  RxNorm: 51272
+ATC: N05AH04
+drug: Quinine  RxNorm: 9071
+ATC: P01BC01
+ATC: M09AA
+drug: Rivaroxaban RxNorm: 1114195
+ATC: B01AF01
+drug: Simvastatin RxNorm: 36567
+ATC: C10AA01
+drug: Sirolimus RxNorm: 35302
+ATC: L04AA10
+drug: Sorafenib RxNorm: 495881
+ATC: L01XE05
+drug: Sufentanil RxNorm: 56795
+ATC: N01AH03
+drug: Sunitinib RxNorm: 357977
+ATC: L01XE04
+drug: Tacrolimus RxNorm: 42316
+ATC: D11AH01
+ATC: L04AD02
+drug: Temsirolimus RxNorm: 657797
+ATC: L01XE09
+drug: Ticagrelor  RxNorm: 1116632
+ATC: B01AC24
+drug: Vinblastine RxNorm: 11198
+ATC: L01CA01
+drug: Vincristine RxNorm: 11202
+ATC: L01CA02
+drug: Vindesine RxNorm: 11204
+ATC: L01CA03
+drug: Vinflunine RxNorm: 194315
+ATC: L01CA05
+drug: Vinorelbine RxNorm: 39541
+ATC: L01CA04
+TETRACYCLINE-ANTIBIOTICS.html
+
+TETRACYCLINE-ANTIBIOTICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/TETRACYCLINE-ANTIBIOTICS.html
+
+
+***CLASS***
+CLASS NAME= TETRACYCLINE ANTIBIOTICS
+CODE= D06AA-J01AA
+drug: Chlortetracycline  RxNorm: 2408
+ATC: A01AB21
+ATC: D06AA02
+ATC: J01AA03
+ATC: S01AA02
+drug: Demeclocycline  RxNorm: 3154
+ATC: D06AA01
+ATC: J01AA01
+drug: Doxycycline  RxNorm: 3640
+ATC: A01AB22
+ATC: J01AA02
+drug: Lymecycline  RxNorm: 6513
+ATC: J01AA04
+drug: Methylenecycline RxNorm: 6812
+drug: Minocycline  RxNorm: 6980
+ATC: A01AB23
+ATC: J01AA08
+drug: Oxytetracycline  RxNorm: 7821
+ATC: D06AA03
+ATC: G01AA07
+ATC: J01AA06
+ATC: S01AA04
+drug: Tetracycline  RxNorm: 10395
+ATC: J01A
+ATC: D06AA
+ATC: J01AA
+ATC: A02BD08
+ATC: J01AA20
+ATC: A02BD02
+ATC: A01AB13
+ATC: D06AA04
+ATC: J01AA07
+ATC: S01AA09
+ATC: S02AA08
+ATC: S03AA02
+drug: Tigecycline  RxNorm: 384455
+ATC: J01AA1
+THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+
+THEOPHYLLINE-\(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/THEOPHYLLINE-\(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE\).html
+
+
+***CLASS***
+CLASS NAME= THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)
+CODE= R03DA
+drug: Aminophylline  RxNorm: 689
+ATC: R03DA05
+ATC: R03DB05
+drug: Theophylline  RxNorm: 10438
+ATC: R03DA04
+ATC: R03DB04
+THIAZIDE-DIURETICS-AND-RELATED.html
+
+THIAZIDE-DIURETICS-AND-RELATED.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/THIAZIDE-DIURETICS-AND-RELATED.html
+
+
+***CLASS***
+CLASS NAME= THIAZIDE DIURETICS AND RELATED
+CODE= C03-003
+drug: Altizide RxNorm: 17599
+ATC: C03EA04
+drug: Bendroflumethiazide RxNorm: 1369
+ATC: C03AA01
+ATC: C03AB01
+ATC: C03EA13
+drug: Chlortalidone RxNorm: 2409
+ATC: C03BA04
+ATC: C03BB04
+ATC: C03EA06
+drug: Cicletanine RxNorm: 21914
+ATC: C03BX03
+drug: Clopamide RxNorm: 2603
+ATC: C03BA03
+ATC: C03BB03
+drug: Hydrochlorothiazide RxNorm: 5487
+ATC: C03AA03
+ATC: C03AB03
+ATC: C03EA01
+ATC: C03AX01
+ATC: C09DX03
+ATC: C09DX01
+drug: Indapamide RxNorm: 5764
+ATC: C03BA11
+drug: Methyclothiazide RxNorm: 6860
+ATC: C03AA08
+ATC: C03AB08
+THROMBOLYTICS.html
+
+THROMBOLYTICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/THROMBOLYTICS.html
+
+
+***CLASS***
+CLASS NAME= THROMBOLYTICS
+CODE= B01AD
+drug: Alteplase recombinant RxNorm: 8410
+ATC: B01AD02
+ATC: S01XA13
+drug: Reteplase RxNorm: 76895
+ATC: B01AD07
+drug: Streptokinase RxNorm: 10106
+ATC: B01AD01
+drug: Tenecteplase RxNorm: 259280
+ATC: B01AD11
+drug: Urokinase RxNorm: 11055
+ATC: B01AD04
+THYROID-HORMONES.html
+
+THYROID-HORMONES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/THYROID-HORMONES.html
+
+
+***CLASS***
+CLASS NAME= THYROID HORMONES
+CODE= H03AA
+drug: Levothyroxine (Levothyroxine Sodium) RxNorm: 40144
+ATC: H03AA01
+ATC: H03AA03
+drug: Liothyronine sodium RxNorm: 142448
+ATC: H03AA02
+drug: Thyroxine RxNorm: 10582
+drug: Tiratricol RxNorm: 13982
+ATC: D11AX08
+ATC: H03AA04
+TORSADES-DE-POINTES-INDUCING-MEDICATIONS-(EXCEPT-ANTIPARASITICS,-NEUROLEPTICS,-METHADONE).html
+
+TORSADES-DE-POINTES-INDUCING-MEDICATIONS-\(EXCEPT-ANTIPARASITICS,-NEUROLEPTICS,-METHADONE\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/TORSADES-DE-POINTES-INDUCING-MEDICATIONS-\(EXCEPT-ANTIPARASITICS,-NEUROLEPTICS,-METHADONE\).html
+
+
+***CLASS***
+CLASS NAME= TORSADES DE POINTES INDUCING MEDICATIONS (EXCEPT ANTIPARASITICS, NEUROLEPTICS, METHADONE)
+CODE= C01B
+drug: Amiodarone  RxNorm: 703
+ATC: C01BD01
+drug: Arsenic trioxide RxNorm: 18330
+ATC: L01XX27
+ATC: G01AB
+ATC: P01AR
+ATC: P01CD
+drug: Citalopram RxNorm: 2556
+ATC: N06AB04
+drug: Cocaine RxNorm: 2653
+ATC: N01BC01
+ATC: R02AD03
+ATC: S01HA01
+ATC: S02DA02
+drug: Disopyramide RxNorm: 3541
+ATC: C01BA03
+drug: Domperidone RxNorm: 3626
+ATC: A03FA03
+drug: Dronedarone RxNorm: 233698
+ATC: C01BD07
+drug: Erythromycin RxNorm: 4053
+ATC: D10AF02
+ATC: D10AF52
+ATC: J01FA01
+ATC: S01AA17
+drug: Escitalopram RxNorm: 321988
+ATC: N06AB10
+drug: Hydroquinidine RxNorm: 27220
+drug: Hydroxyzine RxNorm: 5553
+ATC: N05BB01
+drug: Mequitazine  RxNorm: 29528
+ATC: R06AD07
+drug: Moxifloxacin RxNorm: 139462
+ATC: J01MA14
+ATC: S01AE07
+drug: Piperaquine RxNorm: 1430959
+ATC: P01BF05
+drug: Prucalopride RxNorm: 278774
+ATC: A06AX05
+drug: Quinidine  RxNorm: 9068
+ATC: C01BA01
+drug: Sotalol RxNorm: 9947
+ATC: C07AA07
+drug: Spiramycin  RxNorm: 9991
+ATC: J01FA02
+ATC: J01RA04
+drug: Toremifene RxNorm: 38409
+ATC: L02BA02
+drug: Vandetanib RxNorm: 1098413
+ATC: L01XE12
+drug: Vincamine RxNorm: 11201
+ATC: C04AX07
+TRICYCLIC-ANTIDEPRESSANTS.html
+
+TRICYCLIC-ANTIDEPRESSANTS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/TRICYCLIC-ANTIDEPRESSANTS.html
+
+
+***CLASS***
+CLASS NAME= TRICYCLIC ANTIDEPRESSANTS
+CODE= N06AA-001
+drug: Amitriptyline RxNorm: 704
+ATC: N06AA09
+ATC: N06CA01
+drug: Amoxapine RxNorm: 722
+ATC: N06AA17
+drug: Clomipramine RxNorm: 2597
+ATC: N06AA04
+drug: Dosulepin RxNorm: 3634
+ATC: N06AA16
+drug: Doxepin RxNorm: 3638
+ATC: N06AA12
+drug: Imipramine RxNorm: 5691
+ATC: N06AA02
+drug: Maprotiline RxNorm: 6646
+ATC: N06AA21
+drug: Trimipramine RxNorm: 10834
+ATC: N06AA06
+TRIPTANS.html
+
+TRIPTANS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/TRIPTANS.html
+
+
+***CLASS***
+CLASS NAME= TRIPTANS
+CODE= N02CC-001
+drug: Almotriptan RxNorm: 279645
+ATC: N02CC05
+drug: Eletriptan RxNorm: 231049
+ATC: N02CC06
+drug: Frovatriptan RxNorm: 228783
+ATC: N02CC07
+drug: Naratriptan RxNorm: 141366
+ATC: N02CC02
+drug: Rizatriptan RxNorm: 88014
+ATC: N02CC04
+drug: Sumatriptan RxNorm: 37418
+ATC: N02CC01
+drug: Zolmitriptan RxNorm: 135775
+ATC: N02CC03
+TRIPTANS-METABOLIZED-BY-THE-MAO.html
+
+TRIPTANS-METABOLIZED-BY-THE-MAO.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/TRIPTANS-METABOLIZED-BY-THE-MAO.html
+
+
+***CLASS***
+CLASS NAME= TRIPTANS METABOLIZED BY THE MAO
+CODE= N02CC-002
+drug: Almotriptan RxNorm: 279645
+ATC: N02CC05
+drug: Rizatriptan RxNorm: 88014
+ATC: N02CC04
+drug: Sumatriptan RxNorm: 37418
+ATC: N02CC01
+drug: Zolmitriptan RxNorm: 135775
+ATC: N02CC03
+TRIPTANS-NOT-METABOLIZED-BY-THE-MAO.html
+
+TRIPTANS-NOT-METABOLIZED-BY-THE-MAO.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/TRIPTANS-NOT-METABOLIZED-BY-THE-MAO.html
+
+
+***CLASS***
+CLASS NAME= TRIPTANS NOT METABOLIZED BY THE MAO
+CODE= NO2CC-003
+drug: Eletriptan RxNorm: 231049
+ATC: N02CC06
+drug: Frovatriptan RxNorm: 228783
+ATC: N02CC07
+drug: Naratriptan RxNorm: 141366
+ATC: N02CC02
+TRUE-MORPHINE-ANTITUSSIVES.html
+
+TRUE-MORPHINE-ANTITUSSIVES.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/TRUE-MORPHINE-ANTITUSSIVES.html
+
+
+***CLASS***
+CLASS NAME= TRUE MORPHINE ANTITUSSIVES
+CODE= R0GDA0-002
+drug: Codeine RxNorm: 2670
+ATC: R05DA04
+drug: Ethylmorphine RxNorm: 4166
+ATC: R05DA01
+ATC: S01XA06
+TYPE-5-PHOSPHODIESTERASE-INHIBITORS.html
+
+TYPE-5-PHOSPHODIESTERASE-INHIBITORS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/TYPE-5-PHOSPHODIESTERASE-INHIBITORS.html
+
+
+***CLASS***
+CLASS NAME= TYPE 5 PHOSPHODIESTERASE INHIBITORS
+CODE= G04BE
+drug: Avanafil RxNorm: 1291301
+ATC: G04BE10
+drug: Sildenafil RxNorm: 136411
+ATC: G04BE03
+drug: Tadalafil RxNorm: 358263
+ATC: G04BE08
+drug: Vardenafil RxNorm: 306674
+ATC: G04BE09
+UNFRACTIONATED-HEPARIN-(CURATIVE-DOSES-AND-OR-OLDER-PATIENTS).html
+
+UNFRACTIONATED-HEPARIN-\(CURATIVE-DOSES-AND-OR-OLDER-PATIENTS\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/UNFRACTIONATED-HEPARIN-\(CURATIVE-DOSES-AND-OR-OLDER-PATIENTS\).html
+
+
+***CLASS***
+CLASS NAME= UNFRACTIONATED HEPARIN (CURATIVE DOSES AND/OR OLDER PATIENTS)
+CODE= B01AB-003
+drug: Heparin calcium RxNorm: 20044
+drug: Heparin sodium RxNorm: 9877
+UNFRACTIONATED-HEPARIN-(PREVENTIVE-DOSES).html
+
+UNFRACTIONATED-HEPARIN-\(PREVENTIVE-DOSES\).html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/UNFRACTIONATED-HEPARIN-\(PREVENTIVE-DOSES\).html
+
+
+***CLASS***
+CLASS NAME= UNFRACTIONATED-HEPARIN-(PREVENTIVE-DOSES)
+CODE= B01AB-004
+drug: Heparin calcium RxNorm: 20044
+drug: Heparin sodium RxNorm: 9877
+URINARY-ALKALIZERS.html
+
+URINARY-ALKALIZERS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/URINARY-ALKALIZERS.html
+
+
+***CLASS***
+CLASS NAME= URINARY ALKALIZERS
+CODE= B05-001
+drug: Acetazolamide  RxNorm: 
+ATC: S01EC01
+drug: Sodium bicarbonate RxNorm: 36676
+ATC: B05CB04
+ATC: B05XA02
+drug: Trometamol RxNorm: 10865
+ATC: B05BB03
+URINARY-ANTISPASMODICS.html
+
+URINARY-ANTISPASMODICS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/URINARY-ANTISPASMODICS.html
+
+
+***CLASS***
+CLASS NAME= URINARY ANTISPASMODICS
+CODE= DFST
+drug: Darifenacin  RxNorm: 136198
+ATC: G04BD10
+drug: Fesoterodine RxNorm: 797195
+ATC: G04BD11
+drug: Oxybutynin RxNorm: 32675
+ATC: G04BD04
+drug: Solifenacin  RxNorm: 322167
+ATC: G04BD08
+drug: Tolterodine RxNorm: 119565
+ATC: G04BD07
+VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+
+VALPROIC-\(ACID\)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/VALPROIC-\(ACID\)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+
+
+***CLASS***
+CLASS NAME= VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE
+CODE= N03AG0
+drug: Valproic acid RxNorm: 11118
+ATC: N03AG01
+drug: Valpromide RxNorm: 23420
+ATC: N03AG02
+VASOCONSTRICTOR-ALKALOIDS-OF-ERGOT-OF-RYE.html
+
+VASOCONSTRICTOR-ALKALOIDS-OF-ERGOT-OF-RYE.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/VASOCONSTRICTOR-ALKALOIDS-OF-ERGOT-OF-RYE.html
+
+
+***CLASS***
+CLASS NAME= VASOCONSTRICTOR ALKALOIDS OF ERGOT OF RYE
+CODE= N02CA0-001
+drug: Dihydroergotamine RxNorm: 3418
+ATC: N02CA01
+drug: Ergotamine RxNorm: 4025
+ATC: N02CA02
+drug: Methylergometrine RxNorm: 6883
+ATC: GO2AB01
+VINCA-ALKALOIDS.html
+
+VINCA-ALKALOIDS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/VINCA-ALKALOIDS.html
+
+
+***CLASS***
+CLASS NAME= VINCA ALKALOIDS
+CODE= L01CA
+drug: Vinblastine RxNorm: 11198
+ATC: L01CA01
+drug: Vincristine RxNorm: 11202
+ATC: L01CA02
+drug: Vindesine RxNorm: 11204
+ATC: L01CA03
+drug: Vinflunine RxNorm: 194315
+ATC: L01CA05
+drug: Vinorelbine RxNorm: 39541
+ATC: L01CA04
+VITAMIN-D.html
+
+VITAMIN-D.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/VITAMIN-D.html
+
+
+***CLASS***
+CLASS NAME= VITAMIN D
+CODE= A11CC
+drug: Alfacalcidol RxNorm: 12062
+ATC: A11CC03
+drug: Calcitriol  RxNorm: 1894
+ATC: A11CC04
+ATC: D05AX03
+drug: Cholecalciferol  RxNorm: 2418
+ATC: A11CC05
+ATC: M05BB03
+ATC: M05BB05
+ATC: M05BB04
+drug: Ergocalciferol RxNorm: 4018
+ATC: A11CC01
+VITAMIN-K-ANTAGONISTS.html
+
+VITAMIN-K-ANTAGONISTS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/VITAMIN-K-ANTAGONISTS.html
+
+
+***CLASS***
+CLASS NAME= VITAMIN K ANTAGONISTS
+CODE= B01AA-001
+drug: Acenocoumarol RxNorm: 154
+ATC: B01AA07
+drug: Fluindione RxNorm: 50097
+ATC: B01AA12
+drug: Warfarin RxNorm: 11289
+ATC: B01AA03
+XANTHINE-OXYDASE-INHIBITORS.html
+
+XANTHINE-OXYDASE-INHIBITORS.html
+
+tr -cd '	
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/XANTHINE-OXYDASE-INHIBITORS.html
+
+
+***CLASS***
+CLASS NAME= XANTHINE OXYDASE INHIBITORS
+CODE= M04AA0
+drug: Allopurinol RxNorm: 519
+ATC: M04AA01
+drug: Febuxostat RxNorm: 73689
+ATC: M04AA03
+Error Count: 3
