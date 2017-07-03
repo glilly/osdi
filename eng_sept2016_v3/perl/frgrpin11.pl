@@ -87,7 +87,7 @@ sub html2xml {
 		    print $OUTALL "<SOURCE>\n";
 		    print $OUTFILE "<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>\n";
 		    print $OUTALL "<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>\n";
-		    print $OUTFILE "<SOURCE_FILE>$i</SOURCE_FILE>\n";
+		    print $OUTFILE "<SOURCE_FILE>index[$i]</SOURCE_FILE>\n";
 		    print $OUTALL "<SOURCE_FILE>$index[$i]</SOURCE_FILE>\n";
 		    print $OUTFILE "</SOURCE>\n";
 		    print $OUTALL "</SOURCE>\n";

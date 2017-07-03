@@ -1144,9 +1144,6 @@ ATC: N05AF01
 drug: Fluphenazine RxNorm: 4496
 ATC: N05AB02
 drug: Glycopyrronium RxNorm: 1546438
-ATC: as
-ATC: glycopyrronium
-ATC: bromide
 drug: Homatropine RxNorm: 27084
 ATC: S01FA05
 drug: Hydroxyzine RxNorm: 5553
@@ -1766,13 +1763,24 @@ drug: Propafenone RxNorm: 8754
 ATC: C01BC03
 drug: Quinidine RxNorm: 9068
 ATC: C01BA01
-COMBINED ESTROGEN-PROGESTIN-CONTRACEPTIVES.html
+COMBINED-ESTROGEN-PROGESTIN-CONTRACEPTIVES.html
 
-COMBINED ESTROGEN-PROGESTIN-CONTRACEPTIVES.html
+COMBINED-ESTROGEN-PROGESTIN-CONTRACEPTIVES.html
 
 tr -cd '	
- -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/COMBINED ESTROGEN-PROGESTIN-CONTRACEPTIVES.html
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/COMBINED-ESTROGEN-PROGESTIN-CONTRACEPTIVES.html
 
+
+***CLASS***
+CLASS NAME= COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES
+CODE= G03AB-001
+drug: Dienogest RxNorm: 22968
+ATC: G03DB08
+drug: Estradiol RxNorm: 4083
+ATC: G03CA03
+drug: Ethinylestradiol  RxNorm: 4124
+ATC: G03CA01
+ATC: L02AA03
 CURARES.html
 
 CURARES.html
@@ -2653,7 +2661,7 @@ drug: Piroxicam RxNorm: 8356
 ATC: M01AC01
 ATC: M02AA07
 ATC: S01BC06
-drug: Piroxicam-betadex RxNorm: 
+drug: Piroxicam-betadex RxNorm: 68115
 drug: Potassium  RxNorm: 8588
 ATC: A12BA
 drug: Quinapril RxNorm: 35208
@@ -4288,13 +4296,21 @@ CLASS NAME= OMBITASVIR + PARITAPEVIR
 CODE= OMPA
 drug: Ombitasvir RxNorm: 1597371
 drug: Paritaprevir RxNorm: 1597373
-OPIOID RECEPTOR ANTAGONISTS.html
+OPIOID-RECEPTOR-ANTAGONISTS.html
 
-OPIOID RECEPTOR ANTAGONISTS.html
+OPIOID-RECEPTOR-ANTAGONISTS.html
 
 tr -cd '	
- -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/OPIOID RECEPTOR ANTAGONISTS.html
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/OPIOID-RECEPTOR-ANTAGONISTS.html
 
+
+***CLASS***
+CLASS NAME= OPIOID RECEPTOR ANTAGONISTS (called Partial antagonist opiods in French)
+CODE= N07BB0
+drug: Nalmefene RxNorm: 31479
+ATC: N07BB05
+drug: Naltrexone RxNorm: 7243
+ATC: N07BB04
 OPIOIDS-FOR-REPLACEMENT-THERAPY.html
 
 OPIOIDS-FOR-REPLACEMENT-THERAPY.html

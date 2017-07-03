@@ -103,21 +103,11 @@
 <SOURCE_FILE>ALPHA-AND-BETA-SYMPATHOMIMETICS-(IM-AND-IV-ROUTES).html
 </SOURCE_FILE>
 </SOURCE>
-<DRUG name="Epinephrine is the name for Adrenaline searchable on the ATC search engine. " rxnorm="3992">
-<ATC code="A01AD01" />
-<ATC code="B02BC09" />
-<ATC code="C01CA24" />
-<ATC code="R01AA14" />
-<ATC code="R03AA01" />
-<ATC code="R03AK01" />
-<ATC code="S01EA01" />
-</DRUG>
+<DRUG name="" rxnorm="3992">
 <DRUG name="Dopamine" rxnorm="3628">
 <ATC code="C01CA04" />
 </DRUG>
-<DRUG name="Norepinephrine is the searchable name for Noradrenaline" rxnorm="7512">
-<ATC code="C01CA03" />
-</DRUG>
+<DRUG name="" rxnorm="7512">
 </CLASS>
 <CLASS name="ALPHA BLOCKERS FOR UROLOGICAL USE" code="G04CA-001">
 <SOURCE>
@@ -1227,7 +1217,7 @@
 <DRUG name="Pipotiazine" rxnorm="8348">
 <ATC code="N05AC04" />
 </DRUG>
-<DRUG name="Propericiazine" rxnorm="">
+<DRUG name="Propericiazine" rxnorm="8766">
 </DRUG>
 <DRUG name="Quetiapine " rxnorm="51272">
 <ATC code="N05AH04" />
@@ -1375,9 +1365,6 @@
 <ATC code="N05AB02" />
 </DRUG>
 <DRUG name="Glycopyrronium" rxnorm="1546438">
-<ATC code="as" />
-<ATC code="glycopyrronium" />
-<ATC code="bromide" />
 </DRUG>
 <DRUG name="Homatropine" rxnorm="27084">
 <ATC code="S01FA05" />
@@ -1641,9 +1628,6 @@
 <ATC code="R03CC03" />
 </DRUG>
 <DRUG name="Vilanterol" rxnorm="1424884">
-<ATC code="only" />
-<ATC code="in" />
-<ATC code="combinations" />
 </DRUG>
 </CLASS>
 <CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL AND SOTALOL)" code="C07AB-001">
@@ -1904,7 +1888,7 @@
 <DRUG name="Esmolol " rxnorm="49737">
 <ATC code="C07AB09" />
 </DRUG>
-<DRUG name="Fampridine called Ampyra in the US" rxnorm="897018">
+<DRUG name="Fampridine" rxnorm="897018">
 <ATC code="N07XX07" />
 </DRUG>
 <DRUG name="Fingolimod" rxnorm="1012892">
@@ -2095,7 +2079,7 @@
 <DRUG name="Sodium citrate" rxnorm="56466">
 <ATC code="B05CB02" />
 </DRUG>
-<DRUG name="Diacid citrate of sodium (may be disodium citrate in English)" rxnorm="">
+<DRUG name="Diacid citrate of sodium " rxnorm="">
 </DRUG>
 </CLASS>
 <CLASS name="CLASS IA ANTIARRYTHMICS " code="C01B-002">
@@ -2138,6 +2122,23 @@
 </DRUG>
 <DRUG name="Quinidine" rxnorm="9068">
 <ATC code="C01BA01" />
+</DRUG>
+</CLASS>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>COMBINED-ESTROGEN-PROGESTIN-CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Dienogest" rxnorm="22968">
+<ATC code="G03DB08" />
+</DRUG>
+<DRUG name="Estradiol" rxnorm="4083">
+<ATC code="G03CA03" />
+</DRUG>
+<DRUG name="Ethinylestradiol " rxnorm="4124">
+<ATC code="G03CA01" />
+<ATC code="L02AA03" />
 </DRUG>
 </CLASS>
 <CLASS name="CURARES" code="M03A-001">
@@ -3179,7 +3180,7 @@
 <ATC code="M02AA07" />
 <ATC code="S01BC06" />
 </DRUG>
-<DRUG name="Piroxicam-betadex" rxnorm="">
+<DRUG name="Piroxicam-betadex" rxnorm="68115">
 </DRUG>
 <DRUG name="Potassium " rxnorm="8588">
 <ATC code="A12BA" />
@@ -3430,7 +3431,7 @@
 <SOURCE_FILE>INSULIN.html
 </SOURCE_FILE>
 </SOURCE>
-<DRUG name="The names for codes do not correspond exactly with the names given in the French document for various kinds of insulin. Below are all the RxNorm and ATC codes for insulin on RxNav and the WHO ATC/DDD lists" rxnorm="5856">
+<DRUG name="insulin" rxnorm="236646">
 <ATC code="A10A" />
 </DRUG>
 </CLASS>
@@ -3983,7 +3984,7 @@
 <DRUG name="celiprolol" rxnorm="20498">
 <ATC code="C07AB08" />
 </DRUG>
-<DRUG name="chlortalidone" rxnorm="">
+<DRUG name="chlortalidone" >
 <ATC code="C03BA04" />
 </DRUG>
 <DRUG name="cicletanine" rxnorm="21914">
@@ -4103,9 +4104,6 @@
 <ATC code="C08CA08" />
 </DRUG>
 <DRUG name="olmesartan" rxnorm="321064">
-<ATC code="as" />
-<ATC code=""olmesartan" />
-<ATC code="medoxomil"" />
 <ATC code="C09CA08" />
 </DRUG>
 <DRUG name="perindopril tert-butylamine" rxnorm="54552">
@@ -4200,7 +4198,7 @@
 <DRUG name="Chlorpromazine " rxnorm="2403">
 <ATC code="N05AA01" />
 </DRUG>
-<DRUG name="Cineole" rxnorm="">
+<DRUG name="Cineole" rxnorm="21116">
 <ATC code="R05CA13" />
 </DRUG>
 <DRUG name="Ciprofloxacin " rxnorm="2551">
@@ -4346,7 +4344,7 @@
 </SOURCE>
 <DRUG name="Merbromin" rxnorm="6762">
 </DRUG>
-<DRUG name="Thiomersal" rxnorm="">
+<DRUG name="Thiomersal" rxnorm="10472">
 <ATC code="D08AK06" />
 </DRUG>
 </CLASS>
@@ -4498,14 +4496,8 @@
 <DRUG name="Prilocaine" rxnorm="8686">
 <ATC code="N01BB04" />
 </DRUG>
-<DRUG name="Nitroprusside [sodium (nitroprussiate de) in the French list]" rxnorm="7476">
-<ATC code="C02DD01;" />
-<ATC code="no" />
-<ATC code="ATC" />
-<ATC code="code" />
-<ATC code="for" />
-<ATC code="Sodium" />
-<ATC code="Nitroprusside" />
+<DRUG name="Nitroprusside " rxnorm="7476">
+<ATC code="C02DD01" />
 </DRUG>
 <DRUG name="Sulfadiazine" rxnorm="10171">
 <ATC code="J01EC02" />
@@ -4557,7 +4549,7 @@
 <DRUG name="Paraffin, liquid" rxnorm="6972">
 <ATC code="A06AA01" />
 </DRUG>
-<DRUG name="Silicone" rxnorm="">
+<DRUG name="Silicone" rxnorm="9778">
 <ATC code="A03AX13" />
 </DRUG>
 </CLASS>
@@ -4683,7 +4675,7 @@
 <ATC code="J05AB01" />
 <ATC code="S01AD03" />
 </DRUG>
-<DRUG name="Diatrizoic acid [acide amidotrizoque in the French table]" rxnorm="1546223">
+<DRUG name="Diatrizoic acid " rxnorm="1546223">
 <ATC code="V08AA01" />
 </DRUG>
 <DRUG name="Clodronic Acid" rxnorm="3350">
@@ -4989,11 +4981,8 @@
 <ATC code="C05AE02" />
 </DRUG>
 <DRUG name="Isosorbide" rxnorm="6057">
-<ATC code="as" />
-<ATC code="Isosorbide" />
-<ATC code="dinatrate," />
-<ATC code="see" />
-<ATC code="above" />
+<ATC code="C01DA08" />
+<ATC code="C05AE02" />
 </DRUG>
 <DRUG name="Molsidomine" rxnorm="7023">
 <ATC code="C01DX12" />
@@ -5200,7 +5189,7 @@
 <ATC code="M02AA07" />
 <ATC code="S01BC06" />
 </DRUG>
-<DRUG name="Piroxicam-betadex" rxnorm="">
+<DRUG name="Piroxicam-betadex" rxnorm="68115">
 </DRUG>
 <DRUG name="Rofecoxib" rxnorm="232158">
 <ATC code="M01AH02" />
@@ -5224,6 +5213,19 @@
 <DRUG name="Ombitasvir" rxnorm="1597371">
 </DRUG>
 <DRUG name="Paritaprevir" rxnorm="1597373">
+</DRUG>
+</CLASS>
+<CLASS name="OPIOID RECEPTOR ANTAGONISTS (called Partial antagonist opiods in French)" code="N07BB0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>OPIOID-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Nalmefene" rxnorm="31479">
+<ATC code="N07BB05" />
+</DRUG>
+<DRUG name="Naltrexone" rxnorm="7243">
+<ATC code="N07BB04" />
 </DRUG>
 </CLASS>
 <CLASS name="OPIOIDS FOR REPLACEMENT THERAPY" code="N07BC">
@@ -5444,9 +5446,6 @@
 <ATC code="J01DH03" />
 </DRUG>
 <DRUG name="Imipenem" rxnorm="5690">
-<ATC code="only" />
-<ATC code="in" />
-<ATC code="combination" />
 </DRUG>
 <DRUG name="Meropenem" rxnorm="29561">
 <ATC code="J01DH02" />
@@ -5873,6 +5872,7 @@
 <ATC code="G03AA14" />
 </DRUG>
 <DRUG name="Norelgestromin" rxnorm="326374">
+<ATC code="G03AA13" />
 </DRUG>
 <DRUG name="Norethisterone" rxnorm="7514">
 <ATC code="G03AC01" />
@@ -5883,6 +5883,8 @@
 <ATC code="G03AB04" />
 </DRUG>
 <DRUG name="Norgestimate" rxnorm="31994">
+<ATC code="G03FA13" />
+<ATC code="G03AA11" />
 </DRUG>
 </CLASS>
 <CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001">
@@ -5938,7 +5940,9 @@
 <DRUG name="Linezolid" rxnorm="190376">
 <ATC code="J01XX08" />
 </DRUG>
-<DRUG name="" rxnorm="">
+<DRUG name="Methylthioninium chloride" rxnorm="6878">
+<ATC code="V03AB17" />
+</DRUG>
 <DRUG name="Moclobemide" rxnorm="30121">
 <ATC code="N06AG02" />
 </DRUG>
@@ -6518,7 +6522,7 @@
 <DRUG name="Amisulpride" rxnorm="46303">
 <ATC code="N05AL05" />
 </DRUG>
-<DRUG name="French: Arsenieux, may be Arsenic trioxide" rxnorm="18330">
+<DRUG name="Arsenic trioxide" rxnorm="18330">
 <ATC code="L01XX27" />
 </DRUG>
 <DRUG name="Chloroquine" rxnorm="2393">
