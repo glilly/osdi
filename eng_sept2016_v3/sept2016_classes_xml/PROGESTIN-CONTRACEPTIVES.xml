@@ -2,7 +2,7 @@
 <CLASS name="PROGESTIN CONTRACEPTIVES" code="G03-001">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>124</SOURCE_FILE>
+<SOURCE_FILE>index[124]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Desogestrel" rxnorm="22656">
 <ATC code="G03AC09" />
@@ -43,6 +43,7 @@
 <ATC code="G03AA14" />
 </DRUG>
 <DRUG name="Norelgestromin" rxnorm="326374">
+<ATC code="G03AA13" />
 </DRUG>
 <DRUG name="Norethisterone" rxnorm="7514">
 <ATC code="G03AC01" />
@@ -53,5 +54,7 @@
 <ATC code="G03AB04" />
 </DRUG>
 <DRUG name="Norgestimate" rxnorm="31994">
+<ATC code="G03FA13" />
+<ATC code="G03AA11" />
 </DRUG>
 </CLASS>

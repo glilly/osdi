@@ -2,12 +2,12 @@
 <CLASS name="MINERAL OILS" code="A06AA-">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>95</SOURCE_FILE>
+<SOURCE_FILE>index[95]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Paraffin, liquid" rxnorm="6972">
 <ATC code="A06AA01" />
 </DRUG>
-<DRUG name="Silicone" rxnorm="">
+<DRUG name="Silicone" rxnorm="9778">
 <ATC code="A03AX13" />
 </DRUG>
 </CLASS>

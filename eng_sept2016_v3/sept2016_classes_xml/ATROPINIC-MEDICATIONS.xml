@@ -2,7 +2,7 @@
 <CLASS name="ATROPINIC MEDICATIONS" code="R06AA">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>29</SOURCE_FILE>
+<SOURCE_FILE>index[29]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Alimemazine" rxnorm="10825">
 <ATC code="R06AD01" />
@@ -93,9 +93,6 @@
 <ATC code="N05AB02" />
 </DRUG>
 <DRUG name="Glycopyrronium" rxnorm="1546438">
-<ATC code="as" />
-<ATC code="glycopyrronium" />
-<ATC code="bromide" />
 </DRUG>
 <DRUG name="Homatropine" rxnorm="27084">
 <ATC code="S01FA05" />

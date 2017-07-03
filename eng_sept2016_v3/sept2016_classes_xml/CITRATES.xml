@@ -2,7 +2,7 @@
 <CLASS name="CITRATES" code="V09HX">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>43</SOURCE_FILE>
+<SOURCE_FILE>index[43]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Gallium (67 Ga) citrate" rxnorm="272758">
 <ATC code="V09HX01" />
@@ -15,6 +15,6 @@
 <DRUG name="Sodium citrate" rxnorm="56466">
 <ATC code="B05CB02" />
 </DRUG>
-<DRUG name="Diacid citrate of sodium (may be disodium citrate in English)" rxnorm="">
+<DRUG name="Diacid citrate of sodium " rxnorm="">
 </DRUG>
 </CLASS>

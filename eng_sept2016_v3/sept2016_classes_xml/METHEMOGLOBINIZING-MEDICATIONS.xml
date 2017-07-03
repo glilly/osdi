@@ -2,7 +2,7 @@
 <CLASS name="METHEMOGLOBINIZING MEDICATIONS" code="CO-DO-RO">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>93</SOURCE_FILE>
+<SOURCE_FILE>index[93]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Acetylsulfafurazol" rxnorm="">
 </DRUG>
@@ -25,14 +25,8 @@
 <DRUG name="Prilocaine" rxnorm="8686">
 <ATC code="N01BB04" />
 </DRUG>
-<DRUG name="Nitroprusside [sodium (nitroprussiate de) in the French list]" rxnorm="7476">
-<ATC code="C02DD01;" />
-<ATC code="no" />
-<ATC code="ATC" />
-<ATC code="code" />
-<ATC code="for" />
-<ATC code="Sodium" />
-<ATC code="Nitroprusside" />
+<DRUG name="Nitroprusside " rxnorm="7476">
+<ATC code="C02DD01" />
 </DRUG>
 <DRUG name="Sulfadiazine" rxnorm="10171">
 <ATC code="J01EC02" />

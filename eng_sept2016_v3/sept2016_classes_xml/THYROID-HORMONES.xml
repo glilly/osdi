@@ -2,7 +2,7 @@
 <CLASS name="THYROID HORMONES" code="H03AA">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>143</SOURCE_FILE>
+<SOURCE_FILE>index[143]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Levothyroxine (Levothyroxine Sodium)" rxnorm="40144">
 <ATC code="H03AA01" />

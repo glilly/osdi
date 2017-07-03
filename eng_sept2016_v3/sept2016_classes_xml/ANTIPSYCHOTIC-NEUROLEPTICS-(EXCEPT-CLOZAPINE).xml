@@ -2,7 +2,7 @@
 <CLASS name="ANTIPSYCHOTIC NEUROLEPTICS (EXCEPT CLOZAPINE)" code="N05A-001">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>26</SOURCE_FILE>
+<SOURCE_FILE>index[26]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Amisulpride" rxnorm="46303">
 <ATC code="N05AL05" />
@@ -55,7 +55,7 @@
 <DRUG name="Pipotiazine" rxnorm="8348">
 <ATC code="N05AC04" />
 </DRUG>
-<DRUG name="Propericiazine" rxnorm="">
+<DRUG name="Propericiazine" rxnorm="8766">
 </DRUG>
 <DRUG name="Quetiapine " rxnorm="51272">
 <ATC code="N05AH04" />

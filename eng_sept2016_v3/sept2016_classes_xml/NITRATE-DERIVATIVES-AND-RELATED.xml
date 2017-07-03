@@ -2,18 +2,15 @@
 <CLASS name="NITRATE DERIVATIVES AND RELATED" code="C01D-001">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>103</SOURCE_FILE>
+<SOURCE_FILE>index[103]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Isosorbide dinitrate" rxnorm="6058">
 <ATC code="C01DA08" />
 <ATC code="C05AE02" />
 </DRUG>
 <DRUG name="Isosorbide" rxnorm="6057">
-<ATC code="as" />
-<ATC code="Isosorbide" />
-<ATC code="dinatrate," />
-<ATC code="see" />
-<ATC code="above" />
+<ATC code="C01DA08" />
+<ATC code="C05AE02" />
 </DRUG>
 <DRUG name="Molsidomine" rxnorm="7023">
 <ATC code="C01DX12" />

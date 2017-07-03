@@ -2,7 +2,7 @@
 <CLASS name="MEDICATIONS THAT LOWER THE EPILEPTIC THRESHOLD" code="N05AA-002">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>89</SOURCE_FILE>
+<SOURCE_FILE>index[89]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Alimemazine" rxnorm="10825">
 <ATC code="R06AD01" />
@@ -23,7 +23,7 @@
 <DRUG name="Chlorpromazine " rxnorm="2403">
 <ATC code="N05AA01" />
 </DRUG>
-<DRUG name="Cineole" rxnorm="">
+<DRUG name="Cineole" rxnorm="21116">
 <ATC code="R05CA13" />
 </DRUG>
 <DRUG name="Ciprofloxacin " rxnorm="2551">

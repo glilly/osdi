@@ -2,7 +2,7 @@
 <CLASS name="BRADYCARDIA INDUCING DRUGS" code="C0N0S0">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>39</SOURCE_FILE>
+<SOURCE_FILE>index[39]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Acebutolol " rxnorm="149">
 <ATC code="C07AB04" />
@@ -60,7 +60,7 @@
 <DRUG name="Esmolol " rxnorm="49737">
 <ATC code="C07AB09" />
 </DRUG>
-<DRUG name="Fampridine called Ampyra in the US" rxnorm="897018">
+<DRUG name="Fampridine" rxnorm="897018">
 <ATC code="N07XX07" />
 </DRUG>
 <DRUG name="Fingolimod" rxnorm="1012892">

@@ -2,7 +2,7 @@
 <CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>107</SOURCE_FILE>
+<SOURCE_FILE>index[107]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Aceclofenac" rxnorm="16689">
 <ATC code="M01AB16" />
@@ -93,7 +93,7 @@
 <ATC code="M02AA07" />
 <ATC code="S01BC06" />
 </DRUG>
-<DRUG name="Piroxicam-betadex" rxnorm="">
+<DRUG name="Piroxicam-betadex" rxnorm="68115">
 </DRUG>
 <DRUG name="Rofecoxib" rxnorm="232158">
 <ATC code="M01AH02" />

@@ -2,12 +2,14 @@
 <CLASS name="REVERSIBLE MAOI-A, INCLUDING LINEZOLIDE AND METHYLENE BLUE" code="NO6AG-001">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>127</SOURCE_FILE>
+<SOURCE_FILE>index[127]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Linezolid" rxnorm="190376">
 <ATC code="J01XX08" />
 </DRUG>
-<DRUG name="" rxnorm="">
+<DRUG name="Methylthioninium chloride" rxnorm="6878">
+<ATC code="V03AB17" />
+</DRUG>
 <DRUG name="Moclobemide" rxnorm="30121">
 <ATC code="N06AG02" />
 </DRUG>

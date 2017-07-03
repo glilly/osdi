@@ -2,7 +2,7 @@
 <CLASS name="BETA-2 MIMETICS or BETA2 ADRENERGIC AGONISTS" code="R03C-001">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>33</SOURCE_FILE>
+<SOURCE_FILE>index[33]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Bambuterol" rxnorm="18751">
 <ATC code="R03CC12" />
@@ -23,8 +23,5 @@
 <ATC code="R03CC03" />
 </DRUG>
 <DRUG name="Vilanterol" rxnorm="1424884">
-<ATC code="only" />
-<ATC code="in" />
-<ATC code="combinations" />
 </DRUG>
 </CLASS>

@@ -2,7 +2,7 @@
 <CLASS name="MEDICATIONS THAT LOWER BLOOD PRESSURE " code="MABT">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>88</SOURCE_FILE>
+<SOURCE_FILE>index[88]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="acebutolol " rxnorm="149">
 <ATC code="C07AB04" />
@@ -58,7 +58,7 @@
 <DRUG name="celiprolol" rxnorm="20498">
 <ATC code="C07AB08" />
 </DRUG>
-<DRUG name="chlortalidone" rxnorm="">
+<DRUG name="chlortalidone" >
 <ATC code="C03BA04" />
 </DRUG>
 <DRUG name="cicletanine" rxnorm="21914">
@@ -178,9 +178,6 @@
 <ATC code="C08CA08" />
 </DRUG>
 <DRUG name="olmesartan" rxnorm="321064">
-<ATC code="as" />
-<ATC code=""olmesartan" />
-<ATC code="medoxomil"" />
 <ATC code="C09CA08" />
 </DRUG>
 <DRUG name="perindopril tert-butylamine" rxnorm="54552">

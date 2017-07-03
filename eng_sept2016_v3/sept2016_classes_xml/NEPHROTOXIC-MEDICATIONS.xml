@@ -2,14 +2,14 @@
 <CLASS name="NEPHROTOXIC MEDICATIONS" code="J01-J05">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>99</SOURCE_FILE>
+<SOURCE_FILE>index[99]</SOURCE_FILE>
 </SOURCE>
 <DRUG name="Aciclovir" rxnorm="281">
 <ATC code="D06BB03" />
 <ATC code="J05AB01" />
 <ATC code="S01AD03" />
 </DRUG>
-<DRUG name="Diatrizoic acid [acide amidotrizoque in the French table]" rxnorm="1546223">
+<DRUG name="Diatrizoic acid " rxnorm="1546223">
 <ATC code="V08AA01" />
 </DRUG>
 <DRUG name="Clodronic Acid" rxnorm="3350">
