@@ -297,7 +297,7 @@ ATC: C09AA04
 drug: Quinapril RxNorm: 35208
 ATC: C09AA06
 drug: Ramipril RxNorm: 35296
-ATC: \C09AA05
+ATC: C09AA05
 drug: Trandolapril RxNorm: 38454
 ATC: C09AA10
 drug: Zofenopril RxNorm: 39990
@@ -5337,13 +5337,23 @@ drug: Sufentanil RxNorm: 56795
 ATC: N01AH03
 drug: Tapentadol  RxNorm: 787390
 ATC: N02AX06
-STEP II OPIOID ANALGESICS.html
+STEP-II-OPIOID-ANALGESICS.html
 
-STEP II OPIOID ANALGESICS.html
+STEP-II-OPIOID-ANALGESICS.html
 
 tr -cd '	
- -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/STEP II OPIOID ANALGESICS.html
+ -~' > ./sept2016_classes_html/cleanfile.html < ./sept2016_classes_html/STEP-II-OPIOID-ANALGESICS.html
 
+
+***CLASS***
+CLASS NAME= STEP II OPIOID ANALGESICS
+CODE= N02A-003
+drug: Codeine  RxNorm: 2670
+ATC: R05DA04
+drug: Dihydrocodeine RxNorm: 23088
+ATC: N02AA08
+drug: Tramadol RxNorm: 10689
+ATC: N02AX02
 STRONG-INHIBITORS-OF-CYP3A4.html
 
 STRONG-INHIBITORS-OF-CYP3A4.html

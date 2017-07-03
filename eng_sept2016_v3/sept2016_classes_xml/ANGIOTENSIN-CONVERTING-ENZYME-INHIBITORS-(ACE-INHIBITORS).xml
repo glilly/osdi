@@ -33,7 +33,7 @@
 <ATC code="C09AA06" />
 </DRUG>
 <DRUG name="Ramipril" rxnorm="35296">
-<ATC code="\C09AA05" />
+<ATC code="C09AA05" />
 </DRUG>
 <DRUG name="Trandolapril" rxnorm="38454">
 <ATC code="C09AA10" />
