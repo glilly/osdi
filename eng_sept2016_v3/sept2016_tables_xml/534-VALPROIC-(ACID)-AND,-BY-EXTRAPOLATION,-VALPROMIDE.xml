@@ -7,15 +7,83 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
 <DRUG2>
-<DRUG name="ABATACEPT " rxcui="614391">
-<ATC code="L04AA24" />
+<DRUG name="ACETAZOLAMIDE" rxcui="167">
+<ATC code="S01EC01" />
 </DRUG>
 </DRUG2>
-<DESCRIPTION>Risk of general vaccine disease, possibly fatal</DESCRIPTION>
+<DESCRIPTION>Increase of the hyperammonemia, with accrued risk of encephalopathy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="AZTREONAM" rxcui="1272">
+<ATC code="J01DF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of onset of convulsive crises, due to decrease of the plasma concentrations of the valproic acid</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosages, and possible adjustment of the dosage of the anticonvulsant during the treatment with the antibiotic and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the active metabolite of the carbamazepine with signs of overdose. In addition, decrease of the plasma concentrations of valproic acid due to increase of its hepatic metabolism by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosages and adjustment of the dosage of the two anticonvulsants.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="FELBAMATE" rxcui="24812">
+<ATC code="N03AX10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the valproic acid, with risk of overdose. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, and possible adjustment of the dosage of the valproic acid or of the valpromide during the treatment with the felbamate and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="LAMOTRIGINE" rxcui="28439">
+<ATC code="N03AX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of serious cutaneous reactions (Lyell&#39;s syndorme). In addition, increase of the plasma concentrations of lamotrigine (decrease of its hepatic metabolism by the sodium valproate)</DESCRIPTION>
 <SEVERITY>Not recommended</SEVERITY>
-<COMMENT>as well as during the 3 months following the end of the treatment</COMMENT>
+<COMMENT>If this combination of medications is judged necessary, strict clinical monitoring.</COMMENT>
 </INTERACTION>
 <INTERACTION>
 <SOURCE>
@@ -24,71 +92,13 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
 <DRUG2>
-<CLASS name="MONOCLONAL ANTIBODIES (EXCEPT ANTI-TNF ALPHA)" code="MONANT" /></DRUG2>
-<DESCRIPTION>Risk of general vaccine disease, possibly fatal. </DESCRIPTION>
-<SEVERITY>Not recommended with</SEVERITY>
-<COMMENT>-- belimumab, blinatumomab, canakinumab, obinutuzumab,ofatumumab, rituximab, tocilizumab, ustekinumab</COMMENT>
-</INTERACTION>
-<INTERACTION>
-<SOURCE>
-<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
-</SOURCE_FILE>
-</SOURCE>
-<DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
-<DRUG2>
-<CLASS name="ANTI-TNF ALPHA" code="LO4AB" /></DRUG2>
-<DESCRIPTION>Risk of possibly fatal general vaccine disease </DESCRIPTION>
-<SEVERITY>CONTRAINDICATION</SEVERITY>
-<COMMENT>And during the 3 months following the end of the treatment</COMMENT>
-</INTERACTION>
-<INTERACTION>
-<SOURCE>
-<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
-</SOURCE_FILE>
-</SOURCE>
-<DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
-<DRUG2>
-<DRUG name="BELATACEPT" rxcui="1112973">
-<ATC code="L04AA28" />
+<DRUG name="NIMODIPINE" rxcui="7426">
+<ATC code="C08CA06" />
 </DRUG>
 </DRUG2>
-<DESCRIPTION>Risk of general vaccine disease, possibly fatal</DESCRIPTION>
-<SEVERITY>Not recommended</SEVERITY>
-</INTERACTION>
-<INTERACTION>
-<SOURCE>
-<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
-</SOURCE_FILE>
-</SOURCE>
-<DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
-<DRUG2>
-<CLASS name="CYTOTOXICS" code="L01" /></DRUG2>
-<DESCRIPTION>Risk of possibly fatal general vaccine disease</DESCRIPTION>
-<SEVERITY>CONTRAINDICATION</SEVERITY>
-<COMMENT>--And during the 6 months following the end of the chemotherapy</COMMENT>
-</INTERACTION>
-<INTERACTION>
-<SOURCE>
-<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
-</SOURCE_FILE>
-</SOURCE>
-<DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
-<DRUG2>
-<DRUG name="DIMETHYL (FUMERATE OF)" rxcui="1373478">
-<ATC code="N07XX09" />
-</DRUG>
-</DRUG2>
-<DESCRIPTION>Possible increase of the risk of infection</DESCRIPTION>
+<DESCRIPTION>With the nimodipine by oral route, and by extrapolation, by injection: risk of increase of the hypotensive effect of the nimodipine due to increase of its plasma concentrations (decrease of its metabolism by the valproic acid)</DESCRIPTION>
 <SEVERITY>Take into account</SEVERITY>
 </INTERACTION>
 <INTERACTION>
@@ -98,45 +108,11 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
 <DRUG2>
-<CLASS name="ANTI-LYMPHOCYTE GLOBULINS" code="L04AA0-001" /></DRUG2>
-<DESCRIPTION>Risk of possibly fatal general vaccine disease. This risk is increased in older patients already immunodepressed by the underlying disease.</DESCRIPTION>
-<SEVERITY>Take into account</SEVERITY>
-<COMMENT>In particular, use an inactive vaccine when one exists (poliomyelitis).</COMMENT>
-</INTERACTION>
-<INTERACTION>
-<SOURCE>
-<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
-</SOURCE_FILE>
-</SOURCE>
-<DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
-<DRUG2>
-<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG2>
-<DESCRIPTION>With the exception of inhaled and local routes and for dosages greater than 10mg/day of prednisone equivalent (or &gt;2mg/kg/day with children or &gt;20 mg/day for children weighing more than 10 kg) for more than two weeks and for administration in &quot;bolus&quot; of the corticoids:
-
-risk of possibly fatal general vaccine disease.</DESCRIPTION>
-<SEVERITY>CONTRAINDICATION</SEVERITY>
-<COMMENT>And during the 3 months following the end of the corticotherapy</COMMENT>
-</INTERACTION>
-<INTERACTION>
-<SOURCE>
-<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
-</SOURCE_FILE>
-</SOURCE>
-<DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
-<DRUG2>
-<DRUG name="HYDROXYCARBAMIDE " rxcui="5552">
-<ATC code="L01XX05" />
-</DRUG>
-</DRUG2>
-<DESCRIPTION>In its indication for the patient with drepanocytosis, theoretic risk of general fatal vaccine disease.</DESCRIPTION>
+<CLASS name="PENEMS" code="J01DH" /></DRUG2>
+<DESCRIPTION>Risk of onset of convulsive crises, due to rapid decrease of the plasma concentrations of the valproic acid, that can become undetectable</DESCRIPTION>
 <SEVERITY>Not recommended</SEVERITY>
-<COMMENT>Administering these medications together should only be considered if the benefits are estimated to be superior to this risk.</COMMENT>
 </INTERACTION>
 <INTERACTION>
 <SOURCE>
@@ -145,12 +121,12 @@ risk of possibly fatal general vaccine disease.</DESCRIPTION>
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
 <DRUG2>
-<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
-<DESCRIPTION>Risk of possibly fatal general vaccine disease.</DESCRIPTION>
-<SEVERITY>CONTRAINDICATION</SEVERITY>
-<COMMENT>And during the 3 months following the treatment</COMMENT>
+<CLASS name="PHENOBARBITAL (AND, BY EXTRAPOLATION, PRIMIDONE)" code="N03AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the hyperammonemia, with accrued risk of encephalopathy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring</COMMENT>
 </INTERACTION>
 <INTERACTION>
 <SOURCE>
@@ -159,28 +135,29 @@ risk of possibly fatal general vaccine disease.</DESCRIPTION>
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
 <DRUG2>
-<DRUG name="MYCOPHENOLATE MOFETIL" >
-<ATC code="MYCOPHEN" />
-<ATC code="OLIC" />
-<ATC code="ACID" />
-<ATC code="MYCOPHEN" />
-<ATC code="OLATE" />
-<ATC code="MOFETIL" />
-<ATC code="MYCOPHEN" />
-<ATC code="OLIC" />
-<ATC code="ACID" />
-<ATC code="MYCOPHEN" />
-<ATC code="OLIC" />
-<ATC code="ACID" />
-<ATC code="7145" />
-<ATC code="L04AA06" />
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Increase of the hyperammonemia, with accrued risk of encephalopathy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
 </DRUG>
 </DRUG2>
-<DESCRIPTION>Risk of possibly fatal general vaccine disease.</DESCRIPTION>
-<SEVERITY>CONTRAINDICATION</SEVERITY>
-<COMMENT>And during the 3 months following the end of the treatment.</COMMENT>
+<DESCRIPTION>Risk of onset of convulsive crises, due to increase of the hepatic metabolism of the valproate by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring and possible adjustment of the dosage of the anticonvulsant during the treatment with the rifampicin and after it is stopped.</COMMENT>
 </INTERACTION>
 <INTERACTION>
 <SOURCE>
@@ -189,14 +166,15 @@ risk of possibly fatal general vaccine disease.</DESCRIPTION>
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
 <DRUG2>
-<DRUG name="MYCOPHENOLATE SODIUM " rxcui="408142">
+<DRUG name="RUFINAMIDE" rxcui="69036">
+<ATC code="N03AF03" />
 </DRUG>
 </DRUG2>
-<DESCRIPTION>Risk of possibly fatal general vaccine disease </DESCRIPTION>
-<SEVERITY>CONTRAINDICATION</SEVERITY>
-<COMMENT>And during the 3 months after the end of the treatment.</COMMENT>
+<DESCRIPTION>Possible increase of the concentrations of rufinamide, especially with children who weigh less than 30 kg</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>With children weighing less than 30kg: do not exceed the total dose of 600 mg/day after the period of titration.</COMMENT>
 </INTERACTION>
 <INTERACTION>
 <SOURCE>
@@ -205,13 +183,51 @@ risk of possibly fatal general vaccine disease.</DESCRIPTION>
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
 <DRUG2>
-<DRUG name="TERIFLUNOMIDE" rxcui="1310520">
-<ATC code="L04AA31" />
+<DRUG name="TOPIRAMATE" rxcui="38404">
+<ATC code="38404" />
 </DRUG>
 </DRUG2>
-<DESCRIPTION>Risk of general vaccine disease, possibly fatal</DESCRIPTION>
-<SEVERITY>Not recommended</SEVERITY>
+<DESCRIPTION>Increase of the hyperammonemia with accrued risk of encephalopathy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="ZIDOVUDINE (AZT)" rxcui="11413">
+<ATC code="J05AF01" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects, especially hematological ones, of the zidovudine due to decrease of its metabolism by the valproic acid.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring. A CBC checking for anemia should be done during the course of the first two months of the administration of these substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="ZONISAMIDE " rxcui="">
+<ATC code="N03AX15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hyperammonemia, with accrued risk of encephalopathy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring </COMMENT>
 </INTERACTION>
 </INTERACTIONS>

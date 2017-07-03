@@ -7,33 +7,11 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="ZOPICLONE" rxcui="40001">
-<ATC code="N05CF01" />
-</DRUG>
-</DRUG1>
+<CLASS name="MONOCLONAL ANTIBODIES (EXCEPT ANTI-TNF ALPHA)" code="MONANT" /></DRUG1>
 <DRUG2>
-<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
-<DESCRIPTION>Slight increase of the sedative effect of the zopiclone</DESCRIPTION>
-<SEVERITY>Take into account</SEVERITY>
-</INTERACTION>
-<INTERACTION>
-<SOURCE>
-<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>55-MONOCLONAL-ANTIBODIES-(EXCEPT-ANTI-TNF-ALPHA).html
-</SOURCE_FILE>
-</SOURCE>
-<DRUG1>
-<DRUG name="ZOPICLONE" rxcui="40001">
-<ATC code="N05CF01" />
-</DRUG>
-</DRUG1>
-<DRUG2>
-<DRUG name="RIFAMPICIN" rxcui="9384">
-<ATC code="J04AB02" />
-</DRUG>
-</DRUG2>
-<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the zopiclone due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
-<SEVERITY>Precaution for use</SEVERITY>
-<COMMENT>Clinical monitoring.Possibly use another hypnotic.</COMMENT>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG2>
+<DESCRIPTION>Risk of general vaccine disease, possibly fatal. </DESCRIPTION>
+<SEVERITY>Not recommended with:</SEVERITY>
+<COMMENT>--belimumab, blinatumomab, canakinumab, obinutuzumab, ofatumumab, rituximab, tocilizumab, ustekinumab</COMMENT>
 </INTERACTION>
 </INTERACTIONS>

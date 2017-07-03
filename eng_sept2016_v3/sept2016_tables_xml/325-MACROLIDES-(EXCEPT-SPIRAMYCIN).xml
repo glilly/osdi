@@ -7,13 +7,10 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="MACITENTAN" rxcui="1442132">
-<ATC code="C02KX04" />
-</DRUG>
-</DRUG1>
+<CLASS name="MACROLIDES (EXCEPT SPIRAMYCIN)" code="J01FA" /></DRUG1>
 <DRUG2>
-<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
-<DESCRIPTION>Decrease of the plasma concentrations of macitentan due to increase of its metabolism by the inducer</DESCRIPTION>
+<CLASS name="DOPAMINERGIC ALKALOIDS OF ERGOT OF RYE" code="G02CB-001" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the dopaminergic with possible increase of its activity or appearance of signs of overdose. </DESCRIPTION>
 <SEVERITY>Not recommended</SEVERITY>
 </INTERACTION>
 <INTERACTION>
@@ -23,15 +20,59 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="MACITENTAN" rxcui="1442132">
-<ATC code="C02KX04" />
-</DRUG>
-</DRUG1>
+<CLASS name="MACROLIDES (EXCEPT SPIRAMYCIN)" code="J01FA" /></DRUG1>
 <DRUG2>
-<DRUG name="ST JOHNS WORT" rxcui="258326">
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the macrolide and after it is stopped</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>325-MACROLIDES-(EXCEPT-SPIRAMYCIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MACROLIDES (EXCEPT SPIRAMYCIN)" code="J01FA" /></DRUG1>
+<DRUG2>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
 </DRUG>
 </DRUG2>
-<DESCRIPTION>Risk of decrease of the plasma concentrations of macitentan due to increase of its metabolism by the St Johns wort</DESCRIPTION>
-<SEVERITY>Not recommended</SEVERITY>
+<DESCRIPTION>Increase of the undesirable effects of the colchicine, with potentially fatal consequences</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>325-MACROLIDES-(EXCEPT-SPIRAMYCIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MACROLIDES (EXCEPT SPIRAMYCIN)" code="J01FA" /></DRUG1>
+<DRUG2>
+<DRUG name="DIHYDROERGOTAMINE" rxcui="3418">
+<ATC code="N02CA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremities (inhibition of the hepatic elimination of the alkaloid of ergot of rye).</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>325-MACROLIDES-(EXCEPT-SPIRAMYCIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MACROLIDES (EXCEPT SPIRAMYCIN)" code="J01FA" /></DRUG1>
+<DRUG2>
+<DRUG name="ERGOTAMINE" rxcui="4025">
+<ATC code="N02CA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremeties (decrease of the hepatic elimination of the ergotamine).</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
 </INTERACTION>
 </INTERACTIONS>

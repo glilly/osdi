@@ -23,7 +23,10 @@ while ($index[$i]) {
     print "$index[$i]\n";
     #my $dir = "../eng_tables2015-html/";
     my $outdir = "./sept2016_tables_xml/";
-    my $clean = "tr -cd '\11\12\15\40-\176' > $dir" . "cleanfile.html < $dir" . "$index[$i]";
+    my $infile = $index[$i];
+    $infile =~ s/\(/\\\(/g ;
+    $infile =~ s/\)/\\\)/g ;
+    my $clean = "tr -cd '\11\12\15\40-\176' > $dir" . "cleanfile.html < $dir" . "$infile";
     system($clean);
     #my $htmlin = &getcontent("$dir" . "$index[$i]");
     my $htmlin = &getcontent("$dir" . "cleanfile.html");
@@ -36,6 +39,7 @@ while ($index[$i]) {
     print $OUTFILE "</INTERACTIONS>\n";
     close($OUTFILE);
     $htmlin='';
+    system("rm $dir"."cleanfile.html");
     $i++;
 }
 print $OUTALL "</INTERACTIONS>";

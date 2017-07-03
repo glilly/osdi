@@ -7,32 +7,10 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="DELAMANID" rxcui="1344662">
-<ATC code="J04AK06" />
-</DRUG>
-</DRUG1>
+<CLASS name="DERIVATIVES OF AMINOSALICYLIC ACID (ASA)" code="A07EC-001" /></DRUG1>
 <DRUG2>
-<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
-<DESCRIPTION>Decrease of the plasma concentrations de delamanid due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
-<SEVERITY>CONTRAINDICATION</SEVERITY>
-</INTERACTION>
-<INTERACTION>
-<SOURCE>
-<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>167-DERIVATIVES-OF-AMINOSALICYLIC-ACID-(ASA).html
-</SOURCE_FILE>
-</SOURCE>
-<DRUG1>
-<DRUG name="DELAMANID" rxcui="1344662">
-<ATC code="J04AK06" />
-</DRUG>
-</DRUG1>
-<DRUG2>
-<DRUG name="RIFAMPICIN" rxcui="9384">
-<ATC code="J04AB02" />
-</DRUG>
-</DRUG2>
-<DESCRIPTION>Decrease of the plasma concentrations of delamanid due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
-<SEVERITY>CONTRAINDICATION</SEVERITY>
+<CLASS name="ANTIPURINES" code="ANTIPUR" /></DRUG2>
+<DESCRIPTION>Risk of increase of the myelosuppression effect of the immunomodulator by inhibition of its hepatic metabolism by the ASA derivative, especially with patients presenting a partial deficit of thiopurine methyltransferase (TMPT)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
 </INTERACTION>
 </INTERACTIONS>

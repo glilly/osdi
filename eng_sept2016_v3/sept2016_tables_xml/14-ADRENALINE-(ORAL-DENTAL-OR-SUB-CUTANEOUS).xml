@@ -7,18 +7,34 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="CYPROTERONE" rxcui="3014">
-<ATC code="G03HB01" />
+<DRUG name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)" rxcui="3992">
+<ATC code="A01AD01" />
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="APREPITANT" rxcui="358255">
-<ATC code="A04AD12" />
+<CLASS name="HALOGENATED HYDROCARBON ANESTHETICS" code="N01AB0-001" /></DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increased cardiac sensitization
+
+</DESCRIPTION>
+<SEVERITY>Precautions for use</SEVERITY>
+<COMMENT>Limit the amount of adrenaline, for example: less than 0.1 mg of adrenaline in 10 minutes or 0.3 mg per hour for an adult.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>14-ADRENALINE-(ORAL-DENTAL-OR-SUB-CUTANEOUS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)" rxcui="3992">
+<ATC code="A01AD01" />
 </DRUG>
-</DRUG2>
-<DESCRIPTION>Risk of decrease of the concentrations of cyproterone with risk of lower contraceptive effectiveness</DESCRIPTION>
+</DRUG1>
+<DRUG2>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001" /></DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increased cardiac sensitization</DESCRIPTION>
 <SEVERITY>Precaution for use</SEVERITY>
-<COMMENT>In its use as a hormonal contraceptive: </COMMENT>
+<COMMENT>Limit the amount of adrenaline, for example: less than 0.1 mg of adrenaline in 10 minutes or 0.3 mg in an hour for an adult.</COMMENT>
 </INTERACTION>
 <INTERACTION>
 <SOURCE>
@@ -27,18 +43,15 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="CYPROTERONE" rxcui="3014">
-<ATC code="G03HB01" />
+<DRUG name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)" rxcui="3992">
+<ATC code="A01AD01" />
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="BOSENTAN" rxcui="75207">
-<ATC code="C02KX01" />
-</DRUG>
-</DRUG2>
-<DESCRIPTION>Risk of decrease of the effectiveness of the cyproterone</DESCRIPTION>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increased cardiac sensitization</DESCRIPTION>
 <SEVERITY>Precaution for use</SEVERITY>
-<COMMENT>In its indications as an anti-androgen, clinical monitoring and if possible adjustment of the dosage of the cyproterone during the administration with the bosentan and after it is stopped.</COMMENT>
+<COMMENT>Limit the amount of adrenaline, for example: less than 0.1 mg of adrenaline in 10 minutes or 0.3 mg in an hour for an adult.</COMMENT>
 </INTERACTION>
 <INTERACTION>
 <SOURCE>
@@ -47,89 +60,14 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="CYPROTERONE" rxcui="3014">
-<ATC code="G03HB01" />
+<DRUG name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)" rxcui="3992">
+<ATC code="A01AD01" />
 </DRUG>
 </DRUG1>
 <DRUG2>
-<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
-<DESCRIPTION>Risk of decrease of the effectiveness of the cyproterone</DESCRIPTION>
-<SEVERITY>Not recommended:</SEVERITY>
-<COMMENT>-when used as a hormonal contraceptive: use of another method of contraception in particular a barrier type, is preferred during the length of the administration of these substances together and a cycle following</COMMENT>
-</INTERACTION>
-<INTERACTION>
-<SOURCE>
-<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>14-ADRENALINE-(ORAL-DENTAL-OR-SUB-CUTANEOUS).html
-</SOURCE_FILE>
-</SOURCE>
-<DRUG1>
-<DRUG name="CYPROTERONE" rxcui="3014">
-<ATC code="G03HB01" />
-</DRUG>
-</DRUG1>
-<DRUG2>
-<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
-<DESCRIPTION>Risk of decrease of the effectiveness of the cyproterone</DESCRIPTION>
-<SEVERITY>Not recommended</SEVERITY>
-<COMMENT>-in its use as a hormonal contraceptive: use instead another method of contraception in particular a barrier type, during the length of the administration of these substances together</COMMENT>
-</INTERACTION>
-<INTERACTION>
-<SOURCE>
-<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>14-ADRENALINE-(ORAL-DENTAL-OR-SUB-CUTANEOUS).html
-</SOURCE_FILE>
-</SOURCE>
-<DRUG1>
-<DRUG name="CYPROTERONE" rxcui="3014">
-<ATC code="G03HB01" />
-</DRUG>
-</DRUG1>
-<DRUG2>
-<DRUG name="ST JOHNS WORT" rxcui="258326">
-</DRUG>
-</DRUG2>
-<DESCRIPTION>Risk of decrease of the effectiveness of the cyproterone, due to increase of its hepatic metabolism by the St Johns Wort </DESCRIPTION>
-<SEVERITY>CONTRAINDICATION</SEVERITY>
-</INTERACTION>
-<INTERACTION>
-<SOURCE>
-<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>14-ADRENALINE-(ORAL-DENTAL-OR-SUB-CUTANEOUS).html
-</SOURCE_FILE>
-</SOURCE>
-<DRUG1>
-<DRUG name="CYPROTERONE" rxcui="3014">
-<ATC code="G03HB01" />
-</DRUG>
-</DRUG1>
-<DRUG2>
-<DRUG name="PERAMPANEL" rxcui="1356552">
-<ATC code="N03AX2" />
-</DRUG>
-</DRUG2>
-<DESCRIPTION>For doses of perampenel &gt;or = to 12 mg/day, risk of decrease of the effectiveness of the cyproterone.</DESCRIPTION>
-<SEVERITY>Not recommended</SEVERITY>
-<COMMENT>In its use as a hormonal contraceptive: use instead another method of contraception in particular a barrier type, during the length of the administration of these substances together.</COMMENT>
-</INTERACTION>
-<INTERACTION>
-<SOURCE>
-<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
-<SOURCE_FILE>14-ADRENALINE-(ORAL-DENTAL-OR-SUB-CUTANEOUS).html
-</SOURCE_FILE>
-</SOURCE>
-<DRUG1>
-<DRUG name="CYPROTERONE" rxcui="3014">
-<ATC code="G03HB01" />
-</DRUG>
-</DRUG1>
-<DRUG2>
-<DRUG name="ULIPRISTAL" rxcui="1005921">
-<ATC code="G03AD02" />
-</DRUG>
-</DRUG2>
-<DESCRIPTION>Risk of antagonism of the effects of the progestin</DESCRIPTION>
-<SEVERITY>Not recommended</SEVERITY>
-<COMMENT>Do not take a progestin treatment fewer than 12 hours after the ulipristal is stopped.</COMMENT>
+<CLASS name="MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS" code="N06A" /></DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increased cardiac sensitization.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Limit the amount of adrenaline, for example: less than 0.1 mg of adrenaline in 10 minutes or 0.3 mg in an hour for an adult.</COMMENT>
 </INTERACTION>
 </INTERACTIONS>
