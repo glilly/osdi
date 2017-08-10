@@ -1,0 +1,235 @@
+Corrections to tables and classes:
+
+in table 1-ABATACEPT
+     ANTI-TNF ALPHA should have class code 4ABO
+     (currently has RxNorm code not found)
+ done
+
+in table 109-CALCIUM
+   for ZINC, put a space after RxNorm:
+    was RxNorm:1431163
+    should be RxNorm: 1431163
+ done
+ 
+in 12-URSODEOXYCHOLIC-ACID
+    was: RxNorm: as Ursodiol 11065
+    should be: RxNorm: 11065
+ done
+
+in 123-CHLORPROMAZINE
+    missing RxNorm code for INSULIN
+ not done
+
+in 124-CICLOSPORIN
+    URSODEOXYCHOLIC ACID
+    was: RxNorm: as Ursodiol 11065
+    should be: RxNorm: 11065
+ done
+
+in 124-CICLOSPORIN
+   DABIGATRAN
+   remove: dabigatran etexilate in both RxNorm and ATC searches
+ done
+
+in 151-DABIGATRAN
+   DABIGATRAN
+   remove: dabigatran etexilate in both RxNorm and ATC searches
+   (repeated 11 times)
+ done
+
+in 175-DIGOXIN
+  for CALCIUM put a space after RxNorm:
+  was: RxNorm:1428011
+  should be: RxNorm: 1428011
+ done
+
+in 178-DILTIAZEM
+  for OLAPARIB the RxNorm and ATC appear to be backwards.. please check
+    RxNorm: L01XX46
+    ATC: 1597582
+ done
+
+in 181-DIPYRIDAMOLE
+   THEINE
+   RxNorm: not found
+   ATC: not found
+ not done
+
+in 226-IRON
+  add space after RxNorm:
+  IRON
+  was: RxNorm:1431589
+  shoule be: RxNorm: 1431589
+  (13 times in the file)
+ done
+
+in 230-FLECAINIDE
+  ABIRATERONE
+  RxNorm has space before the :
+  was: RxNorm : 1100072
+  should be: RxNorm: 1100072
+ done
+
+in 235-FLUOROURACIL-(AND,-BY-EXTRAPOLATION,-OTHER-FLUOROPYRIMIDINES)
+   need a single RxNorm and ATC code for INTERFERON ALPHA
+   No one RxNorm code nor ATC Code for this, a number of varieties of Interferon alpha.
+   Interferon alfa natural
+   RxNorm: 1431112
+   ATC: L03AB01
+   Interferon alfa-2a
+   RxNorm: 5879
+   ATC: L03AB04
+   Interferon alfa-2b
+   RxNorm: 5880
+   ATC: L03AB05
+   Interferon alfa-n1
+   RxNorm: 202912
+   ATC: L03AB06
+ not done
+
+in 283-ENZYMATIC-INDUCERS
+   SOFOSBUVIR
+   add space after RxNorm:
+   was: RxNorm:1484911
+   should be: RxNorm: 1484911
+ done
+
+in 292-STRONG-INHIBITORS-OF-CYP3A4
+    remove: RxNorm code found for ado-trastuzumab emtansine, the name used in the US<
+ done
+
+in 301-ITRACONAZOLE
+   remove: dabigatran etexilate in both RxNorm and ATC searches
+ done
+
+in 305-KETOCONAZOLE
+   remove: dabigatran etexilate in both RxNorm and ATC searches
+ done
+
+in 318-LITHIUM
+   SODIUM BICARBONATE
+   was: RxNorm:36676
+   should be: RxNorm: 36676
+ done
+
+in 33-AMIODARONE
+   AMIODARONE
+   remove space before :
+   was: RxNorm : 703
+   should be: RxNorm: 703
+   (27 times in the file)
+ done
+
+in 335-MIXED-ADRENERGIC-SEROTONINERGIC-MEDICATIONS
+   ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)
+    remove: RxNorm Codes that clearly indicated other routes such as topical or opthalmic were not included.
+ done
+
+in 356-ST-JOHNS-WORT
+   ST JOHNS WORT
+   remove: Hypericum perforatum
+   (50 times)
+ done
+
+in 363-MODAFINIL
+   SOFOSBUVIR
+   was: RxNorm:1484911
+   should be: RxNorm: 1484911
+ done
+
+in 381-NINTEDANIB
+   ERYTHROMYCIN
+   was: RxNorm; 4053
+   should be: RxNorm: 4053
+ done
+
+in 442-QUINIDINE
+   DABIGATRAN
+   remove: dabigatran etexilate in both RxNorm and ATC searches
+ done
+
+in 455-RIFAMPICIN
+   ARVEDILOL
+   was: RxNom: 20352
+   should be: RxNorm: 20352
+ done
+
+in 455-RIFAMPICIN
+    DABIGATRAN 
+    remove: dabigatran etexilate in both RxNorm and ATC searches
+ done
+
+in 460-ROPINIROLE
+    ENOXACIN
+    was: RxNorm 3925
+    should be: RxNorm: 3925
+ done
+
+in 471-SODIUM-BICARBONATE
+    SODIUM BICARBONATE
+    was: RxNorm 36676
+    should be: RxNorm: 36676
+ done
+
+in 473-SOFOSBUVIR
+    SOFOSBUVIR
+    was: RxNorm:1484911
+    should be: RxNorm: 1484911
+    (4 times)
+ done
+
+in 490-BLOOD-GLUCOSE-LOWERING-SULFONAMIDES
+   CHLORPROMAZINE
+   was: RxNorm:2403
+   should be: RxNorm: 2403
+ done
+
+in 499-TACROLIMUS
+   DABIGATRAN
+   remove: dabigatran etexilate in both RxNorm and ATC searches
+ done
+
+in 5-ACETYLSALICYLIC-ACID
+   UNFRACTIONATED HEPARIN (CURATIVE DOSES AND/OR OLDER PATIENTS)
+   remove: The RxNorm and ATC searches do not specify "unfractioned", "calcium", or "sodium" varieties of heparin, which are mentioned on the French document. There  is just heparin. There are different ATC codes for topical and ophthomological use, but the one below is for antithrombic use.
+   remove: Heparin
+ done
+
+in 526-TRASTUZUMAB-EMTANSINE
+   TRASTUZUMAB EMTANSINE
+   remove: code found for ado-trastuzumab emtansine which may or may not be the same medication
+   should be: RxNorm: 1371041
+ done
+
+in 53-ANTICONVULSANT-ENZYME-INDUCERS
+    DABIGATRAN
+    remove: dabigatran etexilate in both RxNorm and ATC searches
+    QUININE
+    was: RxNorm:9071
+    should be: RxNorm: 9071
+ done
+
+in 534-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE
+    ZONISAMIDE
+    was: RxNorm:39998
+    should be: RxNorm: 39998
+ done
+
+in 551-ZONISAMIDE
+    ZONISAMIDE
+    was: RxNorm:39998
+    should be: RxNorm: 39998
+ done
+
+in 72-VITAMIN-K-ANTAGONISTS
+    METHYLPREDNISOLONE
+    was: RxNorm : 6902
+    should be: RxNorm: 6902
+ done
+
+in 77-ATALUREN
+  ATALUREN
+  RxNorm: not found
+  we need an RxNorm number for ATALUREN
+ not done
+ 
