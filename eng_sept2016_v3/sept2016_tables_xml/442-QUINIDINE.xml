@@ -69,8 +69,8 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="1037042" />
+<DRUG name="DABIGATRAN" rxcui="1037042">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG2>
 <DESCRIPTION>Increase of the plasma concentrations of dabigatran, with increase of the risk of bleeding</DESCRIPTION>

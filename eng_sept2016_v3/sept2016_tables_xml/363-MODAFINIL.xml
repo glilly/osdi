@@ -49,7 +49,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="SOFOSBUVIR" rxcui="">
+<DRUG name="SOFOSBUVIR" rxcui="1484911">
 <ATC code="J05AX15" />
 </DRUG>
 </DRUG2>

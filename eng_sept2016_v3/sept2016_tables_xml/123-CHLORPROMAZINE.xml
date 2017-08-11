@@ -12,7 +12,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="INSULIN" rxcui="">
+<DRUG name="INSULIN" rxcui="631657">
 <ATC code="5856" />
 </DRUG>
 </DRUG2>

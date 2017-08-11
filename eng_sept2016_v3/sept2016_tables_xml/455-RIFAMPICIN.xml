@@ -281,7 +281,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="CARVEDILOL" rxcui="">
+<DRUG name="CARVEDILOL" rxcui="20352">
 <ATC code="C07AG02" />
 </DRUG>
 </DRUG2>
@@ -360,8 +360,8 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="1037042" />
+<DRUG name="DABIGATRAN" rxcui="1037042">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG2>
 <DESCRIPTION>Decrease of the plasma concentrations of dabigatran, with risk of decrease of the therapeutic effect</DESCRIPTION>
@@ -665,7 +665,7 @@ risk of severe hepatocellular toxicity</DESCRIPTION>
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="IVABRADINE" rxcui="77417">
+<DRUG name="IVABRADINE" rxcui="1649480">
 <ATC code="C01EB17" />
 </DRUG>
 </DRUG2>

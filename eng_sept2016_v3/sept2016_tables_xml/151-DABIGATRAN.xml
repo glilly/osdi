@@ -7,8 +7,8 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="1037042" />
+<DRUG name="DABIGATRAN" rxcui="1037042">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG1>
 <DRUG2>
@@ -29,8 +29,8 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="1037042" />
+<DRUG name="DABIGATRAN" rxcui="1037042">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG1>
 <DRUG2>
@@ -47,8 +47,8 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="1037042" />
+<DRUG name="DABIGATRAN" rxcui="1037042">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG1>
 <DRUG2>
@@ -67,8 +67,8 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="1037042" />
+<DRUG name="DABIGATRAN" rxcui="1037042">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG1>
 <DRUG2>
@@ -86,8 +86,8 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="1037042" />
+<DRUG name="DABIGATRAN" rxcui="1037042">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG1>
 <DRUG2>
@@ -105,8 +105,8 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="1037042" />
+<DRUG name="DABIGATRAN" rxcui="1037042">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG1>
 <DRUG2>
@@ -126,8 +126,8 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="1037042" />
+<DRUG name="DABIGATRAN" rxcui="1037042">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG1>
 <DRUG2>
@@ -146,8 +146,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="1037042" />
+<DRUG name="DABIGATRAN" rxcui="1037042">
 <ATC code="B01AE07" />
 </DRUG>
 </DRUG1>
@@ -166,8 +165,8 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="103704" />
+<DRUG name="DABIGATRAN" rxcui="103704">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG1>
 <DRUG2>
@@ -187,8 +186,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="103704" />
+<DRUG name="DABIGATRAN" rxcui="103704">
 <ATC code="B01AE07" />
 </DRUG>
 </DRUG1>
@@ -207,8 +205,8 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="103704" />
+<DRUG name="DABIGATRAN" rxcui="103704">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG1>
 <DRUG2>

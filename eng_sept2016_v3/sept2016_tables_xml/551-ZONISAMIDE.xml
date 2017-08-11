@@ -7,7 +7,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="ZONISAMIDE" rxcui="">
+<DRUG name="ZONISAMIDE" rxcui="39998">
 <ATC code="N03AX15" />
 </DRUG>
 </DRUG1>

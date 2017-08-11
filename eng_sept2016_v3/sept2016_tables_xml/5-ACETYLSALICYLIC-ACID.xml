@@ -243,7 +243,8 @@ Acute renal insufficiency in dehydrated patients, due to decrease of the glomeru
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="UNFRACTIONATED HEPARIN (CURATIVE DOSES AND/OR OLDER PATIENTS)" rxcui="">
+<DRUG name="UNFRACTIONATED HEPARIN (CURATIVE DOSES AND/OR OLDER PATIENTS)" rxcui="5224">
+<ATC code="B01AB01" />
 </DRUG>
 </DRUG2>
 <DESCRIPTION>Increase of the risk of hemorrhage (inhibition of the platelet function and irritation of the gastro duodenal mucosa by the acetylsalicylic acid)</DESCRIPTION>

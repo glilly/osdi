@@ -9,7 +9,7 @@
 <DRUG1>
 <CLASS name="THIAZIDE DIURETICS AND RELATED" code="C03-003" /></DRUG1>
 <DRUG2>
-<DRUG name="CALCIUM" rxcui="1428011">
+<DRUG name="CALCIUM" rxcui="1895">
 <ATC code="A12AA" />
 </DRUG>
 </DRUG2>

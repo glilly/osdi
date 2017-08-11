@@ -41,7 +41,14 @@
 <DRUG1>
 <CLASS name="FLUOROURACIL (AND, BY EXTRAPOLATION, OTHER FLUOROPYRIMIDINES)" code="L01BC-001" /></DRUG1>
 <DRUG2>
-<DRUG name="INTERFERON ALFA" rxcui="">
+<DRUG name="INTERFERON ALFA" rxcui="1431112">
+<ATC code="L03AB01" />
+<ATC code="5879" />
+<ATC code="L03AB04" />
+<ATC code="5880" />
+<ATC code="L03AB05" />
+<ATC code="202912" />
+<ATC code="L03AB06" />
 </DRUG>
 </DRUG2>
 <DESCRIPTION>Increase of the gastrointestinal toxicity of the fluorouracil</DESCRIPTION>

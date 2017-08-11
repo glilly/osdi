@@ -13,7 +13,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="URSODEOXYCHOLIC ACID" rxcui="">
+<DRUG name="URSODEOXYCHOLIC ACID" rxcui="11065">
 <ATC code="A05AA02" />
 </DRUG>
 </DRUG2>
@@ -346,8 +346,8 @@ reduction of the blood concentrations of ciclosporin (decrease of its intestinal
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="1037042" />
+<DRUG name="DABIGATRAN" rxcui="1037042">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG2>
 <DESCRIPTION>Increase by more than double of the plasma concentrations of dabigatran, with increase of the risk of bleeding</DESCRIPTION>

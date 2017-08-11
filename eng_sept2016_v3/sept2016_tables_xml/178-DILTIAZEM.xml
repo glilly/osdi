@@ -282,7 +282,7 @@ For diltiazem by mouth: risk of bradycardia or of atrioventricular block, especi
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="IVABRADINE" rxcui="77417">
+<DRUG name="IVABRADINE" rxcui="1649480">
 <ATC code="C01EB17" />
 </DRUG>
 </DRUG2>
@@ -340,8 +340,8 @@ For diltiazem by mouth: risk of bradycardia or of atrioventricular block, especi
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="OLAPARIB" rxcui="">
-<ATC code="1597582" />
+<DRUG name="OLAPARIB" rxcui="1597582">
+<ATC code="L01XX46" />
 </DRUG>
 </DRUG2>
 <DESCRIPTION>Increase of the plasma concentrations of olaparib by the diltiazem</DESCRIPTION>

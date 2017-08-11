@@ -622,7 +622,11 @@ increase of the effect of the vitamin K antagonist and of the risk of hemorrhage
 <DRUG1>
 <CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
 <DRUG2>
-<DRUG name="METHYLPREDNISOLONE " rxcui="">
+<DRUG name="METHYLPREDNISOLONE " rxcui="6902">
+<ATC code="D07AA01" />
+<ATC code="D10AA02" />
+<ATC code="H02AB04" />
+<ATC code="D07CA02" />
 </DRUG>
 </DRUG2>
 <DESCRIPTION>For doses of 0.5g to 1g of methylprednisolone administered in bolus: increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>

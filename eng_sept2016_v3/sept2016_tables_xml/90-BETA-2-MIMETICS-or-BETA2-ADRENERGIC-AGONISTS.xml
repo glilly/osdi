@@ -26,7 +26,7 @@
 <DRUG1>
 <CLASS name="BETA-2 MIMETICS or BETA2 ADRENERGIC AGONISTS" code="R03C-001" /></DRUG1>
 <DRUG2>
-<DRUG name="INSULIN" rxcui="5856">
+<DRUG name="INSULIN" rxcui="631657">
 <ATC code="A10AC01" />
 <ATC code="A10AC02" />
 <ATC code="A10AC03" />

@@ -12,7 +12,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="ABIRATERONE" rxcui="">
+<DRUG name="ABIRATERONE" rxcui="1100072">
 <ATC code="L02BX03" />
 </DRUG>
 </DRUG2>

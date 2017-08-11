@@ -7,7 +7,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="SOFOSBUVIR" rxcui="">
+<DRUG name="SOFOSBUVIR" rxcui="1484911">
 <ATC code="J05AX15" />
 </DRUG>
 </DRUG1>
@@ -29,7 +29,7 @@ Possibly abrupt onset of bradycardia, that can have fatal consequences </DESCRIP
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="SOFOSBUVIR" rxcui="">
+<DRUG name="SOFOSBUVIR" rxcui="1484911">
 <ATC code="J05AX15" />
 </DRUG>
 </DRUG1>
@@ -46,7 +46,7 @@ Possibly abrupt onset of bradycardia, that can have fatal consequences </DESCRIP
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="SOFOSBUVIR" rxcui="">
+<DRUG name="SOFOSBUVIR" rxcui="1484911">
 <ATC code="J05AX15" />
 </DRUG>
 </DRUG1>
@@ -64,7 +64,7 @@ Possibly abrupt onset of bradycardia, that can have fatal consequences </DESCRIP
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="SOFOSBUVIR" rxcui="">
+<DRUG name="SOFOSBUVIR" rxcui="1484911">
 <ATC code="J05AX15" />
 </DRUG>
 </DRUG1>

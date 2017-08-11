@@ -7,7 +7,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="INSULIN" rxcui="5856">
+<DRUG name="INSULIN" rxcui="631657">
 <ATC code="A10AC01" />
 <ATC code="A10AC02" />
 <ATC code="A10AC03" />
@@ -40,7 +40,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="INSULIN" rxcui="5856">
+<DRUG name="INSULIN" rxcui="631657">
 <ATC code="A10AC01" />
 <ATC code="A10AC02" />
 <ATC code="A10AC03" />
@@ -71,7 +71,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="INSULIN" rxcui="5856">
+<DRUG name="INSULIN" rxcui="631657">
 <ATC code="A10AC01" />
 <ATC code="A10AC02" />
 <ATC code="A10AC03" />
@@ -102,7 +102,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="INSULIN" rxcui="5856">
+<DRUG name="INSULIN" rxcui="631657">
 <ATC code="A10AC01" />
 <ATC code="A10AC02" />
 <ATC code="A10AC03" />
@@ -133,7 +133,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="INSULIN" rxcui="5856">
+<DRUG name="INSULIN" rxcui="631657">
 <ATC code="A10AC01" />
 <ATC code="A10AC02" />
 <ATC code="A10AC03" />
@@ -164,7 +164,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="INSULIN" rxcui="5856">
+<DRUG name="INSULIN" rxcui="631657">
 <ATC code="A10AC01" />
 <ATC code="A10AC02" />
 <ATC code="A10AC03" />
@@ -198,7 +198,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="INSULIN" rxcui="5856">
+<DRUG name="INSULIN" rxcui="631657">
 <ATC code="A10AC01" />
 <ATC code="A10AC02" />
 <ATC code="A10AC03" />

@@ -192,8 +192,8 @@
 <DRUG1>
 <CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
 <DRUG2>
-<DRUG name="DABIGATRAN" rxcui="">
-<ATC code="1037042" />
+<DRUG name="DABIGATRAN" rxcui="1037042">
+<ATC code="B01AE07" />
 </DRUG>
 </DRUG2>
 <DESCRIPTION>Decrease of the plasma concentrations of dabigatran, with risk of decrease of the therapeutic effect</DESCRIPTION>
@@ -403,7 +403,7 @@
 <DRUG1>
 <CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
 <DRUG2>
-<DRUG name="IVABRADINE" rxcui="77417">
+<DRUG name="IVABRADINE" rxcui="1649480">
 <ATC code="C01EB17" />
 </DRUG>
 </DRUG2>
@@ -626,7 +626,7 @@
 <DRUG1>
 <CLASS name="ANTICONVULSANT ENZYME INDUCERS" code="N03A-001" /></DRUG1>
 <DRUG2>
-<DRUG name="QUININE" rxcui="">
+<DRUG name="QUININE" rxcui="9071">
 <ATC code="P01BC01" />
 </DRUG>
 </DRUG2>

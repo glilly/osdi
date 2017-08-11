@@ -73,7 +73,11 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="ERYTHROMYCIN" rxcui="">
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
 </DRUG>
 </DRUG2>
 <DESCRIPTION>Increase of the plasma concentrations of the nintedanib by increase of its absorption by the erythromycin</DESCRIPTION>

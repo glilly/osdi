@@ -164,7 +164,7 @@ Acute renal insufficiency in dehydrated patients due to decreased glomerular fil
 <DRUG1>
 <CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
 <DRUG2>
-<DRUG name="INSULIN" rxcui="5856">
+<DRUG name="INSULIN" rxcui="631657">
 <ATC code="A10AC01" />
 <ATC code="A10AC02" />
 <ATC code="A10AC03" />

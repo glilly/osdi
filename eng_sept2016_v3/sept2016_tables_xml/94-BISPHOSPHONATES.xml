@@ -9,7 +9,7 @@
 <DRUG1>
 <CLASS name="BISPHOSPHONATES" code="M05B-001" /></DRUG1>
 <DRUG2>
-<DRUG name="CALCIUM" rxcui="1428011">
+<DRUG name="CALCIUM" rxcui="1895">
 <ATC code="A12AA" />
 </DRUG>
 </DRUG2>
@@ -26,7 +26,7 @@
 <DRUG1>
 <CLASS name="BISPHOSPHONATES" code="M05B-001" /></DRUG1>
 <DRUG2>
-<DRUG name="IRON" rxcui="1431589">
+<DRUG name="IRON" rxcui="90176">
 <ATC code="B03A" />
 </DRUG>
 </DRUG2>

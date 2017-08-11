@@ -52,7 +52,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="ENOXACIN" rxcui="">
+<DRUG name="ENOXACIN" rxcui="3925">
 <ATC code="J01MA04" />
 </DRUG>
 </DRUG2>

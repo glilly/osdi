@@ -13,7 +13,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="CALCIUM" rxcui="1428011">
+<DRUG name="CALCIUM" rxcui="1895">
 <ATC code="A12AA" />
 </DRUG>
 </DRUG2>
@@ -52,7 +52,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="IRON" rxcui="1431589">
+<DRUG name="IRON" rxcui="90176">
 <ATC code="B03A" />
 </DRUG>
 </DRUG2>
@@ -91,7 +91,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="ZINC" rxcui="1431163">
+<DRUG name="ZINC" rxcui="11416">
 <ATC code="A12CB" />
 </DRUG>
 </DRUG2>

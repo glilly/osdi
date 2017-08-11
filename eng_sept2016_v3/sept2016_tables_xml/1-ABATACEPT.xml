@@ -12,9 +12,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="ANTI-TNF ALPHA" rxcui="">
-</DRUG>
-</DRUG2>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG2>
 <DESCRIPTION>Increase of immunosupression</DESCRIPTION>
 <SEVERITY>Not recommended</SEVERITY>
 </INTERACTION>

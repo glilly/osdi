@@ -475,7 +475,7 @@
 <DRUG1>
 <CLASS name="STRONG INHIBITORS OF CYP3A4 " code="J02-J05" /></DRUG1>
 <DRUG2>
-<DRUG name="IVABRADINE" rxcui="77417">
+<DRUG name="IVABRADINE" rxcui="1649480">
 <ATC code="C01EB17" />
 </DRUG>
 </DRUG2>
@@ -865,8 +865,8 @@
 <DRUG1>
 <CLASS name="STRONG INHIBITORS OF CYP3A4 " code="J02-J05" /></DRUG1>
 <DRUG2>
-<DRUG name="TRASTUZUMAB EMTANSINE" rxcui="">
-<ATC code="1371041" />
+<DRUG name="TRASTUZUMAB EMTANSINE" rxcui="1371041">
+<ATC code="L01XC14" />
 </DRUG>
 </DRUG2>
 <DESCRIPTION>Increase of the plasma concentrations of the DM1, a componant element of the trastuzumab emtansine, due to inhibition of its metabolism by the inhibitor</DESCRIPTION>

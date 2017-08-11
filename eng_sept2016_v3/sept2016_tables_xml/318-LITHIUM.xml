@@ -351,7 +351,10 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<DRUG name="SODIUM BICARBONATE" rxcui="">
+<DRUG name="SODIUM BICARBONATE" rxcui="36676">
+<ATC code="A02AH" />
+<ATC code="B05CB04" />
+<ATC code="B05XA02" />
 </DRUG>
 </DRUG2>
 <DESCRIPTION>Risk of reduction of the effectiveness of the lithium due to increase of its renal elimination by the sodium salts</DESCRIPTION>

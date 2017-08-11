@@ -31,7 +31,7 @@ reduction of the blood concentrations of ciclosporin (decrease of its intestinal
 <DRUG1>
 <CLASS name="SOMATOSTATIN ANALOGS" code="H01CB0-001" /></DRUG1>
 <DRUG2>
-<DRUG name="INSULIN" rxcui="5856">
+<DRUG name="INSULIN" rxcui="631657">
 <ATC code="A10AC01" />
 <ATC code="A10AC02" />
 <ATC code="A10AC03" />
