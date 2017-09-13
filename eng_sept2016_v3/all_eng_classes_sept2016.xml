@@ -103,11 +103,9 @@
 <SOURCE_FILE>ALPHA-AND-BETA-SYMPATHOMIMETICS-(IM-AND-IV-ROUTES).html
 </SOURCE_FILE>
 </SOURCE>
-<DRUG name="" rxnorm="3992">
 <DRUG name="Dopamine" rxnorm="3628">
 <ATC code="C01CA04" />
 </DRUG>
-<DRUG name="" rxnorm="7512">
 </CLASS>
 <CLASS name="ALPHA BLOCKERS FOR UROLOGICAL USE" code="G04CA-001">
 <SOURCE>
@@ -3063,9 +3061,9 @@
 </DRUG>
 <DRUG name="Dexketoprofen trometamol" rxnorm="233386">
 <ATC code="for" />
-<ATC code=""" />
+<ATC code="" />
 <ATC code="Dexketoprofen" />
-<ATC code=""" />
+<ATC code="" />
 <ATC code="M01AE17" />
 </DRUG>
 <DRUG name="Diclofenac" rxnorm="3355">
