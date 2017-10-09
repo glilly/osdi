@@ -7,7 +7,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ANTI-TNF ALPHA" code="LO4AB" /></DRUG1>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG1>
 <DRUG2>
 <DRUG name="ABATACEPT " rxcui="614391">
 <ATC code="L04AA24" />
@@ -23,7 +23,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ANTI-TNF ALPHA" code="LO4AB" /></DRUG1>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG1>
 <DRUG2>
 <DRUG name="ANAKINRA" rxcui="72435">
 <ATC code="L04AC03" />
@@ -39,7 +39,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ANTI-TNF ALPHA" code="LO4AB" /></DRUG1>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG1>
 <DRUG2>
 <DRUG name="CANAKINUMAB" rxcui="853491">
 <ATC code="L04AC08" />
@@ -55,7 +55,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ANTI-TNF ALPHA" code="LO4AB" /></DRUG1>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG1>
 <DRUG2>
 <CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG2>
 <DESCRIPTION>Risk of general vaccine disease possibly fatal</DESCRIPTION>

@@ -141,7 +141,7 @@ increased risk of nephrotoxicity </DESCRIPTION>
 <DRUG1>
 <CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
 <DRUG2>
-<CLASS name="PLATINUM-BASED ANTINEOPLASTIC DRUGS" code="ORGAPLA" /></DRUG2>
+<CLASS name="PLATINUM-BASED ANTINEOPLASTIC DRUGS" code="L01XA" /></DRUG2>
 <DESCRIPTION>Addition of the nephrotoxic and/or ototoxic effects, especially in the case of pre-existing renal insufficiency</DESCRIPTION>
 <SEVERITY>Take into account</SEVERITY>
 </INTERACTION>

@@ -25151,7 +25151,7 @@ increased risk of nephrotoxicity </DESCRIPTION>
 <DRUG1>
 <CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
 <DRUG2>
-<CLASS name="PLATINUM-BASED ANTINEOPLASTIC DRUGS" code="ORGAPLA" /></DRUG2>
+<CLASS name="PLATINUM-BASED ANTINEOPLASTIC DRUGS" code="L01XA" /></DRUG2>
 <DESCRIPTION>Addition of the nephrotoxic and/or ototoxic effects, especially in the case of pre-existing renal insufficiency</DESCRIPTION>
 <SEVERITY>Take into account</SEVERITY>
 </INTERACTION>
@@ -41199,7 +41199,7 @@ In the treatment of class III or IV heart failure (NYHA) with an ejection fracti
 </DRUG>
 </DRUG1>
 <DRUG2>
-<CLASS name="ACETYLCHOLINESTERASE INHIBITORS" code="ACETCHO" /></DRUG2>
+<CLASS name="ACETYLCHOLINESTERASE INHIBITORS" code="NO6DA-001" /></DRUG2>
 <DESCRIPTION>Risk of lengthening of the motor block, increased in the case of partial deficit of pseudo-cholinesterase </DESCRIPTION>
 <SEVERITY>Take into account</SEVERITY>
 </INTERACTION>
@@ -43921,7 +43921,7 @@ In the treatment of class III or IV heart failure (NYHA) with an ejection fracti
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ACETYL-CHOLINESTERASE INHIBITORS" code="ACETCHO" /></DRUG1>
+<CLASS name="ACETYL-CHOLINESTERASE INHIBITORS" code="NO6DA-001" /></DRUG1>
 <DRUG2>
 <CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
 <DESCRIPTION>Risk of excessive bradycardia (addition of the bradycardia inducing effects)
@@ -43937,7 +43937,7 @@ In the treatment of class III or IV heart failure (NYHA) with an ejection fracti
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ACETYL-CHOLINESTERASE INHIBITORS" code="ACETCHO" /></DRUG1>
+<CLASS name="ACETYL-CHOLINESTERASE INHIBITORS" code="NO6DA-001" /></DRUG1>
 <DRUG2>
 <DRUG name="PILOCARPINE" rxcui="8328">
 <ATC code="N07AX01" />
@@ -43955,7 +43955,7 @@ In the treatment of class III or IV heart failure (NYHA) with an ejection fracti
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ACETYL-CHOLINESTERASE INHIBITORS" code="ACETCHO" /></DRUG1>
+<CLASS name="ACETYL-CHOLINESTERASE INHIBITORS" code="NO6DA-001" /></DRUG1>
 <DRUG2>
 <DRUG name="SUXAMETHONIUM" rxcui="10154">
 <ATC code="M03AB01" />
@@ -44935,7 +44935,7 @@ With trimethoprime (alone or in combination) by IV route: the decrease of the bl
 <DRUG1>
 <CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
 <DRUG2>
-<CLASS name="ANTI-TNF ALPHA" code="LO4AB" /></DRUG2>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG2>
 <DESCRIPTION>Risk of possibly fatal general vaccine disease </DESCRIPTION>
 <SEVERITY>CONTRAINDICATION</SEVERITY>
 <COMMENT>And during the 3 months following the end of the treatment</COMMENT>
@@ -49261,7 +49261,7 @@ Acute renal insufficiency in dehydrated patients, due to decreased glomerular fi
 <DRUG1>
 <CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
 <DRUG2>
-<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSR1s)" code="NO6AB" /></DRUG2>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSR1s)" code="N06AB" /></DRUG2>
 <DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
 <SEVERITY>Take into account</SEVERITY>
 </INTERACTION>
@@ -49852,7 +49852,7 @@ Acute renal insufficiency in dehydrated patients, due to decreased glomerular fi
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ANTI-TNF ALPHA" code="LO4AB" /></DRUG1>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG1>
 <DRUG2>
 <DRUG name="ABATACEPT " rxcui="614391">
 <ATC code="L04AA24" />
@@ -49868,7 +49868,7 @@ Acute renal insufficiency in dehydrated patients, due to decreased glomerular fi
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ANTI-TNF ALPHA" code="LO4AB" /></DRUG1>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG1>
 <DRUG2>
 <DRUG name="ANAKINRA" rxcui="72435">
 <ATC code="L04AC03" />
@@ -49884,7 +49884,7 @@ Acute renal insufficiency in dehydrated patients, due to decreased glomerular fi
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ANTI-TNF ALPHA" code="LO4AB" /></DRUG1>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG1>
 <DRUG2>
 <DRUG name="CANAKINUMAB" rxcui="853491">
 <ATC code="L04AC08" />
@@ -49900,7 +49900,7 @@ Acute renal insufficiency in dehydrated patients, due to decreased glomerular fi
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<CLASS name="ANTI-TNF ALPHA" code="LO4AB" /></DRUG1>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG1>
 <DRUG2>
 <CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG2>
 <DESCRIPTION>Risk of general vaccine disease possibly fatal</DESCRIPTION>
@@ -50299,7 +50299,7 @@ Decrease of the effect of the vitamin K antagonist, due to increase of its hepat
 <DRUG1>
 <CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
 <DRUG2>
-<CLASS name="TETRACYCLINE ANTIBIOTICS" code="D06AA-J01AA" /></DRUG2>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG2>
 <DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
 <SEVERITY>Precaution for use</SEVERITY>
 <COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the tetracycline antibiotic and after it is stopped</COMMENT>
@@ -52672,7 +52672,7 @@ increase of the effect of the vitamin K antagonist and of the risk of hemorrhage
 <DRUG1>
 <CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG1>
 <DRUG2>
-<CLASS name="ACETYLCHOLINESTERASE INHIBITORS" code="ACETCHO" /></DRUG2>
+<CLASS name="ACETYLCHOLINESTERASE INHIBITORS" code="NO6DA-001" /></DRUG2>
 <DESCRIPTION>Risk of excessive bradycardia (addition of the bradycardia inducing effects)</DESCRIPTION>
 <SEVERITY>Precaution for use</SEVERITY>
 <COMMENT>Regular clinical monitoring, especially at the beginning of the administration of the substances together </COMMENT>

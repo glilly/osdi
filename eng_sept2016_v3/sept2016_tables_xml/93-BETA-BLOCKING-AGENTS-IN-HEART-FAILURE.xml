@@ -53,7 +53,7 @@
 <DRUG1>
 <CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG1>
 <DRUG2>
-<CLASS name="ACETYLCHOLINESTERASE INHIBITORS" code="ACETCHO" /></DRUG2>
+<CLASS name="ACETYLCHOLINESTERASE INHIBITORS" code="NO6DA-001" /></DRUG2>
 <DESCRIPTION>Risk of excessive bradycardia (addition of the bradycardia inducing effects)</DESCRIPTION>
 <SEVERITY>Precaution for use</SEVERITY>
 <COMMENT>Regular clinical monitoring, especially at the beginning of the administration of the substances together </COMMENT>

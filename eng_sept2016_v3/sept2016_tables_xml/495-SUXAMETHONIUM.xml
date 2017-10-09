@@ -12,7 +12,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<CLASS name="ACETYLCHOLINESTERASE INHIBITORS" code="ACETCHO" /></DRUG2>
+<CLASS name="ACETYLCHOLINESTERASE INHIBITORS" code="NO6DA-001" /></DRUG2>
 <DESCRIPTION>Risk of lengthening of the motor block, increased in the case of partial deficit of pseudo-cholinesterase </DESCRIPTION>
 <SEVERITY>Take into account</SEVERITY>
 </INTERACTION>

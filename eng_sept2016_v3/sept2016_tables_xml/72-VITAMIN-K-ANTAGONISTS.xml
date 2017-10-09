@@ -291,7 +291,7 @@ Decrease of the effect of the vitamin K antagonist, due to increase of its hepat
 <DRUG1>
 <CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG1>
 <DRUG2>
-<CLASS name="TETRACYCLINE ANTIBIOTICS" code="D06AA-J01AA" /></DRUG2>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG2>
 <DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
 <SEVERITY>Precaution for use</SEVERITY>
 <COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the tetracycline antibiotic and after it is stopped</COMMENT>

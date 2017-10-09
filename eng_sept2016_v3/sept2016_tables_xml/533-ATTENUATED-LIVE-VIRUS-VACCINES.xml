@@ -40,7 +40,7 @@
 <DRUG1>
 <CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
 <DRUG2>
-<CLASS name="ANTI-TNF ALPHA" code="LO4AB" /></DRUG2>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG2>
 <DESCRIPTION>Risk of possibly fatal general vaccine disease </DESCRIPTION>
 <SEVERITY>CONTRAINDICATION</SEVERITY>
 <COMMENT>And during the 3 months following the end of the treatment</COMMENT>
